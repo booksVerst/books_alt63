@@ -1,0 +1,298 @@
+ Ударение: &#x301;
+
+  пробел - &#160;
+    ударение - &#x301;
+    градус - °
+    умножение - ⋅
+    ~равно - ≈
+    плотность - ρ
+    стрелка вправо - &#8594;
+    стрелка влево - &#8592;
+    минуты - ′
+    верхняя запятая - &#8217;
+    пустой квадрад - &#9723;
+    &lt;…&gt; 
+    &#42; звездочка
+    <pink>&#9632;</pink>
+    <pink>■</pink>
+Перед длинным тире, между инициалами, инициалом и фамилией, сокращённым обозначением года, века, единицы измерения, и с прочими сокращениями ставим неразрывный пробел &#160;
+Между датами – неразрывное тире: &#8211;
+Перед буквенными наращениями числительных – неразрывный дефис: 
+&#8209;
+
+    <image_block class="full-width" interactivity="no">
+        <img url="Data\images\glava1.png" />
+    </image_block>
+
+
+<p><image_block class="full-width">
+     <img url="Data\images\40.png"/>
+    <p align="center"><sans></sans></p>
+</image_block></p>
+
+
+<footnote><brief><image_block display="inline" width="25px" ><img url="Data\icons\star.png" /></image_block></brief>Задания и вопросы повышенного уровня сложности.</footnote>
+
+<footnote><brief>СЮДА ЦИФРУ(КАРТИНКУ)</brief>описание КАРТИНКИ, ТО ЧТО В СНОСКЕ</footnote>
+
+
+<table width="100%" border-style="none">
+    <tr>
+        <td width="10%" text-valign="top">
+            <p><image_block display="inline" width="60px" interactivity="no"><img url="Data\icons\povtor.png" /></image_block></p>
+        </td>
+        <td width="90%">
+            <p ><sans></sans></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="10%">
+        </td>
+        <td width="90%">
+            <p margin_top="0"><pink>&#9632;</pink><sans>&#160;</sans></p>
+        </td>
+    </tr>
+</table>
+
+<!-- стихи -->
+
+<table width="100%" border-style="none">
+         <tr>
+             <td width="3%" text-align="right" text-valign="top">1</td>
+             <td width="97%" text-align="left" text-valign="top"><media_container padding-left="10px">О доблестях о подвигах о слав..</media_container></td> 
+         </tr>
+         <tr>
+             <td width="3%" text-align="right" text-valign="top"></td>
+             <td width="97%" text-align="left" text-valign="top"><media_container padding-left="10px">Я забывал на горес(?)ной земле</media_container></td> 
+         </tr>
+     </table>
+
+<!-- Изображения -->
+
+<!-- По ширине текста -->
+<image_block class="full-width">
+	<img url="Data\images\1sm_new.png" />
+	<p></p>
+</image_block>
+
+<!-- Внутри текста с обтеканием -->
+<image_block class="inner">
+	<img url="Data\images\1sm_new.png"/>
+	<p></p>
+</image_block>
+
+<!-- Демонстрационный опыт -->
+<image_block class="inner_left" width="40px">
+	<img url="Data\images\1sm_new.png"/>
+</image_block>
+
+<!-- Стрелки -->
+<image_block class="inner_arrow" width="25px">
+	<img url="Data\images\1sm_new.png"/>
+</image_block>
+
+<image_block class="inner_arrow" width="25px">
+	<img url="Data\images\1sm_new.png"/>
+</image_block>
+
+<image_block class="inner_arrow" width="25px">
+	<img url="Data\images\1sm_new.png"/>
+</image_block>
+
+
+<!-- Текст-блоки -->
+<!-- Начало главы -->
+<ul class="colorize">
+	<li><sans></sans></li>
+	<li><sans></sans></li>
+</ul>
+<!-- ПРОВЕРЬТЕ СЕБЯ -->
+    <table width="100%">
+        <tr>
+            <td width="5%" border-style="none none solid none" border-size="3px" border-color="ec008d"><image_block display="inline" width="15px" interactivity="no"><img url="Data\icons\question.png" /></image_block></td>
+            <td width="15%" border-style="none none solid none" border-size="3px" border-color="ec008d"><pink>Проверьте&#160;себя</pink></td>
+
+            <td width="80%" border-style="none none solid none" border-size="3px" border-color="ec008d">&#160;</td>
+        </tr>
+    </table>
+
+<!-- Вы узнаете -->
+<ul class="colorize">
+	<header>Вы узнаете:</header>
+	<li><sans></sans></li>
+	<li><sans></sans></li>
+	<li/>
+	<header>Вспомните:</header>
+	<li><sans></sans></li>
+</ul>
+
+<!-- Краткая биография на полях -->
+<image_block class="inner" interactivity="no">
+	<img url="Data\images\1sm_new.png"/>
+	<p><sans_small_b>Аристотель</sans_small_b><sans_small> (384&#8211;322&#160;гг.&#160;до&#160;н.&#160;э.) </sans_small></p>
+	<caption_note><sans_small>Великий древнегреческий мыслитель.</sans_small></caption_note>
+</image_block>
+
+<!-- Иконка-ссылка "Блокнот" на полях -->
+<text_block class="note">
+	<p><sans_b></sans_b><sans></sans></p>
+</text_block>
+
+<!-- Жёлтый блок с лупой -->
+<text_block class="piece">
+	<p></p>
+	<p margin_top="0"></p>
+</text_block>
+
+<!-- Физический калейдоскоп -->
+<text_block class="kaleidoscope">
+	<p><sans_b></sans_b><sans></sans></p>
+	<p margin_top="0"><sans></sans></p>
+</text_block>
+
+<!-- Внимание! -->
+<text_block class="attention">
+	<p><sans></sans></p>
+	<p margin_top="0"><sans></sans></p>
+</text_block>
+
+<!-- Вопросы -->
+<ul class="colorize">
+	<header>ВОПРОСЫ И ЗАДАНИЯ:</header>
+	<li><sans></sans></li>
+	<li><sans></sans></li>
+</ul>
+
+<!-- Конец главы -->
+<!-- Подведём итоги -->
+<ul marker="none">
+	<li><orange_dot>●</orange_dot>&#160;</li>
+	<li><orange_dot>●</orange_dot>&#160;</li>
+	<li><orange_dot>●</orange_dot>&#160;</li>
+</ul>
+
+<!-- Подробнее -->
+<table border-style="none" width="100%">
+    <tr>
+        <td width="30px">
+        	<image_block class="top-bottom" width="25px">
+        		<img url="Data\images\1sm_new.png" />
+        	</image_block>
+        </td>
+        <td width="20px">&#160;</td>
+        <td></td>
+    </tr>
+</table>
+
+<!-- Ссылки -->
+<table border-style="none" width="100%">
+	<tr><td colspan="2"><sans_b></sans_b></td></tr>
+    <tr>
+        <td width="230px">
+        	<image_block class="top-bottom" width="225px">
+        		<img url="Data\images\1sm_new.png" />
+        	</image_block>
+        </td>
+        <td>&#160;</td>
+    </tr>
+</table>
+
+    <table width="100%">
+        <tr>
+            <td width="5%" border-style="none none solid none" border-size="3px" border-color="ec008d"><image_block display="inline" width="15px" interactivity="no"><img url="Data\icons\question.png" /></image_block></td>
+            <td width="15%" border-style="none none solid none" border-size="3px" border-color="ec008d"><pink>Проверьте&#160;себя</pink></td>
+
+            <td width="80%" border-style="none none solid none" border-size="3px" border-color="ec008d">&#160;</td>
+        </tr>
+    </table>
+
+    <image_block class="inner">
+                    <img url="Data\images\12.png"/>
+                    <p align="right"><b>Крысин Леонид Петрович</b><i> (род.&#160;в&#160;1935&#160;г.). Российский лингвист, доктор филологических наук, профессор</i></p>
+            </image_block>
+
+<!--Вопросы для самопроверки -->
+
+            <table width="100%">
+        <tr>
+            <td width="5%" border-style="none none solid none" border-size="3px" border-color="ec008d"></td>
+            <td width="15%" border-style="none none solid none" border-size="3px" border-color="ec008d"><sans_p>Вопросы&#160;для&#160;самопроверки</sans_p></td>
+
+            <td width="80%" border-style="none none solid none" border-size="3px" border-color="ec008d">&#160;</td>
+        </tr>
+</table>
+
+<table width="100%" border-style="none">
+    <tr>
+        <td width="10%" text-valign="top">
+            <p><image_block display="inline" width="60px" interactivity="no"><img url="Data\icons\question.png" /></image_block></p>
+        </td>
+        <td width="3%" text-valign="top">
+            <p ><pink>1.</pink></p>
+        </td>
+        <td width="87%" text-valign="top">
+            <p><sans></sans></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="10%" text-valign="top">
+            <p></p>
+        </td>
+        <td width="3%" text-valign="top">
+            <p ><pink>2.</pink></p>
+        </td>
+        <td width="87%" text-valign="top">
+            <p><sans></sans></p>
+        </td>
+    </tr>
+</table>
+
+<media_container padding_right="15%"></media_container>
+
+<table width="100%" border-style="none">
+    <tr>
+        <td width="30%" text-valign="top">
+            <p></p>
+        </td>
+        <td width="70%" text-valign="top">
+            <p ><sans>Какие-то носятся звуки </sans></p>
+            <p margin_top="0"><sans>И льнут к моему изголовью.</sans></p>
+            <p margin_top="0"><sans>Полны они томной разлуки,</sans></p>
+            <p margin_top="0"><sans>Дрожат небывалой любовью.</sans></p>
+        </td>
+    </tr>
+</table>
+
+<!--Большая иконка слева ,  обтекающая текст -->
+<image_block class="inner_left" width="40px" interactivity="no" >
+    <img url="Data\icons\book.png"/>
+</image_block><p><sans></sans></p>
+
+<!--надписи к картинкам -->
+<table width="100%" border-color="ec008d" border-style="none none solid none">
+    <tr>
+        <td text-valign="top">
+            <p align="right"><sans>Обложка первого издания романа</sans></p>
+            <p margin_top="0" align="right"><sans>Н.&#160;А.&#160;Островского «Как закалялась сталь»</sans></p>
+        </td>
+    </tr>
+</table>
+<image_block class="inner">
+                    <img url="Data\images\2.png"/>
+            </image_block>
+
+
+<!-- серая рамка-->
+
+            <table width="100%" border-color="C7C7C7">
+    <tr>
+        <td width="3%" text-valign="top" border-style="solid none solid solid">
+            <p><pink>■</pink></p>
+        </td>
+        <td width="97%" text-valign="top" border-style="solid solid solid none">
+            <p ><sans></sans></p>
+        </td>
+    </tr>
+</table>
+<!-- Электронное приложение -->
+http://catalog.prosv.ru/item/9120
