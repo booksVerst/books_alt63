@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Articles>
+	<article>
+		<id>note_0</id>
+		<media_container type="table" margin_bottom="17">
+			<table cellpadding="0">
+				<tr>
+					<td border-style="none" text-align="left" width="49">
+						<media_container type="image" width="32">
+							<img url="Data/icons/round.svg" system="true" />
+						</media_container>
+					</td>
+					<td border-style="none">
+						<h2>Блокнот</h2>
+					</td>
+				</tr>
+			</table>
+		</media_container>
+		<p margin_top="1" align="justify">
+			<sans_i>Происхождение термина «химия» точно неизвестно. Некоторые учёные считают, что этот термин происходит от древнеегипетского слова «кхем» («кхамэ»), означавшего «чёрный», «чернозём». Тогда слово «химия» можно перевести как «искусство чёрной земли» (т. е. Древнего Египта). Позже арабские учёные назвали эту науку алхимией.</sans_i>
+		</p>
+	</article>
+</Articles>

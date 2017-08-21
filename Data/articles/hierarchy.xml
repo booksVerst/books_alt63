@@ -1,0 +1,8 @@
+<root>
+	<article text="ГЛАВА1">
+		<article text="ПОДГЛАВА1">
+			<article id="chapter_0" text="§0. НАЗВАНИЕ1"/>
+			<article id="chapter_1" text="§1. НАЗВАНИЕ2"/>
+		</article>
+	</article>
+</root>

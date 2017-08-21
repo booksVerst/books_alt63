@@ -1,0 +1,4772 @@
+<?xml version="1.0"?>
+<Articles>
+	<article>
+		<id>test1_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text>text</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) case</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>2) case</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) case</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test2_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="Mapping">
+				<test_control unique="true" type="simple" checklist="target_0(x1);target_1(x1);target_2(x1);target_3(x2);target_4(x2);target_5(x2)" />
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text> Установите соответствие между веществами и их свойствами.</text>
+				</p>
+				<whitespace_br />
+				<media_container type="table" width="100%">
+					<table width="full">
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>порошок железа</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_0" static="false" />
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_1" static="false" />
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_2" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>порошок серы</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_3" static="false" />
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_4" static="false" />
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_5" static="false" />
+							</td>
+						</tr>
+					</table>
+				</media_container>
+				<media_container type="table" width="100%">
+					<table width="full" cellpadding="5">
+						<tr>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x1">
+									<text_test>хорошо проводит электричество</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x2">
+									<text_test>имеет жёлтый цвет</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x1">
+									<text_test>имеет тёмно-серый цвет</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x2">
+									<text_test>не смачивается водой	</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x1">
+									<text_test>имеет металлический блеск</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x2">
+									<text_test>не проводит электрический ток</text_test>
+								</test_spear>
+							</td>
+						</tr>
+					</table>
+				</media_container>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test2_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>2.</b>
+					<text> Чтобы избежать разбрызгивания смеси при разбавлении концентрированной серной кислоты водой, нужно</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>воду в кислоту добавлять по каплям</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>воду в кислоту добавлять струйкой</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>кислоту добавлять в воду небольшими порциями</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>одновременно вливать воду и кислоту в один сосуд</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test2_1_3</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>3.</b>
+					<text> Верны ли следующие суждения?</text>
+				</p>
+				<p margin_top="1" align="justify">
+					<text>А. При работе со спиртовкой нельзя зажигать одну спиртовку от другой.</text>
+				</p>
+				<p margin_top="1" align="justify">
+					<text>Б. Без указания учителя нельзя смешивать неизвестные вещества.</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>верно только А</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>верно только Б</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>оба суждения верны</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>оба суждения неверны</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test4_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text> Выберите схемы, изображающие состав чистых веществ.</text>
+				</p>
+				<test_input answer="1" group="0" type="checkbox">
+					<media_container type="image">
+						<img url="Data\images\testpic1.png" />
+					</media_container>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="checkbox">
+					<media_container type="image">
+						<img url="Data\images\testpic2.png" />
+					</media_container>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="checkbox">
+					<media_container type="image">
+						<img url="Data\images\testpic3.png" />
+					</media_container>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test4_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>2.</b>
+					<text> Фильтрованием можно разделить смесь</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>воды и сахара</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>воды и поваренной соли</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>воды и угольной пыли</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>воды и столового уксуса</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test4_1_3</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>3.</b>
+					<text> Смесь порошков железа и серы является</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>гомогенной</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>гетерогенной</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test4_1_4</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>4.</b>
+					<text> Очистить воду от примеси подсолнечного масла можно</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>выпариванием</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>фильтрованием</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>перегонкой</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>отстаиванием</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test4_1_5</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="Mapping">
+				<test_control unique="true" type="simple" checklist="target_0(x3);target_1(x4);target_2(x1);target_3(x2)" />
+				<p margin_top="1" align="justify">
+					<b>5.</b>
+					<text> Установите соответствие между смесью и способом её разделения.</text>
+				</p>
+				<whitespace_br />
+				<media_container type="table" width="100%">
+					<table width="full">
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>раствор поваренной соли в воде</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_0" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>раствор мела в воде</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_1" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>смесь железа и серы</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_2" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>смесь воды и бензина</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_3" static="false" />
+							</td>
+						</tr>
+					</table>
+				</media_container>
+				<media_container type="table" width="100%">
+					<table width="full" cellpadding="5">
+						<tr>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x1">
+									<text_test>действие магнитом</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x2">
+									<text_test>с помощью делительной воронки</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x3">
+									<text_test>выпаривание</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x4">
+									<text_test>фильтрование</text_test>
+								</test_spear>
+							</td>
+						</tr>
+					</table>
+				</media_container>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test6_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text> К физическим явлениям </text>
+					<b>не относится</b>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>замерзание воды</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>плавление алюминия</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>горение бензина</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>испарение воды</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test6_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>2.</b>
+					<text> К химическим явлениям </text>
+					<b>не относится</b>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>ржавление железа</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>подгорание пищи</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>горение бензина</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>испарение воды</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test7_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text> Верны ли следующие суждения о молекулах?
+			</text>
+					<p margin_top="1" align="justify">
+						<text>А. Молекулы являются химически делимыми частицами.</text>
+					</p>
+					<p margin_top="1" align="justify">
+						<text>Б. Молекулы состоят из атомов.</text>
+					</p>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>верно только А</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>верно только Б</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>верны оба суждения</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>оба суждения неверны</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test7_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="Mapping">
+				<test_control unique="true" type="simple" checklist="target_0(x2);target_1(x3);target_2(x1)" />
+				<p margin_top="1" align="justify">
+					<b>2.</b>
+					<text> Установите соответствие между названием элементарной частицы и её зарядом.</text>
+				</p>
+				<whitespace_br />
+				<media_container type="table" width="100%">
+					<table width="full">
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>протон</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_0" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>нейтрон</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_1" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>электрон</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_2" static="false" />
+							</td>
+						</tr>
+					</table>
+				</media_container>
+				<media_container type="table" width="100%">
+					<table width="full" cellpadding="5">
+						<tr>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x1">
+									<text_test>–1</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x2">
+									<text_test>+1</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x3">
+									<text_test>0</text_test>
+								</test_spear>
+							</td>
+						</tr>
+					</table>
+				</media_container>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test8_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text> Для углекислого газа характерна кристаллическая решётка</text>
+				</p>
+				<test_input answer="1" group="0" type="radio">
+					<text>молекулярная</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>атомная</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>ионная</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test8_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="Mapping">
+				<test_control unique="true" type="simple" checklist="target_0(x2);target_1(x3);target_2(x1)" />
+				<p margin_top="1" align="justify">
+					<b>2.</b>
+					<text> Установите соответствие между типом кристаллической решётки вещества и его свойствами.</text>
+				</p>
+				<whitespace_br />
+				<media_container type="table" width="100%">
+					<table width="full">
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>молекулярная</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_0" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>ионная</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_1" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>атомная</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_2" static="false" />
+							</td>
+						</tr>
+					</table>
+				</media_container>
+				<media_container type="table" width="100%">
+					<table width="full" cellpadding="5">
+						<tr>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x1">
+									<text_test>твёрдое, тугоплавкое, не растворяется в воде</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x2">
+									<text_test>хрупкое, легкоплавкое, не проводит электрический ток</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x3">
+									<text_test>твёрдое, тугоплавкое, хорошо растворяется в воде</text_test>
+								</test_spear>
+							</td>
+						</tr>
+					</table>
+				</media_container>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test9_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text> На рисунках условно изображены простые и сложные вещества. Простое вещество изображено на рисунке</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<media_container type="image">
+						<img url="Data\images\testpic4.png" />
+					</media_container>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<media_container type="image">
+						<img url="Data\images\testpic5.png" />
+					</media_container>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<media_container type="image">
+						<img url="Data\images\testpic6.png" />
+					</media_container>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<media_container type="image">
+						<img url="Data\images\testpic7.png" />
+					</media_container>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test9_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>2.</b>
+					<text> На рисунках условно изображены простые и сложные вещества. Сложное вещество изображено на рисунке</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<media_container type="image">
+						<img url="Data\images\testpic8.png" />
+					</media_container>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<media_container type="image">
+						<img url="Data\images\testpic9.png" />
+					</media_container>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<media_container type="image">
+						<img url="Data\images\testpic10.png" />
+					</media_container>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<media_container type="image">
+						<img url="Data\images\testpic11.png" />
+					</media_container>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test9_1_3</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>3.</b>
+					<text> На рисунках условно изображены химические соединения и смеси. Смеси показаны на рисунках</text>
+				</p>
+				<test_input answer="0" group="0" type="checkbox">
+					<media_container type="image">
+						<img url="Data\images\testpic8.png" />
+					</media_container>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="checkbox">
+					<media_container type="image">
+						<img url="Data\images\testpic9.png" />
+					</media_container>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="checkbox">
+					<media_container type="image">
+						<img url="Data\images\testpic10.png" />
+					</media_container>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="checkbox">
+					<media_container type="image">
+						<img url="Data\images\testpic11.png" />
+					</media_container>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test10_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text> О водороде как о простом веществе речь идёт в утверждении</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>водород входит в состав воды</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>водород легче воздуха</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test10_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="Mapping">
+				<test_control unique="true" type="simple" checklist="target_0(x2);target_1(x1);target_2(x3)" />
+				<p margin_top="1" align="justify">
+					<b>2.</b>
+					<text> Установите соответствие между понятием и его определением.</text>
+				</p>
+				<whitespace_br />
+				<media_container type="table" width="100%">
+					<table width="full">
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>химический элемент</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_0" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>простое вещество</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_1" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>сложное вещество</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_2" static="false" />
+							</td>
+						</tr>
+					</table>
+				</media_container>
+				<media_container type="table" width="100%">
+					<table width="full" cellpadding="5">
+						<tr>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x1">
+									<text_test>вещество, состоящее из атомов одного химического элемента</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x2">
+									<text_test>определённый вид атомов</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x3">
+									<text_test>вещество, состоящее из атомов разных химических элементов</text_test>
+								</test_spear>
+							</td>
+						</tr>
+					</table>
+				</media_container>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test11_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="Mapping">
+				<test_control unique="true" type="simple" checklist="target_0(x3);target_1(x1);target_2(x2);target_3(x4)" />
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text> Установите соответствие между химическим элементом и его относительной атомной массой.</text>
+				</p>
+				<whitespace_br />
+				<media_container type="table" width="100%">
+					<table width="full">
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>водород</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_0" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>сера</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_1" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>кислород</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_2" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>углерод</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_3" static="false" />
+							</td>
+						</tr>
+					</table>
+				</media_container>
+				<media_container type="table" width="100%">
+					<table width="full" cellpadding="5">
+						<tr>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x1">
+									<text_test>32</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x2">
+									<text_test>16</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x3">
+									<text_test>1</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x4">
+									<text_test>12</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x5">
+									<text_test>14</text_test>
+								</test_spear>
+							</td>
+						</tr>
+					</table>
+				</media_container>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test11_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>2.</b>
+					<text> В состав молекулы какого-либо вещества может входить элемент кислород массой</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>8 а. е. м.</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>6 а. е. м.</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>16 а. е. м.</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>24 а. е. м.</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test12_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text> Химический знак элемента кальция — это</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>K</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>Ca</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>Sc</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>Cr</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test12_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="Mapping">
+				<test_control unique="true" type="simple" checklist="target_0(x4);target_1(x1);target_2(x5);target_3(x2)" />
+				<p margin_top="1" align="justify">
+					<b>2.</b>
+					<text> Установите соответствие между символом химического элемента и его названием.</text>
+				</p>
+				<whitespace_br />
+				<media_container type="table" width="100%">
+					<table width="full">
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>Al</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_0" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>Cu</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_1" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>Cl</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_2" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>Ag</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_3" static="false" />
+							</td>
+						</tr>
+					</table>
+				</media_container>
+				<media_container type="table" width="100%">
+					<table width="full" cellpadding="5">
+						<tr>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x1">
+									<text_test>медь</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x2">
+									<text_test>серебро</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x3">
+									<text_test>кальций</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x4">
+									<text_test>алюминий</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x5">
+									<text_test>хлор</text_test>
+								</test_spear>
+							</td>
+						</tr>
+					</table>
+				</media_container>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test12_1_3</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="Mapping">
+				<test_control unique="true" type="simple" checklist="target_0(x2);target_1(x4);target_2(x1);target_3(x3)" />
+				<p margin_top="1" align="justify">
+					<b>3.</b>
+					<text> Установите соответствие между символом химического элемента и его латинским названием.</text>
+				</p>
+				<whitespace_br />
+				<media_container type="table" width="100%">
+					<table width="full">
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>Cu</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_0" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>Ag</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_1" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>Fe</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_2" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>Hg</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_3" static="false" />
+							</td>
+						</tr>
+					</table>
+				</media_container>
+				<media_container type="table" width="100%">
+					<table width="full" cellpadding="5">
+						<tr>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x1">
+									<text_test>феррум</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x2">
+									<text_test>купрум</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x3">
+									<text_test>гидраргирум</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x4">
+									<text_test>аргентум</text_test>
+								</test_spear>
+							</td>
+						</tr>
+					</table>
+				</media_container>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test14_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text> Относительная молекулярная масса оксида железа Fe</text>
+					<sub>2</sub>
+					<text>O</text>
+					<sub>3</sub>
+					<text> равна</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>320</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>160</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>480</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>62</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test14_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>2.</b>
+					<text> Тот факт, что молекула азота состоит из двух атомов азота, отражает запись</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>2N</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>N</text>
+					<sub>2</sub>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>N</text>
+					<sub>2</sub>
+					<text>O</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>N</text>
+					<sub>2</sub>
+					<text>O</text>
+					<sub>3</sub>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test14_1_3</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>3.</b>
+					<text> Запись 2O</text>
+					<sub>2</sub>
+					<text> обозначает</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>четыре атома кислорода</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>два атома кислорода</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>две молекулы кислорода</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>четыре молекулы кислорода</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test14_1_4</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>4.</b>
+					<text> Верны ли следующие суждения?
+			  </text>
+					<p margin_top="1" align="justify">
+						<text>А. Для веществ немолекулярного строения подсчитывают не относительную молекулярную массу, а относительную формульную массу.</text>
+					</p>
+					<p margin_top="1" align="justify">
+						<text>Б. Для веществ молекулярного строения подсчитывают относительную молекулярную массу.</text>
+					</p>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>верно только А</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>верно только Б</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>оба суждения верны</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>оба суждения неверны</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test15_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="Mapping">
+				<test_control unique="true" type="simple" checklist="target_0(x1);target_1(x4);target_2(x2);target_3(x3)" />
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text> Установите соответствие между химической формулой и массовым соотношением химических элементов, входящих в состав этой формулы.</text>
+				</p>
+				<whitespace_br />
+				<media_container type="table" width="100%">
+					<table width="full">
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>MgO</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_0" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>H</text>
+								<sub>2</sub>
+								<text>SO</text>
+								<sub>4</sub>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_1" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>Fe</text>
+								<sub>2</sub>
+								<text>O</text>
+								<sub>3</sub>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_2" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>CuSO</text>
+								<sub>4</sub>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_3" static="false" />
+							</td>
+						</tr>
+					</table>
+				</media_container>
+				<media_container type="table" width="100%">
+					<table width="full" cellpadding="5">
+						<tr>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x1">
+									<text_test>3 : 2</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x2">
+									<text_test>7 : 3</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x3">
+									<text_test>2 : 1 : 2</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x4">
+									<text_test>1 : 16 : 32</text_test>
+								</test_spear>
+							</td>
+						</tr>
+					</table>
+				</media_container>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test15_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<text>2. Массовая доля химического элемента углерода в молекуле этанола C</text>
+					<sub>2</sub>
+					<text>H</text>
+					<sub>6</sub>
+					<text>O составляет</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>10 %</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>23,6 %</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>41,0 %</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>52,2 %</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test16_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text> Формула одного из оксидов фосфора P</text>
+					<sub>2</sub>
+					<text>O</text>
+					<sub>5</sub>
+					<text>. Валентность фосфора в этом соединении равна</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>2</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>5</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test16_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="Mapping">
+				<test_control unique="true" type="simple" checklist="target_0(x3);target_1(x1);target_2(x2)" />
+				<p margin_top="1" align="justify">
+					<b>2.</b>
+					<text> Установите соответствие между химической формулой соединения и валентностью серы в этом соединении.</text>
+				</p>
+				<whitespace_br />
+				<media_container type="table" width="100%">
+					<table width="full">
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>SO</text>
+								<sub>3</sub>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_0" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>H</text>
+								<sub>2</sub>
+								<text>S</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_1" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>SO</text>
+								<sub>2</sub>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_2" static="false" />
+							</td>
+						</tr>
+					</table>
+				</media_container>
+				<media_container type="table" width="100%">
+					<table width="full" cellpadding="5">
+						<tr>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x1">
+									<text_test>II</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x2">
+									<text_test>IV</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x3">
+									<text_test>VI</text_test>
+								</test_spear>
+							</td>
+						</tr>
+					</table>
+				</media_container>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test17_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text> В одном из оксидов марганец проявляет валентность, равную четырём. Его химическая формула</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>MnO</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<media_container type="image" interactivity="no" height="22" width="239">
+						<img url="Data\tex\147.svg" />
+					</media_container>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<media_container type="image" interactivity="no" height="22" width="239">
+						<img url="Data\tex\148.svg" />
+					</media_container>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test17_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="Mapping">
+				<test_control unique="true" type="simple" checklist="target_0(x2);target_1(x1);target_2(x4);target_3(x3)" />
+				<p margin_top="1" align="justify">
+					<b>2.</b>
+					<text> Установите соответствие между химической формулой вещества и его названием.</text>
+				</p>
+				<whitespace_br />
+				<media_container type="table" width="100%">
+					<table width="full">
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>CrO</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_0" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>CrO</text>
+								<sub>3</sub>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_1" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>Cr</text>
+								<sub>2</sub>
+								<text>O</text>
+								<sub>3</sub>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_2" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>MnCl</text>
+								<sub>2</sub>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_3" static="false" />
+							</td>
+						</tr>
+					</table>
+				</media_container>
+				<media_container type="table" width="100%">
+					<table width="full" cellpadding="5">
+						<tr>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x1">
+									<text_test>оксид хрома(VI)</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x2">
+									<text_test>оксид хрома(II)</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x3">
+									<text_test>хлорид марганца(II)</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x4">
+									<text_test>оксид хрома(III)</text_test>
+								</test_spear>
+							</td>
+						</tr>
+					</table>
+				</media_container>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test19_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text> Медь соединяется с серой в массовом отношении 2 : 1. Для приготовления 21 г сульфида меди(II) потребуется</text>
+				</p>
+				<test_input answer="1" group="0" type="radio">
+					<text>Cu — 14 г, S — 7 г</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>Cu — 12 г, S — 9 г</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>Cu — 7 г, S — 14 г</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>Cu — 16 г, S — 5 г</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test19_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>2.</b>
+					<text> При разложении 4,34 г оксида ртути(II) образовалось 4,02 г ртути. Масса выделившегося при этом кислорода равна</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>0,16 г</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>0,32 г</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3,2 г</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>1,6 г</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test20_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text> В схеме реакции между оксидом железа(III) и соляной кислотой:
+			</text>
+					<p margin_top="1" align="justify">
+						<text>Fe</text>
+						<sub>2</sub>
+						<text>О</text>
+						<sub>3</sub>
+						<text>+НCl → FeCl</text>
+						<sub>3</sub>
+						<text>+Н</text>
+						<sub>2</sub>
+						<text>О</text>
+					</p>
+					<p margin_top="1" align="justify">
+						<text>перед формулой образующейся соли нужно поставить коэффициент</text>
+					</p>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>6</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test20_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>2.</b>
+					<text> Сумма коэффициентов в уравнении реакции между оксидом фосфора(V) и водой равна</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>5</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>6</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test21_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text>text</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) case</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>2) case</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) case</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test22_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text> Самый распространённый химический элемент в земной коре — это</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>водород</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>кислород</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>железо</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>кремний</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test22_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>2.</b>
+					<text> В предложении «Кислород входит в состав воздуха» речь идёт о кислороде</text>
+				</p>
+				<test_input answer="1" group="0" type="radio">
+					<text>как о химическом элементе</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>как о простом веществе</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test22_1_3</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<text>3. Укажите правую часть уравнения химической реакции разложения пероксида водорода Н</text>
+					<sub>2</sub>
+					<text>О</text>
+					<sub>2</sub>
+					<text>.</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>2H</text>
+					<sub>2</sub>
+					<text> + 2O</text>
+					<sub>2</sub>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>2H</text>
+					<sub>2</sub>
+					<text>O + O</text>
+					<sub>2</sub>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>H</text>
+					<sub>2</sub>
+					<text>O + H</text>
+					<sub>2</sub>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>H</text>
+					<sub>2</sub>
+					<text>O + O</text>
+					<sub>2</sub>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test22_1_4</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>4.</b>
+					<text> Для получения кислорода в лаборатории </text>
+					<b>не используют</b>
+					<text> вещество</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>KMnO</text>
+					<sub>4</sub>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>KClO</text>
+					<sub>3</sub>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>H</text>
+					<sub>2</sub>
+					<text>O</text>
+					<sub>2</sub>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>CaO</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test23_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text> Определите вещество по описанию: бесцветный газ, без вкуса и запаха, малорастворим в воде. При давлении 760 мм рт. ст. и температуре –218,8°C затвердевает.</text>
+				</p>
+				<test_input answer="1" group="0" type="radio">
+					<text>1) кислород</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) водород</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) углекислый газ</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) сероводород</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test23_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>2.</b>
+					<text> Реакция горения фосфора в кислороде относится к реакциям</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) соединения</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) разложения</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) замещения</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>4) окисления</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test24_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text> Горение магния относится к реакциям</text>
+				</p>
+				<test_input answer="1" group="0" type="radio">
+					<text>1) разложения</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) замещения</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) соединения</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test24_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>2.</b>
+					<text> Массовая доля химического элемента фосфора в оксиде фосфора(V) составляет</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) 19,2 %</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) 36,4 %</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) 43,7 %</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>4) 100 %</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test26_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text> Аллотропными модификациями являются</text>
+				</p>
+				<test_input answer="1" group="0" type="radio">
+					<text>1) кислород и водород</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) кислород и озон</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) натрий и калий</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) алюминий и медь</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test26_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>2.</b>
+					<text> Озон получают</text>
+				</p>
+				<test_input answer="1" group="0" type="radio">
+					<text>1) в аппарате Киппа </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) в озонаторе </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) в кристаллизаторе</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) в газометре</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test26_1_3</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>3.</b>
+					<text> Определите вещество по описанию: газ с характерным запахом свежести, голубого цвета, в 1,5 раза тяжелее кислорода.</text>
+				</p>
+				<test_input answer="1" group="0" type="radio">
+					<text>1) озон </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) аммиак </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) углекислый газ</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) сероводород</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test27_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text> Состав воздуха экспериментально определил</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) М.В.Ломоносов </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) А.Лавуазье </text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>3) Дж.Дальтон</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) Дж.Пристли</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test27_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>2.</b>
+					<text> Составной частью воздуха </text>
+					<b>не является</b>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) кислород </text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>2) азот </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) водород</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) углекислый газ</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test27_1_3</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>3.</b>
+					<text> К благородным газам </text>
+					<b>не относят</b>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) гелий </text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>2) кислород </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) неон</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) аргон</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test27_1_4</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>4.</b>
+					<text> При тушении пожара используют</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) речной песок </text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>2) углекислый газ </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) бензин</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) кислород</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test27_1_5</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>5.</b>
+					<text> К реакциям горения относится реакция</text>
+				</p>
+				<test_input answer="1" group="0" type="radio">
+					<media_container type="table" margin_top="25" margin_bottom="25" width="100%" align_horizontal="centre">
+						<table cellpadding="3" width="full">
+							<tr>
+								<td border-style="none" width="5%" text-valign="center" text-align="center">
+									<text>1) </text>
+								</td>
+								<td border-style="none" width="95%" text-valign="center" text-align="left">
+									<media_container display="inline" type="image" interactivity="no">
+										<img url="Data\images\formulas\test-27-1.png" />
+									</media_container>
+								</td>
+							</tr>
+						</table>
+					</media_container>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<media_container type="table" margin_top="25" margin_bottom="25" width="100%" align_horizontal="centre">
+						<table cellpadding="3" width="full">
+							<tr>
+								<td border-style="none" width="5%" text-valign="center" text-align="center">
+									<text>2) </text>
+								</td>
+								<td border-style="none" width="95%" text-valign="center" text-align="left">
+									<media_container display="inline" type="image" interactivity="no">
+										<img url="Data\images\formulas\test-27-2.png" />
+									</media_container>
+								</td>
+							</tr>
+						</table>
+					</media_container>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<media_container type="table" margin_top="25" margin_bottom="25" width="100%" align_horizontal="centre">
+						<table cellpadding="3" width="full">
+							<tr>
+								<td border-style="none" width="5%" text-valign="center" text-align="center">
+									<text>3) </text>
+								</td>
+								<td border-style="none" width="95%" text-valign="center" text-align="left">
+									<media_container display="inline" type="image" interactivity="no">
+										<img url="Data\images\formulas\test-27-3.png" />
+									</media_container>
+								</td>
+							</tr>
+						</table>
+					</media_container>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test28_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text> Самый распространённый элемент во Вселенной — это</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) He </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) Ar </text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>3) H </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) O</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test28_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>2.</b>
+					<text> О водороде как о простом веществе говорится в утверждении</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) водород входит в состав соляной кислоты</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>2) водород — это практически нерастворимый в воде газ</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) водород входит в состав метана СН</text>
+					<sub>4</sub>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) из водорода и кислорода состоит вода</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test28_1_3</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>3.</b>
+					<text> Две молекулы водорода обозначает запись</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) 4H </text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>2) 2H</text>
+					<sub>2</sub>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) 4H</text>
+					<sub>2</sub>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) 2H</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test28_1_4</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>4.</b>
+					<text> Реакция Mg + 3HCl = MgCl</text>
+					<sub>2</sub>
+					<text> + H</text>
+					<sub>2</sub>
+					<text> относится к реакциям</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) соединения </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) разложения </text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>3) замещения</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) обмена</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test28_1_5</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>5.</b>
+					<text> Массовая доля водорода в серной кислоте H</text>
+					<sub>2</sub>
+					<text>SO</text>
+					<sub>4</sub>
+					<text> составляет</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) 32,65 % </text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>2) 65,31 % </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) 2,04 % </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) 0,20 %</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test29_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text> В соединении NH</text>
+					<sub>3</sub>
+					<text> водород проявляет валентность</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) III </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) II </text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>3) I </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) IV</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test29_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>2.</b>
+					<text> В уравнении реакции PbO</text>
+					<sub>2</sub>
+					<text> + 2H</text>
+					<sub>2</sub>
+					<text> = Pb + 2H</text>
+					<sub>2</sub>
+					<text>O восстановителем является</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) свинец </text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>2) водород </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) водород входит в состав метана СН</text>
+					<sub>3) оксид свинца(IV) </sub>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) вода</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test29_1_3</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>3.</b>
+					<text> Левая часть уравнения реакции: ... + ... = Hg + H</text>
+					<sub>2</sub>
+					<text>O — это</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) HgO + C = </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) HgO + H</text>
+					<sub>2</sub>
+					<text> = </text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>3) HgO + Al =</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) HgO + CO =</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test32_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text> К реакциям замещения относятся реакции</text>
+				</p>
+				<test_input answer="1" group="0" type="radio">
+					<media_container type="table" margin_top="25" margin_bottom="25" width="100%" align_horizontal="centre">
+						<table cellpadding="3" width="full">
+							<tr>
+								<td border-style="none" width="5%" text-valign="center" text-align="center">
+									<text>1) </text>
+								</td>
+								<td border-style="none" width="95%" text-valign="center" text-align="left">
+									<media_container display="inline" type="image" interactivity="no">
+										<img url="Data\images\formulas\test-32-1.png" />
+									</media_container>
+								</td>
+							</tr>
+						</table>
+					</media_container>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<media_container type="table" margin_top="25" margin_bottom="25" width="100%" align_horizontal="centre">
+						<table cellpadding="3" width="full">
+							<tr>
+								<td border-style="none" width="5%" text-valign="center" text-align="center">
+									<text>2) </text>
+								</td>
+								<td border-style="none" width="95%" text-valign="center" text-align="left">
+									<media_container display="inline" type="image" interactivity="no">
+										<img url="Data\images\formulas\test-32-2.png" />
+									</media_container>
+								</td>
+							</tr>
+						</table>
+					</media_container>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<media_container type="table" margin_top="25" margin_bottom="25" width="100%" align_horizontal="centre">
+						<table cellpadding="3" width="full">
+							<tr>
+								<td border-style="none" width="5%" text-valign="center" text-align="center">
+									<text>3) </text>
+								</td>
+								<td border-style="none" width="95%" text-valign="center" text-align="left">
+									<media_container display="inline" type="image" interactivity="no">
+										<img url="Data\images\formulas\test-32-3.png" />
+									</media_container>
+								</td>
+							</tr>
+						</table>
+					</media_container>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<media_container type="table" margin_top="25" margin_bottom="25" width="100%" align_horizontal="centre">
+						<table cellpadding="3" width="full">
+							<tr>
+								<td border-style="none" width="5%" text-valign="center" text-align="center">
+									<text>4) </text>
+								</td>
+								<td border-style="none" width="95%" text-valign="center" text-align="left">
+									<media_container display="inline" type="image" interactivity="no">
+										<img url="Data\images\formulas\test-32-4.png" />
+									</media_container>
+								</td>
+							</tr>
+						</table>
+					</media_container>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test32_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>2.</b>
+					<text> Вода </text>
+					<b>не взаимодействует</b>
+				</p>
+				<test_input answer="1" group="0" type="radio">
+					<text>1) с кальцием </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) с медью </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) с оксидом натрия</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) с серой</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test33_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text> Укажите верное утверждение.</text>
+				</p>
+				<test_input answer="1" group="0" type="radio">
+					<text>1) Раствор, в котором данное вещество при данной температуре больше не растворяется, называют насыщенным.</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) Раствор, в котором данное вещество при данной температуре больше не растворяется, называют ненасыщенным.</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test33_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>2.</b>
+					<text> Морская вода — это</text>
+				</p>
+				<test_input answer="1" group="0" type="radio">
+					<text>1) раствор</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) суспензия</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) эмульсия</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test33_1_3</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="FreeAnswer">
+				<p margin_top="1" align="justify">
+					<b>3.</b>
+					<text> Смесь растительного масла с водой называют</text>
+				</p>
+				<test_input group="0" init="" answer="не знаю|Не знаю" type="text" cols="50" />
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test34_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text> Укажите верное утверждение.</text>
+				</p>
+				<test_input answer="1" group="0" type="radio">
+					<text>1) Раствор, в котором содержится много растворённого вещества, называют концентрированным.</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) Раствор, в котором содержится много растворённого вещества, называют разбавленным.</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test34_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>2.</b>
+					<text> В 325 г воды растворили 25 г соли. Массовая доля соли в полученном растворе равна</text>
+				</p>
+				<test_input answer="1" group="0" type="radio">
+					<text>1) 0,71 % </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) 7,1 % </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) 14,2 % </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) 1,42 %</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test34_1_3</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="Mapping">
+				<test_control unique="true" type="simple" checklist="target_0(x1);target_1(x2);target_2(x3)" />
+				<p margin_top="1" align="justify">
+					<b>3.</b>
+					<text> Установите соответствие между физической величиной и формулой для её расчёта.</text>
+				</p>
+				<media_container type="table" width="100%">
+					<table width="full">
+						<tr>
+							<td bgcolor="e3f4fb" width="80%" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>массовая доля элемента в соединении</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_0" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>массовая доля вещества в растворе</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_1" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>плотность</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_2" static="false" />
+							</td>
+						</tr>
+					</table>
+				</media_container>
+				<media_container type="table" width="100%">
+					<table width="full" cellpadding="5">
+						<tr>
+							<td width="33.3333%" border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x2">
+									<media_container display="inline" type="image" interactivity="no">
+										<img url="Data\images\formulas\test-34-1.png" />
+									</media_container>
+								</test_spear>
+							</td>
+							<td width="33.3333%" border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x1">
+									<media_container display="inline" type="image" interactivity="no">
+										<img url="Data\images\formulas\test-34-2.png" />
+									</media_container>
+								</test_spear>
+							</td>
+							<td width="33.3333%" border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x3">
+									<media_container display="inline" type="image" interactivity="no">
+										<img url="Data\images\formulas\test-34-3.png" />
+									</media_container>
+								</test_spear>
+							</td>
+						</tr>
+					</table>
+				</media_container>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test36_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1. </b>
+					<text>Медь, взятая количеством вещества 6 моль, имеет массу</text>
+				</p>
+				<test_input answer="1" group="0" type="radio">
+					<text>1) 60 г </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) 192 г </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) 384 г </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) 400 г</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test36_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>2. </b>
+					<text>Масса 0,1 моль алюминия равна</text>
+				</p>
+				<test_input answer="1" group="0" type="radio">
+					<text>1) 0,1 г </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) 2,7 г </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) 260 г </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) 540 г</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test36_1_3</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>3. </b>
+					<text>Количество вещества, соответствующее 32 кг оксида железа(III), — это</text>
+				</p>
+				<test_input answer="1" group="0" type="radio">
+					<text>1) 10 моль </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) 20 моль </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) 100 моль </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) 200 моль</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test36_1_4</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>4. </b>
+					<text>Количество вещества, соответствующее 560 г карбоната кальция СаСО</text>
+					<sub>3</sub>
+					<text>, — это</text>
+				</p>
+				<test_input answer="1" group="0" type="radio">
+					<text>1) 0,56 моль </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) 5,6 моль </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) 6,5 моль </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) 10 моль</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test39_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1. </b>
+					<text>При взаимодействии хлора и 500 л водорода получили хлороводород, объём которого (н. у.) составил</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) 100 л </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) 200 л </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) 500 л </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) 1000 л</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test39_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>2. </b>
+					<text>Для синтеза воды из кислорода и водорода использовали 22,4 л кислорода (н. у.). Количество вступившего в реакцию водорода составило</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) 2 моль </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) 4 моль </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) 6 моль </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) 8 моль</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test39_1_3</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>3. </b>
+					<text>Объём хлора Cl</text>
+					<sub>2</sub>
+					<text> (н. у.), который требуется для синтеза 40 м</text>
+					<sup>3</sup>
+					<text> хлороводорода HCl, равен</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) 10 м</text>
+					<sup>3</sup>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) 20 м</text>
+					<sup>3</sup>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) 30 м</text>
+					<sup>3</sup>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) 40 м</text>
+					<sup>3</sup>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test40_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1. </b>
+					<text>Формулы только оксидов приведены в ряду</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) H</text>
+					<sub>2</sub>
+					<text>SO</text>
+					<sub>4</sub>
+					<text>, CaO, CuCl</text>
+					<sub>2</sub>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) Na</text>
+					<sub>2</sub>
+					<text>CO</text>
+					<sub>3</sub>
+					<text>, Na</text>
+					<sub>2</sub>
+					<text>O, Cl</text>
+					<sub>2</sub>
+					<text>O</text>
+					<sub>7</sub>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) CO</text>
+					<sub>2</sub>
+					<text>, Li</text>
+					<sub>2</sub>
+					<text>O, Al</text>
+					<sub>2</sub>
+					<text>O</text>
+					<sub>3</sub>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) KOH, K</text>
+					<sub>2</sub>
+					<text>O, BaO</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test40_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>2. </b>
+					<text>Формулы только основных оксидов приведены в ряду</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) CO</text>
+					<sub>2</sub>
+					<text>, Al</text>
+					<sub>2</sub>
+					<text>O</text>
+					<sub>3</sub>
+					<text>, K</text>
+					<sub>2</sub>
+					<text>O</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) CaO, BaO, Na</text>
+					<sub>2</sub>
+					<text>O</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) NO</text>
+					<sub>2</sub>
+					<text>, MgO, SO</text>
+					<sub>2</sub>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) P</text>
+					<sub>2</sub>
+					<text>O</text>
+					<sub>5</sub>
+					<text>, Fe</text>
+					<sub>2</sub>
+					<text>O</text>
+					<sub>3</sub>
+					<text>, ZnO</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test40_1_3</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>3. </b>
+					<text>Два кислотных оксида указаны в пункте</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) MnO</text>
+					<sub>2</sub>
+					<text> и ZnО </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) Fe</text>
+					<sub>2</sub>
+					<text>O</text>
+					<sub>3</sub>
+					<text> и CO</text>
+					<sub>2</sub>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) SO</text>
+					<sub>3</sub>
+					<text> и CrO</text>
+					<sub>3</sub>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) P</text>
+					<sub>2</sub>
+					<text>O</text>
+					<sub>5</sub>
+					<text> и Na</text>
+					<sub>2</sub>
+					<text>O</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test40_1_4</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>4. </b>
+					<text>Из приведённых уравнений химических реакций выберите уравнение, которое </text>
+					<b>не характеризует</b>
+					<text> свойство кислотных оксидов.</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) SO</text>
+					<sub>3</sub>
+					<text> + H</text>
+					<sub>2</sub>
+					<text>O = H</text>
+					<sub>2</sub>
+					<text>SO</text>
+					<sub>4</sub>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) SO</text>
+					<sub>3</sub>
+					<text> + Na</text>
+					<sub>2</sub>
+					<text>O = Na</text>
+					<sub>2</sub>
+					<text>SO</text>
+					<sub>4</sub>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) SO</text>
+					<sub>3</sub>
+					<text> + 2NaOH = Na</text>
+					<sub>2</sub>
+					<text>SO</text>
+					<sub>4</sub>
+					<text> + H</text>
+					<sub>2</sub>
+					<text>O</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) H</text>
+					<sub>2</sub>
+					<text>SO</text>
+					<sub>4</sub>
+					<text> = SO</text>
+					<sub>3</sub>
+					<text> + H</text>
+					<sub>2</sub>
+					<text>O</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test40_1_5</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="Mapping">
+				<test_control unique="true" type="simple" checklist="target_0(x1);target_1(x2);target_2(x3);target_3(x4)" />
+				<p margin_top="1" align="justify">
+					<b>5. </b>
+					<text>Установите соответствие между формулой оксида и формулой соответствующего ему основания или кислоты.</text>
+				</p>
+				<media_container type="table" width="100%">
+					<table width="full">
+						<tr>
+							<td bgcolor="e3f4fb" width="80%" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>Na</text>
+								<sub>2</sub>
+								<text>O</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_0" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>SO</text>
+								<sub>3</sub>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_1" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>BaO</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_2" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>CO</text>
+								<sub>2</sub>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_3" static="false" />
+							</td>
+						</tr>
+					</table>
+				</media_container>
+				<media_container type="table" width="100%">
+					<table width="full" cellpadding="5">
+						<tr>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x4">
+									<text_test>H</text_test>
+									<sub_white>2</sub_white>
+									<text_test>SO</text_test>
+									<sub_white>4</sub_white>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x1">
+									<text_test>H</text_test>
+									<sub_white>2</sub_white>
+									<text_test>CO</text_test>
+									<sub_white>3</sub_white>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x3">
+									<text_test>NaOH</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x2">
+									<text_test>Ba(OH)</text_test>
+									<sub_white>2</sub_white>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x5">
+									<text_test>H</text_test>
+									<sub_white>2</sub_white>
+									<text_test>SO</text_test>
+									<sub_white>3</sub_white>
+								</test_spear>
+							</td>
+						</tr>
+					</table>
+				</media_container>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test42_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1. </b>
+					<text>Формула летучего водородного соединения химического элемента H</text>
+					<sub>3</sub>
+					<text>R. В периодической таблице этот элемент находится</text>
+				</p>
+				<test_input answer="1" group="0" type="radio">
+					<text>1) в III группе</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>2) в V группе</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) в VII группе</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) в IV группе</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test42_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="Mapping">
+				<test_control unique="true" type="simple" checklist="target_0(x1);target_1(x2);target_2(x3);target_3(x4)" />
+				<p margin_top="1" align="justify">
+					<b>2. </b>
+					<text>Установите соответствие между номером периода и числом элементов в периоде.</text>
+				</p>
+				<media_container type="table" width="100%">
+					<table width="full">
+						<tr>
+							<td bgcolor="e3f4fb" width="80%" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>1-й период</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_0" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>2-й и 3-й периоды</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_1" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>4-й и 5-й периоды </text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_2" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>6-й период</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_3" static="false" />
+							</td>
+						</tr>
+					</table>
+				</media_container>
+				<media_container type="table" width="100%">
+					<table width="full" cellpadding="5">
+						<tr>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x4">
+									<b>А. </b>
+									<text_test>18</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x1">
+									<b>Б. </b>
+									<text_test>32</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x3">
+									<b>В. </b>
+									<text_test>2</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x2">
+									<b>Г. </b>
+									<text_test>8</text_test>
+								</test_spear>
+							</td>
+						</tr>
+					</table>
+				</media_container>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test43_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1. </b>
+					<text>Формулы только амфотерных оксидов приведены в ряду</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text> CO</text>
+					<sub>2</sub>
+					<text>, Na</text>
+					<sub>2</sub>
+					<text>O, Fe</text>
+					<sub>2</sub>
+					<text>O</text>
+					<sub>3</sub>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text> BeO, Al</text>
+					<sub>2</sub>
+					<text>O</text>
+					<sub>3</sub>
+					<text>, ZnO</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> P</text>
+					<sub>2</sub>
+					<text>O</text>
+					<sub>5</sub>
+					<text>, MgO, SO</text>
+					<sub>2</sub>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> K</text>
+					<sub>2</sub>
+					<text>O, CuO, SiO</text>
+					<sub>2</sub>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test43_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>2. </b>
+					<text>Амфотерные оксиды</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text> взаимодействуют только со щелочами</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> взаимодействуют только с кислотами</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text> взаимодействуют и с кислотами, и со щелочами</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> не взаимодействуют ни с кислотами, ни со щелочами</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test43_1_3</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>3. </b>
+					<text>Из приведённых уравнений химических реакций выберите те, которые характеризуют амфотерный характер гидроксида.</text>
+				</p>
+				<test_input answer="0" group="0" type="checkbox">
+					<text> K</text>
+					<sub>2</sub>
+					<text>O+H</text>
+					<sub>2</sub>
+					<text>SO</text>
+					<sub>4</sub>
+					<text>=K</text>
+					<sub>2</sub>
+					<text>SO</text>
+					<sub>4</sub>
+					<text>+H</text>
+					<sub>2</sub>
+					<text>O</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="checkbox">
+					<text> Be(OH)</text>
+					<sub>2</sub>
+					<text>+2HCl=BeCl</text>
+					<sub>2</sub>
+					<text>+2H</text>
+					<sub>2</sub>
+					<text>O</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="checkbox">
+					<text> KOH+HCl=KCl+H</text>
+					<sub>2</sub>
+					<text>O</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="checkbox">
+					<media_container margin_bottom="11">
+						<media_container type="image" interactivity="no" height="22" width="239">
+							<img url="Data\tex\149.svg" />
+						</media_container>
+					</media_container>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test44_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1. </b>
+					<text>Формулы только кислот приведены в ряду</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text> HCl, NaCl, HNO</text>
+					<sub>3</sub>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text> H</text>
+					<sub>2</sub>
+					<text>SO</text>
+					<sub>3</sub>
+					<text>, H</text>
+					<sub>2</sub>
+					<text>SO</text>
+					<sub>4</sub>
+					<text>, H</text>
+					<sub>2</sub>
+					<text>S</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> Ca(OH)</text>
+					<sub>2</sub>
+					<text>, H</text>
+					<sub>3</sub>
+					<text>PO</text>
+					<sub>4</sub>
+					<text>, Ca</text>
+					<sub>3</sub>
+					<text>(PO</text>
+					<sub>4</sub>
+					<text>)</text>
+					<sub>2</sub>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>4) Na</text>
+					<sub>2</sub>
+					<text>O, NaNO</text>
+					<sub>3</sub>
+					<text>, HNO</text>
+					<sub>3</sub>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test44_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1. </b>
+					<text>Валентность кислотного остатка серной кислоты равна</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text> I </text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text> II </text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> III</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> IV</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test44_1_3</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="Mapping">
+				<test_control unique="true" type="simple" checklist="target_0(x1);target_1(x2);target_2(x3);target_3(x4)" />
+				<p margin_top="1" align="justify">
+					<b>3. </b>
+					<text>Установите соответствие между формулой кислоты и её названием.</text>
+				</p>
+				<media_container type="table" width="100%">
+					<table width="full">
+						<tr>
+							<td bgcolor="e3f4fb" width="80%" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>HNO</text>
+								<sub>3</sub>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_0" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>HCl</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_1" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>H</text>
+								<sub>2</sub>
+								<text>SO</text>
+								<sub>4</sub>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_2" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>H</text>
+								<sub>2</sub>
+								<text>SO</text>
+								<sub>3</sub>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_3" static="false" />
+							</td>
+						</tr>
+					</table>
+				</media_container>
+				<media_container type="table" width="100%">
+					<table width="full" cellpadding="5">
+						<tr>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x2">
+									<b>А. </b>
+									<text_test>Хлороводородная</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x4">
+									<b>Б. </b>
+									<text_test>Сернистая</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x1">
+									<b>В. </b>
+									<text_test>Азотная</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x3">
+									<b>Г. </b>
+									<text_test>Серная</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="">
+									<b>Г. </b>
+									<text_test>Азотистая</text_test>
+								</test_spear>
+							</td>
+						</tr>
+					</table>
+				</media_container>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test45_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text>text</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) case</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>2) case</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) case</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test46_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="Mapping">
+				<test_control unique="true" type="simple" checklist="target_0(x1);target_1(x2);target_2(x3);target_3(x4)" />
+				<p margin_top="1" align="justify">
+					<b>1. </b>
+					<text>Установите соответствие между химической формулой вещества и его названием.</text>
+				</p>
+				<media_container type="table" width="100%">
+					<table width="full">
+						<tr>
+							<td bgcolor="e3f4fb" width="80%" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>FeCl</text>
+								<sub>3</sub>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_0" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>Cu(NO</text>
+								<sub>3</sub>
+								<text>)</text>
+								<sub>2</sub>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_1" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>Al</text>
+								<sub>2</sub>
+								<text>(SO</text>
+								<sub>4</sub>
+								<text>)</text>
+								<sub>3</sub>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_2" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>K</text>
+								<sub>2</sub>
+								<text>CO</text>
+								<sub>3</sub>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_3" static="false" />
+							</td>
+						</tr>
+					</table>
+				</media_container>
+				<media_container type="table" width="100%">
+					<table width="full" cellpadding="5">
+						<tr>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x2">
+									<b>А. </b>
+									<text_test> нитрат меди(II) </text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x4">
+									<b>Б. </b>
+									<text_test>карбонат калия</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x1">
+									<b>В. </b>
+									<text_test>хлорид железа(III)</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x3">
+									<b>Г. </b>
+									<text_test> сульфат алюминия</text_test>
+								</test_spear>
+							</td>
+						</tr>
+					</table>
+				</media_container>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test46_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="Mapping">
+				<test_control unique="true" type="simple" checklist="target_0(x1);target_1(x2);target_2(x3);target_3(x4)" />
+				<p margin_top="1" align="justify">
+					<b>2. </b>
+					<text>Установите соответствие между химической формулой соли и классом, к которому она относится.</text>
+				</p>
+				<media_container type="table" width="100%">
+					<table width="full">
+						<tr>
+							<td bgcolor="e3f4fb" width="80%" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>NaHCO</text>
+								<sub>3</sub>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_0" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>Cu(OH)Cl</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_1" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>Na</text>
+								<sub>2</sub>
+								<text>CO</text>
+								<sub>3</sub>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_2" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>Na</text>
+								<sub>2</sub>
+								<text>[Zn(OH)</text>
+								<sub>4</sub>
+								<text>]</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_3" static="false" />
+							</td>
+						</tr>
+					</table>
+				</media_container>
+				<media_container type="table" width="100%">
+					<table width="full" cellpadding="5">
+						<tr>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x3">
+									<b>А. </b>
+									<text_test>средние соли </text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x1">
+									<b>Б. </b>
+									<text_test>кислые соли</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x2">
+									<b>В. </b>
+									<text_test>основные соли</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x4">
+									<b>Г. </b>
+									<text_test>комплексные соли</text_test>
+								</test_spear>
+							</td>
+						</tr>
+					</table>
+				</media_container>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test47_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text>text</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) case</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>2) case</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) case</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test49_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1. </b>
+					<text>К металлическим свойствам </text>
+					<b>не относят</b>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text> твёрдость</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> ковкость</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> металлический блескe</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text> газообразное состояние при нормальных условиях</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test49_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>2. </b>
+					<text>Только щелочные металлы указаны в ряду</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text> Li, Ba, Na, K</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text> Li, Na, K, Rb</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> K, Ca, Ba, Rb</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> Li, Na, Sr, Ca</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test49_1_3</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="Mapping">
+				<test_control unique="true" type="simple" checklist="target_0(x1);target_1(x2);target_2(x3);target_3(x4)" />
+				<p margin_top="1" align="justify">
+					<b>3. </b>
+					<text>Установите соответствие между общей формулой высших оксидов и молекулярной формулой вещества.</text>
+				</p>
+				<media_container type="table" width="100%">
+					<table width="full">
+						<tr>
+							<td bgcolor="e3f4fb" width="80%" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>R</text>
+								<sub>2</sub>
+								<text>O</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_0" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>RO</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_1" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>RO</text>
+								<sub>2</sub>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_2" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>RO</text>
+								<sub>3</sub>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_3" static="false" />
+							</td>
+						</tr>
+					</table>
+				</media_container>
+				<media_container type="table" width="100%">
+					<table width="full" cellpadding="5">
+						<tr>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x4">
+									<b>А. </b>
+									<text_test>SO</text_test>
+									<sub_white>3</sub_white>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x1">
+									<b>Б. </b>
+									<text_test>K</text_test>
+									<sub_white>2</sub_white>
+									<text_test>O</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x2">
+									<b>В. </b>
+									<text_test>CaO</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x3">
+									<b>Г. </b>
+									<text_test>SiO</text_test>
+									<sub_white>2</sub_white>
+								</test_spear>
+							</td>
+						</tr>
+					</table>
+				</media_container>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test50_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1. </b>
+					<text>В ряду Na—Mg—Al—Si металлические свойства</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text> усиливаются</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text> ослабевают</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> не изменяются</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> изменяются периодически</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test50_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>2. </b>
+					<text>В ряду Si—P—S—Cl неметаллические свойства</text>
+				</p>
+				<test_input answer="1" group="0" type="radio">
+					<text> усиливаются</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> ослабевают</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> не изменяются</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> изменяются периодически</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test50_1_3</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<p margin_top="1" align="justify">
+				<b>3. </b>
+				<text>Выпишите из каждой строки элемент, который в большей степени проявляет неметаллические свойства.</text>
+			</p>
+			<test type="FreeAnswer">
+				<p margin_top="1" align="justify">
+					<text> углерод, фтор</text>
+				</p>
+				<p margin_top="1" align="justify">
+					<test_input group="1" init="" answer="фтор|Фтор" type="text" cols="30" />
+				</p>
+			</test>
+			<test type="FreeAnswer">
+				<p margin_top="1" align="justify">
+					<text> кальций, бром</text>
+				</p>
+				<p margin_top="1" align="justify">
+					<test_input group="2" init="" answer="бром|Бром" type="text" cols="30" />
+				</p>
+			</test>
+			<test type="FreeAnswer">
+				<p margin_top="1" align="justify">
+					<text> кремний, фосфор</text>
+				</p>
+				<p margin_top="1" align="justify">
+					<test_input group="3" init="" answer="фосфор|Фосфор" type="text" cols="30" />
+				</p>
+			</test>
+			<test type="FreeAnswer">
+				<p margin_top="1" align="justify">
+					<text> кислород, фтор</text>
+				</p>
+				<p margin_top="1" align="justify">
+					<test_input group="4" init="" answer="фтор|Фтор" type="text" cols="30" />
+				</p>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test51_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1. </b>
+					<text>Формула летучего водородного соединения химического элемента H</text>
+					<sub>3</sub>
+					<text>R. В периодической таблице этот элемент находится</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text> в III группе</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text> в V группе</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> в VII группе</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> в IV группе</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test51_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="Mapping">
+				<test_control unique="true" type="simple" checklist="target_0(x1);target_1(x2);target_2(x3);target_3(x4)" />
+				<p margin_top="1" align="justify">
+					<b>2. </b>
+					<text>Установите соответствие между номером периода и числом элементов в периоде.</text>
+				</p>
+				<media_container type="table" width="100%">
+					<table width="full">
+						<tr>
+							<td bgcolor="e3f4fb" width="80%" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>1-й период</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_0" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>2-й и 3-й периоды</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_1" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>4-й и 5-й периоды </text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_2" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>6-й период</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_3" static="false" />
+							</td>
+						</tr>
+					</table>
+				</media_container>
+				<media_container type="table" width="100%">
+					<table width="full" cellpadding="5">
+						<tr>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x3">
+									<b>А. </b>
+									<text_test>18</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x4">
+									<b>Б. </b>
+									<text_test>32</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x1">
+									<b>В. </b>
+									<text_test>2</text_test>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x2">
+									<b>Г. </b>
+									<text_test>8</text_test>
+								</test_spear>
+							</td>
+						</tr>
+					</table>
+				</media_container>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test52_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1. </b>
+					<text>Изотопы одного и того же химического элемента различаются</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text> числом электронов</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> числом протонов</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text> числом нейтронов</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> зарядом ядра</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test52_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<media_container type="image" interactivity="no" height="22" width="239">
+						<img url="Data\tex\150.svg" />
+					</media_container>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text> 27 протонов и 13 нейтронов</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text> 13 протонов и 14 нейтронов</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> 14 протонов и 13 нейтронов</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> 13 протонов и 27 нейтронов</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test53_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1. </b>
+					<text>Сходство в строении атомов химических элементов одной А-группы обусловлено</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text> одинаковыми радиусами атомов</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> одинаковыми зарядами ядер атомов</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text> одинаковым числом электронов на внешнем электронном слое</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> одинаковым числом электронных слоёв</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test53_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>2. </b>
+					<text>Распределение электронов по электронным слоям в атоме элемента 2, 8, 4. Такое распределение электронов соответствует атому</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text> углерода</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> алюминия</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> магния</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text> кремния</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test53_1_3</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="Mapping">
+				<test_control unique="true" type="simple" checklist="target_0(x1);target_1(x2);target_2(x3);target_3(x4)" />
+				<p margin_top="1" align="justify">
+					<b>3. </b>
+					<text>Установите соответствие между химическим элементом и числом электронов на внешнем электронном уровне его атома.</text>
+				</p>
+				<media_container type="table" width="100%">
+					<table width="full">
+						<tr>
+							<td bgcolor="e3f4fb" width="80%" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>Na</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_0" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>Al</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_1" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>S</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_2" static="false" />
+							</td>
+						</tr>
+						<tr>
+							<td bgcolor="e3f4fb" text-align="center" border-size="2" border-color="FFFFFF">
+								<text>F</text>
+							</td>
+							<td bgcolor="e3f4fb" border-size="2" border-color="FFFFFF" text-align="justify">
+								<test_target id="target_3" static="false" />
+							</td>
+						</tr>
+					</table>
+				</media_container>
+				<media_container type="table" width="100%">
+					<table width="full" cellpadding="5">
+						<tr>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x3">
+									<b>А. </b>
+									<i_white>6e</i_white>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x1">
+									<b>Б. </b>
+									<i_white>1e</i_white>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x4">
+									<b>В. </b>
+									<i_white>7e</i_white>
+								</test_spear>
+							</td>
+							<td border-size="2" border-color="FFFFFF" text-align="center" text-valign="center" bgcolor="4991E3">
+								<test_spear id="x2">
+									<b>Г. </b>
+									<i_white>3e</i_white>
+								</test_spear>
+							</td>
+						</tr>
+					</table>
+				</media_container>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test54_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text>text</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) case</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>2) case</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) case</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test55_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1. </b>
+					<text>В ряду F — Cl — Br — I с увеличением порядкового номера химического элемента электроотрицательность</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text> увеличивается</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text> уменьшается</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> не изменяется</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> изменяется периодически</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test55_1_2</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>2. </b>
+					<text>ряду C — N — O — F с увеличением порядкового номера химического элемента электроотрицательность</text>
+				</p>
+				<test_input answer="1" group="0" type="radio">
+					<text> увеличивается</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> уменьшается</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> не изменяется</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text> изменяется периодически</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test56_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text>text</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) case</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>2) case</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) case</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+	<article>
+		<id>test57_1_1</id>
+		<test_container mode="test" difficulty="1" max_points="1">
+			<media_container type="image" width="15" height="15" interactivity="no">
+				<img url="Data/icons/test_bul1.svg" system="true" />
+			</media_container>
+			<br />
+			<test type="MultipleChoice">
+				<p margin_top="1" align="justify">
+					<b>1.</b>
+					<text>text</text>
+				</p>
+				<test_input answer="0" group="0" type="radio">
+					<text>1) case</text>
+				</test_input>
+				<br />
+				<test_input answer="1" group="0" type="radio">
+					<text>2) case</text>
+				</test_input>
+				<br />
+				<test_input answer="0" group="0" type="radio">
+					<text>3) case</text>
+				</test_input>
+			</test>
+		</test_container>
+	</article>
+</Articles>

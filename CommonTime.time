@@ -1,0 +1,28 @@
+Memory Usage On Startup
+WorkingSetSize: 2187264
+PeakWorkingSetSize: 2187264
+PagefileUsage: 663552
+PeakPagefileUsage: 663552
+
+Loading Project
+Kernel Time: 00:00:00:078
+User Time: 00:00:00:234
+Total Time: 00:00:00:312
+
+Memory Usage After Loading Project
+WorkingSetSize: 9379840
+PeakWorkingSetSize: 18083840
+PagefileUsage: 7606272
+PeakPagefileUsage: 16338944
+
+Compressing
+Kernel Time: 00:00:00:125
+User Time: 00:00:00:203
+Total Time: 00:00:00:328
+
+Memory Usage After Compressing
+WorkingSetSize: 79634432
+PeakWorkingSetSize: 146046976
+PagefileUsage: 77549568
+PeakPagefileUsage: 143962112
+

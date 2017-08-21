@@ -1,0 +1,770 @@
+	<!-- Стили текста -->
+	 <Style>
+  <Tag>sans_i_sub</Tag>
+  <Level>Sub</Level>
+  <Size>8</Size>
+  <Italic>ON</Italic>
+  <TextType>Normal</TextType>
+  <Language>russ</Language>
+  <FontName>Helvetica Neue</FontName>
+ </Style>
+ <Style>
+  <Tag>sans_i_sup</Tag>
+  <Level>Sup</Level>
+  <Size>8</Size>
+  <Italic>ON</Italic>
+  <TextType>Normal</TextType>
+  <Language>russ</Language>
+  <FontName>Helvetica Neue</FontName>
+ </Style>
+	<Style>
+  <Tag>u</Tag>
+  <Size>12</Size>
+  <Underline>ON</Underline>
+  <TextType>Normal</TextType>
+  <Language>russ</Language>
+  <FontName>Times New Roman</FontName>
+ </Style>
+ <Style>
+  <Tag>ui</Tag>
+  <Size>12</Size>
+  <Underline>ON</Underline>
+  <Italic>ON</Italic>
+  <TextType>Normal</TextType>
+  <Language>russ</Language>
+  <FontName>Times New Roman</FontName>
+ </Style>
+	<Style>
+		<Tag>text</Tag>
+		<TextType>Normal</TextType>
+		<Size>12</Size>
+		<Language>russ</Language>
+		<Color Red="64" Green="64" Blue="64" />
+		<FontName>Times New Roman</FontName>
+	</Style>
+	<Style>
+		<Tag>i</Tag>
+		<Size>12</Size>
+		<Italic>ON</Italic>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<FontName>Times New Roman</FontName>
+	</Style>
+
+	<Style>
+		<Tag>b</Tag>
+		<Size>12</Size>
+		<Bold>ON</Bold>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<FontName>Times New Roman</FontName>
+	</Style>
+	<Style>
+		<Tag>bi</Tag>
+		<Size>12</Size>
+		<Bold>ON</Bold>
+		<Italic>ON</Italic>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<FontName>Times New Roman</FontName>
+	</Style>
+	<Style>
+		<Tag>i_white</Tag>
+		<Italic>ON</Italic>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<Color Red="255" Green="255" Blue="255" />
+		<FontName>Times New Roman</FontName>
+	</Style>
+	<Style>
+		<Tag>b_white</Tag>
+		<Bold>ON</Bold>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<Color Red="255" Green="255" Blue="255" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>white</Tag>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<Color Red="255" Green="255" Blue="255" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>green</Tag>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<Color Red="46" Green="163" Blue="119" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>blue</Tag>
+		<Size>14</Size>
+		<Bold>ON</Bold>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<Color Red="0" Green="168" Blue="227" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+        <Tag>sup_blue</Tag>
+        <Level>Sup</Level>
+        <Size>12</Size>
+        <Color Red="0" Green="168" Blue="227" />
+        <FontName>Helvetica Neue</FontName>
+        <Language>russ</Language>
+        <TextType>Normal</TextType>
+    </Style>
+	<Style>
+		<Tag>orange_b</Tag>
+		<TextType>Normal</TextType>
+		<Size>13</Size>
+		<Bold>ON</Bold>
+		<Language>russ</Language>
+		<Color Red="241" Green="89" Blue="33" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>	
+	<Style>
+		<Tag>brown</Tag>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<Color Red="163" Green="99" Blue="24" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>small_gray</Tag>
+		<Size>10</Size>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<Color Red="124" Green="124" Blue="124" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>extern_link</Tag>
+		<Bold>ON</Bold>
+		<Underline>ON</Underline>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<Color Red="73" Green="147" Blue="228" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>extern_link_white</Tag>
+		<Underline>ON</Underline>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<Color Red="73" Green="147" Blue="228" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>extern_link14</Tag>
+		<Size>14</Size>
+		<Bold>ON</Bold>
+		<Underline>ON</Underline>
+		<Color Red="73" Green="147" Blue="228" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>link_white</Tag>
+		<Bold>ON</Bold>
+		<Underline>ON</Underline>
+		<Color Red="255" Green="255" Blue="255" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>h_link</Tag>
+		<Size>16</Size>
+		<Underline>ON</Underline>
+		<TextType>Normal</TextType>
+		<Color Red="161" Green="26" Blue="35" />
+		<Language>russ</Language>
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>extern_link_i</Tag>
+		<Bold>ON</Bold>
+		<Italic>ON</Italic>
+		<Underline>ON</Underline>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<Color Red="73" Green="147" Blue="228" />
+		<FontName>Times New Roman</FontName>
+	</Style>
+	<Style>
+		<Tag>test_description</Tag>
+		<Bold>ON</Bold>
+		<Size>14</Size>
+		<Color Red="40" Green="40" Blue="40" />
+		<Language>russ</Language>
+		<TextType>Normal</TextType>
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>h1</Tag>
+		<Bold>ON</Bold>
+		<Size>24</Size>
+		<Color Red="73" Green="147" Blue="228" />
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>h2</Tag>
+		<Bold>ON</Bold>
+		<Size>14</Size>
+		<Color Red="89" Green="89" Blue="89" />
+		<Language>russ</Language>
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>th</Tag>
+		<Bold>ON</Bold>
+		<TextType>Normal</TextType>
+		<Color Red="255" Green="255" Blue="255" />
+		<BackgroundColor Red="73" Green="147" Blue="228" Alpha="1" />
+		<Language>russ</Language>
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>text_test</Tag>
+		<TextType>Normal</TextType>
+		<Color Red="255" Green="255" Blue="255" />
+		<Language>russ</Language>
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>astrostyle</Tag>
+		<Bold>ON</Bold>
+		<Size>24</Size>
+		<TextType>Normal</TextType>
+		<Color Red="255" Green="255" Blue="255" />
+		<BackgroundColor Red="255" Green="117" Blue="36" Alpha="1" />
+		<Language>russ</Language>
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+
+	<!-- Кружки и квадраты -->
+	<Style>
+		<Tag>orange_dot</Tag>
+		<Color Red="236" Green="178" Blue="42" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>black_dot</Tag>
+		<Color Red="0" Green="0" Blue="0" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>blue_dot</Tag>
+		<Color Red="79" Green="162" Blue="241" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>green_dot</Tag>
+		<Color Red="115" Green="171" Blue="23" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>practical_dot</Tag>
+		<Size>20</Size>
+		<Color Red="236" Green="178" Blue="42" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>laboratory_dot</Tag>
+		<Size>20</Size>
+		<Color Red="236" Green="178" Blue="42" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>blue_square</Tag>
+		<Size>16</Size>
+		<Color Red="73" Green="147" Blue="228" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>practical_square</Tag>
+		<Size>16</Size>
+		<Color Red="236" Green="178" Blue="42" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>laboratory_square</Tag>
+		<Size>16</Size>
+		<Color Red="236" Green="178" Blue="42" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>test_triangle1</Tag>
+		<Color Red="255" Green="104" Blue="23" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>test_triangle2</Tag>
+		<Color Red="73" Green="47" Blue="112" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>test_triangle3</Tag>
+		<Color Red="87" Green="189" Blue="122" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>test_triangle4</Tag>
+		<Color Red="208" Green="58" Blue="87" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>test_triangle5</Tag>
+		<Color Red="70" Green="178" Blue="192" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+
+	<!-- sub, sup -->
+	<Style>
+		<Tag>sub</Tag>
+		<Level>Sub</Level>
+		<Size>8</Size>
+		<FontName>Times New Roman</FontName>
+		<Language>russ</Language>
+		<TextType>Normal</TextType>
+	</Style>
+	<Style>
+		<Tag>sup</Tag>
+		<Level>Sup</Level>
+		<Size>8</Size>
+		<FontName>Times New Roman</FontName>
+		<Language>russ</Language>
+		<TextType>Normal</TextType>
+	</Style>
+	<Style>
+		<Tag>sup_blue</Tag>
+		<Level>Sup</Level>
+		<Size>8</Size>
+		<Color Red="0" Green="168" Blue="227" />
+		<FontName>Helvetica Neue</FontName>
+		<Language>russ</Language>
+		<TextType>Normal</TextType>
+	</Style>
+	<Style>
+		<Tag>sub_b</Tag>
+		<Level>Sub</Level>
+		<Bold>ON</Bold>
+		<Size>8</Size>
+		<FontName>Times New Roman</FontName>
+		<Language>russ</Language>
+		<TextType>Normal</TextType>
+	</Style>
+	<Style>
+		<Tag>sup_b</Tag>
+		<Level>Sup</Level>
+		<Bold>ON</Bold>
+		<Size>8</Size>
+		<FontName>Times New Roman</FontName>
+		<Language>russ</Language>
+		<TextType>Normal</TextType>
+	</Style>
+	<Style>
+		<Tag>sub_i</Tag>
+		<Level>Sub</Level>
+		<Italic>ON</Italic>
+		<Size>8</Size>
+		<FontName>Times New Roman</FontName>
+		<Language>russ</Language>
+		<TextType>Normal</TextType>
+	</Style>
+	<Style>
+		<Tag>sup_i</Tag>
+		<Level>Sup</Level>
+		<Italic>ON</Italic>
+		<Size>8</Size>
+		<FontName>Times New Roman</FontName>
+		<Language>russ</Language>
+		<TextType>Normal</TextType>
+	</Style>
+	<Style>
+		<Tag>sub_blue</Tag>
+		<Level>Sub</Level>
+		<Size>8</Size>
+		<Color Red="73" Green="147" Blue="228" />
+		<FontName>Helvetica Neue</FontName>
+		<Language>russ</Language>
+		<TextType>Normal</TextType>
+	</Style>
+	<Style>
+		<Tag>sup_blue</Tag>
+		<Level>Sup</Level>
+		<Size>8</Size>
+		<Color Red="73" Green="147" Blue="228" />
+		<FontName>Helvetica Neue</FontName>
+		<Language>russ</Language>
+		<TextType>Normal</TextType>
+	</Style>
+	<Style>
+		<Tag>sub_white</Tag>
+		<Level>Sub</Level>
+		<Size>8</Size>
+		<Color Red="255" Green="255" Blue="255" />
+		<FontName>Helvetica Neue</FontName>
+		<Language>russ</Language>
+		<TextType>Normal</TextType>
+	</Style>
+	<Style>
+		<Tag>sup_white</Tag>
+		<Level>Sup</Level>
+		<Size>8</Size>
+		<Color Red="255" Green="255" Blue="255" />
+		<FontName>Helvetica Neue</FontName>
+		<Language>russ</Language>
+		<TextType>Normal</TextType>
+	</Style>
+	<Style>
+		<Tag>sub_i_white</Tag>
+		<Level>Sub</Level>
+		<Size>8</Size>
+		<Color Red="255" Green="255" Blue="255" />
+		<FontName>Helvetica Neue</FontName>
+		<Language>russ</Language>
+		<TextType>Normal</TextType>
+	</Style>
+	<Style>
+		<Tag>sup_i_white</Tag>
+		<Level>Sup</Level>
+		<Size>8</Size>
+		<Color Red="255" Green="255" Blue="255" />
+		<FontName>Helvetica Neue</FontName>
+		<Language>russ</Language>
+		<TextType>Normal</TextType>
+	</Style>
+	<Style>
+		<Tag>sub_b_white</Tag>
+		<Level>Sub</Level>
+		<Size>8</Size>
+		<Color Red="255" Green="255" Blue="255" />
+		<FontName>Helvetica Neue</FontName>
+		<Language>russ</Language>
+		<TextType>Normal</TextType>
+	</Style>
+	<Style>
+		<Tag>sup_b_white</Tag>
+		<Level>Sup</Level>
+		<Size>8</Size>
+		<Color Red="255" Green="255" Blue="255" />
+		<FontName>Helvetica Neue</FontName>
+		<Language>russ</Language>
+		<TextType>Normal</TextType>
+	</Style>
+
+	<!-- Особые стили для практикума - stage_header, section_header -->
+	<Style>
+		<Tag>section_header_practical</Tag>
+		<Bold>ON</Bold>
+		<Color Red="255" Green="255" Blue="255" />
+		<BackgroundColor Red="236" Green="178" Blue="42" Alpha="255" />
+		<FontName>Helvetica Neue</FontName>
+		<Language>russ</Language>
+		<TextType>Normal</TextType>
+	</Style>
+	<Style>
+		<Tag>section_header_laboratory</Tag>
+		<Bold>ON</Bold>
+		<Color Red="255" Green="255" Blue="255" />
+		<BackgroundColor Red="236" Green="178" Blue="42" Alpha="255" />
+		<FontName>Helvetica Neue</FontName>
+		<Language>russ</Language>
+		<TextType>Normal</TextType>
+	</Style>
+	<Style>
+		<Tag>stage_header_practical</Tag>
+		<Bold>ON</Bold>
+		<Color Red="236" Green="178" Blue="42" />
+		<FontName>Helvetica Neue</FontName>
+		<Language>russ</Language>
+		<TextType>Normal</TextType>
+	</Style>
+	<Style>
+		<Tag>stage_header_laboratory</Tag>
+		<Bold>ON</Bold>
+		<Color Red="236" Green="178" Blue="42" />
+		<FontName>Helvetica Neue</FontName>
+		<Language>russ</Language>
+		<TextType>Normal</TextType>
+	</Style>
+	<Style>
+		<Tag>back_green</Tag>
+		<Size>12</Size>
+		<Bold>ON</Bold>
+		<TextType>Normal</TextType>
+		<Color Red="0" Green="0" Blue="0" />
+		<BackgroundColor Red="201" Green="232" Blue="230" Alpha="1" />
+		<Language>russ</Language>
+		<FontName>Times New Roman</FontName>
+	</Style>
+	<Style>
+		<Tag>big_red_p</Tag>
+		<Size>17</Size>
+		<Bold>ON</Bold>
+		<TextType>Normal</TextType>
+		<Color Red="238" Green="29" Blue="35" />
+		<Language>russ</Language>
+		<FontName>Times New Roman</FontName>
+	</Style>
+	<Style>
+		<Tag>sans_red</Tag>
+		<TextType>Normal</TextType>
+		<Size>12</Size>
+		<Language>russ</Language>
+		<Color Red="255" Green="0" Blue="0" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>sans_red_b</Tag>
+		<TextType>Normal</TextType>
+		<Size>12</Size>
+		<Bold>ON</Bold>
+		<Language>russ</Language>
+		<Color Red="255" Green="0" Blue="0" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>sans_small_bi</Tag>
+		<TextType>Normal</TextType>
+		<Size>10</Size>
+		<Italic>ON</Italic>
+		<Bold>ON</Bold>
+		<Language>russ</Language>
+		<Color Red="64" Green="64" Blue="64" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+        <Tag>sans_grey</Tag>
+        <TextType>Normal</TextType>
+        <Size>12</Size>
+        <Language>russ</Language>
+        <Color Red="101" Green="98" Blue="99" />
+        <FontName>Helvetica Neue</FontName>
+    </Style>
+	<Style>
+		<Tag>sans_purpure</Tag>
+		<TextType>Normal</TextType>
+		<Size>12</Size>
+		<Language>russ</Language>
+		<Color Red="148" Green="50" Blue="99" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>normal_purpure</Tag>
+		<TextType>Normal</TextType>
+		<Size>12</Size>
+		<Language>russ</Language>
+		<Color Red="148" Green="50" Blue="99" />
+		<FontName>Times New Roman</FontName>
+	</Style>
+	<Style>
+		<Tag>big_purpure</Tag>
+		<TextType>Normal</TextType>
+		<Size>17</Size>
+		<Language>russ</Language>
+		<Bold>ON</Bold>
+		<Color Red="113" Green="47" Blue="98" />
+		<FontName>Times New Roman</FontName>
+	</Style>
+	<Style>
+		<Tag>big_purpure_i</Tag>
+		<TextType>Normal</TextType>
+		<Size>17</Size>
+		<Language>russ</Language>
+		<Bold>ON</Bold>
+		<Italic>ON</Italic>
+		<Color Red="113" Green="47" Blue="98" />
+		<FontName>Times New Roman</FontName>
+	</Style>
+	<Style>
+		<Tag>sans_green</Tag>
+		<TextType>Normal</TextType>
+		<Size>12</Size>
+		<Language>russ</Language>
+		<Color Red="3" Green="174" Blue="191" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>normal_green</Tag>
+		<TextType>Normal</TextType>
+		<Size>12</Size>
+		<Language>russ</Language>
+		<Color Red="3" Green="174" Blue="191" />
+		<FontName>Times New Roman</FontName>
+	</Style>
+	<Style>
+		<Tag>big_paragraph</Tag>
+		<TextType>Normal</TextType>
+		<Size>17</Size>
+		<Language>russ</Language>
+		<Color Red="0" Green="0" Blue="0" />
+		<FontName>Times New Roman</FontName>
+	</Style>
+	<Style>
+	<Tag>ub</Tag>
+  <Size>12</Size>
+  <Underline>ON</Underline>
+  <Bold>ON</Bold>
+  <TextType>Normal</TextType>
+  <Language>russ</Language>
+  <FontName>Times New Roman</FontName>
+ </Style>
+	<!-- Шрифты без засечек -->
+	<Style>
+		<Tag>sans</Tag>
+		<TextType>Normal</TextType>
+		<Size>12</Size>
+		<Language>russ</Language>
+		<Color Red="64" Green="64" Blue="64" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>sans_i</Tag>
+		<Size>12</Size>
+		<Italic>ON</Italic>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>sans_b</Tag>
+		<Size>12</Size>
+		<Bold>ON</Bold>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>sans_u</Tag>
+		<Size>12</Size>
+		<Underline>ON</Underline>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>sans_ui</Tag>
+		<Size>12</Size>
+		<Underline>ON</Underline>
+		<Italic>ON</Italic>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>sans_bi</Tag>
+		<Size>12</Size>
+		<Bold>ON</Bold>
+		<Italic>ON</Italic>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>sans_b_blue</Tag>
+		<Size>12</Size>
+		<Bold>ON</Bold>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<Color Red="0" Green="149" Blue="218" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>sans_i_white</Tag>
+		<Size>12</Size>
+		<Italic>ON</Italic>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<Color Red="255" Green="255" Blue="255" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>sans_b_white</Tag>
+		<Size>14</Size>
+		<Bold>ON</Bold>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<Color Red="255" Green="255" Blue="255" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>sans_white</Tag>
+		<Size>12</Size>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<Color Red="255" Green="255" Blue="255" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>header_white</Tag>
+		<Size>14</Size>
+		<Bold>ON</Bold>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<Color Red="255" Green="255" Blue="255" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>sans_big</Tag>
+		<Size>16</Size>
+		<Bold>ON</Bold>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<Color Red="0" Green="0" Blue="0" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>sans_small</Tag>
+		<Size>10</Size>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<Color Red="0" Green="0" Blue="0" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>sans_small_i</Tag>
+		<Size>10</Size>
+		<TextType>Normal</TextType>
+		<Italic>ON</Italic>
+		<Language>russ</Language>
+		<Color Red="0" Green="0" Blue="0" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>sans_small_u</Tag>
+		<Size>10</Size>
+		<TextType>Normal</TextType>
+		<Underline>ON</Underline>
+		<Language>russ</Language>
+		<Color Red="0" Green="0" Blue="0" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>sans_small_b</Tag>
+		<Size>10</Size>
+		<TextType>Normal</TextType>
+		<Bold>ON</Bold>
+		<Language>russ</Language>
+		<Color Red="0" Green="0" Blue="0" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+		<Style>
+		<Tag>sans_sub</Tag>
+		<Level>Sub</Level>
+		<Size>8</Size>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>sans_sup</Tag>
+		<Level>Sup</Level>
+		<Size>8</Size>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<FontName>Helvetica Neue</FontName>
+	</Style>

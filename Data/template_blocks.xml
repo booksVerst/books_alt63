@@ -1,0 +1,231 @@
+<!-- Мои темплейт -->
+<chapter version="1.21" id="chapter_41">
+	<page number="119" />
+	<p><big_paragraph>§&#160;41</big_paragraph><big_purpure> </big_purpure></p>
+
+
+
+</chapter>
+
+<image_block display="inline"  interactivity="no"><img url="Data\images\inline_1.png" /></image_block>
+
+<!-- ГЛАВА glv -->
+	<table border-style="none">
+		<tr>
+			<td><sans_big>НАЗВАНИЕ</sans_big></td>
+			<td>
+				<p><sans>ЦИТАТА</sans></p>
+				<p margin_top="0" align="right"><sans_i>И.&#160;Фамилия</sans_i></p>
+			</td>
+		</tr>
+	</table>
+
+<!-- Параграфы pr -->
+	<p><big_paragraph>§&#160;1</big_paragraph><big_purpure> Название</big_purpure></p>
+
+<!-- теоретические сведения -->
+	<text_block class="theoretical">
+		<p indent="2"  margin_top="-5px"><sans>Text</sans></p>
+		<p indent="2" margin_top="0"><sans>text</sans></p>
+	</text_block>
+
+ <!--Биг босс "Р"-->
+	<p><big_red_p>Р </big_red_p><back_green>&#160;3.&#160;</back_green><sans_small>текст</sans_small></p>
+
+<!--блок "повышенной трудности"-->
+	<text_block class="hard">
+		<p indent="2" margin_top="-5px"><back_green>&#160;1.&#160; </back_green><sans_small>text</sans_small></p>
+		<p indent="2" margin_top="0"><sans_small>text</sans_small></p>
+	</text_block>
+
+<!-- Текст с номером в фоне txf -->
+	<p><back_green>&#160;&#160;1.&#160;&#160;</back_green><sans_small> Text</sans_small></p>
+
+<!-- Текст с номером без фона tx -->
+	<p><normal_green>1.</normal_green> text</p>
+
+<!-- Обычный текст pi -->
+	<p indent="2">Text</p>
+
+<!-- Картинка во всю ширину gpi глова-пораграф-картинка -->
+	<image_block class="full-width" width="625px">
+		<img url="Data\images\g1_p1_i1.png" /> 
+	</image_block>
+
+<!-- Страница n -->
+<page number="5" />
+
+<!--изображение слева, обтекается текстом(ставить перед обтекающим его предложением) inr-->
+	<image_block class="inner">
+		<img url="Data\images\g1_p1_i1.png"/>
+	</image_block>
+
+<!-- рамка под текст -->
+	<table border-style="solid" border-color="00A99D">
+		<tr>
+			<td><p indent="2">text</td>
+		</tr>
+	</table>
+
+<!--изображение по центру не в полную ширину-->
+	<table border-style="none">
+		<tr>
+			<td width="25%"></td>
+			<td width="50%"  align="center">
+				<image_block class="top-bottom">
+					<img url="Data\images\image_08.png" />
+				</image_block>
+			</td>
+			<td width="25%"></td>
+		</tr>
+	</table>
+
+	<table border-style="none">
+		<tr>
+			<td width="10%"></td>
+			<td width="65%" >
+				<p></p>
+			</td>
+			<td width="25%" align="center">
+				<image_block class="top-bottom" width="180px">
+					<img url="Data\images\image_08.png" />
+				</image_block>
+			</td>
+		</tr>
+	</table>
+<!-- Есть еще такая кривая таблица-рамка но в примере так -->
+	<table border-color="00A99D">
+		<tr>
+			<td width="30%" border-style="none solid none none">&#160;</td>
+			<td width="55%" border-style="solid">
+				<p align="center" margin_top="0">
+					<b>Знаки транскрипции</b>
+				</p>
+				<p margin_top="0">слово в скобках</p>
+				<p margin_top="0">знак мягкости согласного</p>
+				<p margin_top="0">ударение в слове</p>
+			</td>
+			<td width="5%">
+				<p margin_top="0" border-style="solid">&#160;</p>
+				<p margin_top="0" border-style="solid">
+					<b>[ ]</b>
+				</p>
+				<p margin_top="0">
+					<b>’</b>
+				</p>
+				<p margin_top="0">
+					<b>&#160;&#x301;</b>
+				</p>
+			</td>
+			<td width="30%" border-style="none none none solid">&#160;</td>
+		</tr>
+	</table>
+
+<!--блок "определения и правила"-->
+	<text_block class="definition">
+		<p indent="2" margin_top="-5px">
+			<sans>Правописание непроверяемых безударных гласных в корне слова нужно запоминать.</sans>
+		</p>
+		<!-- Текст с корнем в картинке -->
+		<p indent="2" margin_top="0">
+			<image_block display="inline" width="180px" interactivity="no">
+				<img url="Data\images\inline_12.png" />
+			</image_block>
+		</p>
+		<p indent="2" margin_top="0">
+			<sans>В случае затруднения обращайтесь к орфографическому словарю.</sans>
+		</p>
+		<p align="right" margin_top="0">
+			<sans_b>№2</sans_b>
+		</p>
+	</text_block>
+
+
+<!--изображение обтекаемое текстом-->
+	<image_block class="inner">
+		<img url="Data\images\008.png"/>
+	</image_block>
+
+<!--блок "теоретические сведения"-->
+	<text_block class="theoretical">
+		<p indent="2" margin_top="-5px"><sans></sans></p>
+		<p indent="2"><sans></sans></p>
+	</text_block>
+
+<!--блок "определения и правила"-->
+	<text_block class="definition">
+		<p indent="2" margin_top="-5px"><sans></sans></p>
+		<p indent="2" margin_top="0"><sans></sans></p>
+	</text_block>
+
+<!--блок для "самостоятельных наблюдений"-->
+	<text_block class="independent">
+		<p indent="2" margin_top="-5px"><sans></sans></p>
+		<p indent="2" margin_top="0"><sans></sans></p>
+	</text_block>
+
+<!--блок "памятка"-->
+<text_block class="refresher">
+	<p align="center">Памятка</p>
+	<p align="center" margin_top="0"><sans_i>Приёмы изучающего чтения</sans_i></p>
+	<p indent="2" margin_top="-5px"><sans></sans></p>
+	<p indent="2" margin_top="0"><sans></sans></p>
+</text_block>
+
+<!--блок "повышенной трудности"-->
+	<text_block class="hard">
+		<p indent="2" margin_top="-5px"><sans></sans></p>
+		<p indent="2" margin_top="0"><sans></sans></p>
+	</text_block>
+
+<!--блок "игровые задания"-->
+	<text_block class="game">
+		<p indent="2" margin_top="-5px"><sans></sans></p>
+		<p indent="2" margin_top="0"><sans></sans></p>
+	</text_block>
+
+<text_block class="speech">        <!--блок "речевой этикет"-->
+	<p indent="2" margin_top="-5px"><sans></sans></p>
+	<p indent="2" margin_top="0"><sans></sans></p>
+</text_block>
+
+<p><back_green>&#160;11.&#160;</back_green><sans_small></sans_small></p> <!--числа с светло-зелёным фоном-->
+
+<p><big_paragraph>§&#160;1</big_paragraph><big_purpure> Язык и человек</big_purpure></p> <!--номер и название параграфа-->
+<image_block display="inline" width="22px" interactivity="no"><img url="Data\images\galochka.png" /></image_block>
+<sans_green></sans_green>       <!--шрифт светло-зелёного цвета без засечек-->
+<sans_purpure></sans_purpure>   <!--шрифт пупурного цвета без засечек-->
+<normal_green></normal_green>   <!--шрифт светло-зелёного цвета с засечками-->
+<big_red_p>Р</big_red_p>        <!--большая красная буква Р-->
+
+	<table border-style="none">                                 <!--изображение по центру не в полную ширину-->
+	<tr><td width="25%"></td><td width="50%"  align="center">
+	<image_block class="top-bottom">
+		<img url="Data\images\image_01.png" />
+	</image_block>
+	</td><td width="25%"></td></tr>
+	</table>
+&#9632;       <!--квадрат-->
+		<!--неразрывный пробел-->
+
+<table border-style="solid" border-color="00A99D"> <!--таблица с зелёными границами-->
+<tr><td><p indent="2"></p></td></tr>
+</table>
+
+
+
+
+<tex>\frac{\text{\underline{helloLaTeX}}}{\underline{ }}</tex>
+TexReplacer
+\textrm{} - прямой без засечек
+\text{} - по дефолту стоит шрифт с засечками 
+\textit{} - курсив с засечками
+\textsf{} - шрифт БЕЗ засечек
+ \textit{\textsf{Ф}} вернет курсив БЕЗ засечек
++\mathscr{E} вернет букву с завитушками, для ЭДС
+если кладешь так - <tex>$x$</tex>, то на выходе получаешь несжатую картинку
+\text{&#кодсимвола;}   для  знаков юникод НЕкурсивом
+В ТеХ можно так: {\mathcal  E}  ℰ
+
+\widehat{sd}
+для суффиксов
