@@ -1,0 +1,112 @@
+<chapter version="1.21" id="chapter_89">
+    <page number="106" />
+<!-- Параграфы -->
+    <p><big_paragraph>§&#160;89</big_paragraph><big_purpure> Разноспрягаемые глаголы</big_purpure></p>
+    <text_block class="independent" margin_top="-5px">
+        <p indent="2"><sans>Рассмотрите таблицу. Докажите, что глаголы </sans><sans_i>хотеть </sans_i><sans>и </sans><sans_i>бежать </sans_i><sans></sans></p>
+    </text_block>
+    <table margin_top="0" border-style="solid solid solid solid" border-color="000000" border-size="2px">
+        <tr>
+            <td margin_top="0" width="50%">
+            	<p align="center"><bi>хотеть</bi></p>
+            	<p indent="1"><tex>\left.\begin{matrix}\textit{я хочу}\\\textit{ты хочешь}\\\textit{он хочет}\end{matrix}\right\}\text{по I спряжению}</tex></p>
+            	<p indent="1"><tex>\left.\begin{matrix}\textit{мы хотим}\\\textit{вы хотите}\\\textit{они хотят}\end{matrix}\right\}\text{по II спряжению}</tex></p>
+            </td>
+            <td margin_top="0" width="50%">
+            	<p align="center"><bi>бежать</bi></p>
+            	<p indent="1"><tex>\left.\begin{matrix}\textit{я бегу}\\\textit{ты бежишь}\\\textit{он бежит}\\\textit{мы бежим}\\\textit{вы бежите}\end{matrix}\right\}\text{по II спряжению}</tex></p>
+            	<p indent="1"><tex>\left.\begin{matrix}\textit{они бегут}\end{matrix}\right\}\text{по I спряжению}</tex></p>
+            </td>
+        </tr>
+    </table>
+    <page number="107"/>
+    <p><back_green>&#160;&#160;522.&#160;&#160;</back_green><sans_small> Спишите. Подчеркните разноспрягаемые глаголы. Укажите их время, лицо, число. </sans_small>●<sans_small>&#160;Составьте простые и сложные предложения с глаголами&#8211;синонимами, данными в рамке.</sans_small></p>
+    <image_block class="inner" width="20%">
+        <img url="Data\images\89-1.png" />
+    </image_block>
+    <p indent="2">1. Коль хоч..шь радости Отчизне<footnote><brief><sup_blue>3</sup_blue></brief>выполнить морфологический разбор слова</footnote>, трудись не покладая рук.</p>
+	<p indent="2" margin_top="0">2. Кто хочет, тот доб(?)ётся.</p>
+	<p indent="2" margin_top="0">3. Мы (не)хотим войны.</p>
+	<p><back_green>&#160;&#160;523.&#160;&#160;</back_green><sans_small> Вставьте в нужной форме глагол бежать. Объясните его значение.</sans_small></p>
+	<p indent="2"><sans_green>Образец. </sans_green><sans_small_i>Время __&#160;__. Время бежит (быстро проходит).</sans_small_i></p>
+	<p indent="2">1. Облака __&#160;__ над морем.</p>
+	<p indent="2" margin_top="0">2. Вода __&#160;__ из крана.</p>
+	<p indent="2" margin_top="0">3. Я __&#160;__ по лугу.</p>
+	<p indent="2" margin_top="0">4. Кровь __&#160;__ по жилам.</p>
+	<p indent="2" margin_top="0">5. Тропинка __&#160;__ в гору.</p>
+	<text_block class="independent" margin_top="-5px">
+	    <p indent="2"><sans>Рассмотрите таблицы. Назовите окончания глаголов </sans><sans_i>есть, дать. </sans_i><sans>В чём особенность спряжения этих глаголов?</sans></p>
+	    <table margin_top="0" border-style="none">
+	    <tr>
+	        <td margin_top="0" width="46%">
+	        	<table margin_top="0" border-style="solid solid solid solid" border-color="000000" border-size="2px">
+	        	    <tr>
+	        	        <td margin_top="0" colspan="2" border-style="solid solid none solid" border-color="000000" border-size="2px">
+	        	        	<p align="center"><bi>есть</bi></p>
+	        	        </td>
+	        	    </tr>
+	        	    <tr>
+	        	        <td margin_top="0" border-style="none solid solid solid" border-color="000000" border-size="2px">
+	        	        	<p><i>Я </i><tex>\textit{е}\boxed{\textit{м}}</tex></p>
+	        	        	<p margin_top="0"><i>Ты ешь</i></p>
+	        	        	<p margin_top="0"><i>Он ест</i></p>
+	        	        </td>
+	        	        <td border-style="none solid solid solid" border-color="000000" border-size="2px" margin_top="0">
+	        	        	<p><i>Мы едим</i></p>
+	        	        	<p margin_top="0"><i>Вы едите</i></p>
+	        	        	<p margin_top="0"><i>Они едят</i></p>
+	        	        </td>
+	        	    </tr>
+	        	</table>
+	        </td>
+	        <td margin_top="0" width="8%">
+	        	&#160;
+	        </td>
+	        <td margin_top="0" width="46%">
+	        	<table margin_top="0" border-style="solid solid solid solid" border-color="000000" border-size="2px">
+	        	    <tr>
+	        	        <td margin_top="0" colspan="2" border-style="solid solid none solid" border-color="000000" border-size="2px">
+	        	        	<p align="center"><bi>дать</bi></p>
+	        	        </td>
+	        	    </tr>
+	        	    <tr>
+	        	        <td margin_top="0" border-style="none solid solid solid" border-color="000000" border-size="2px">
+	        	        	<p><i>Я </i><tex>\textit{да}\boxed{\textit{м}}</tex></p>
+	        	        	<p margin_top="0"><i>Ты дашь</i></p>
+	        	        	<p margin_top="0"><i>Он даст</i></p>
+	        	        </td>
+	        	        <td border-style="none solid solid solid" border-color="000000" border-size="2px" margin_top="0">
+	        	        	<p><i>Мы дадим</i></p>
+	        	        	<p margin_top="0"><i>Вы дадите</i></p>
+	        	        	<p margin_top="0"><i>Они дадут</i></p>
+	        	        </td>
+	        	    </tr>
+	        	</table>
+	        </td>
+	    </tr>
+	</table>
+	<p indent="2"><sans>Одинаковые ли основы у этих глаголов в единственном и во множественном числе?</sans></p>
+	</text_block>
+	<p><back_green>&#160;&#160;524.&#160;&#160;</back_green><sans_small> Пользуясь таблицами на с.&#160;106, 107, проспрягайте глаголы </sans_small><sans_small_i>(не)сдаться, наесться, создать. </sans_small_i><sans_small>Какого вида эти глаголы?</sans_small></p>
+	<page number="108"/>
+	<p><big_red_p>Р </big_red_p><back_green>&#160;525.&#160;</back_green><sans_small> Прочитайте диалог. Какова его основная мысль? Можно ли в данном тексте выделенное слово заменить синонимами из рамки?</sans_small></p>
+	<image_block class="inner" width="20%">
+	    <img url="Data\images\89-2.png" />
+	</image_block>
+	<p indent="2">— Быть может, вы хотите <b>покушать?</b></p>
+	<p indent="2" margin_top="0">— Спасибо. Я только что ужинал.</p>
+	<p indent="2" margin_top="0">— «Кушал»&#160;— это лакейское слово, да?</p>
+	<p indent="2" margin_top="0">— Почему?</p>
+	<p indent="2" margin_top="0">— Помните, в литературе прошлого века? Только лакеи говорили: «Кушать подано». Господа всегда говорили: «Милости прошу перекусить...»</p>
+	<p margin_top="0" align="right"><sans_small>(Ю. Семёнов)</sans_small></p>
+	<p><big_red_p>Р </big_red_p><back_green>&#160;526.&#160;</back_green><sans_small> Составьте и запишите диалог на тему «За завтраком», включив в него глаголы </sans_small><sans_small_i>есть, кушать.</sans_small_i></p>
+	<image_block class="full-width">
+	    <img url="Data\images\89-3.png"/>
+	</image_block>
+	<text_block class="hard">   
+	    <p indent="2"><back_green>&#160;&#160;527.&#160;&#160;</back_green><sans_small> Вставьте пропущенные буквы и раскройте скобки. Укажите вид, лицо и число разноспрягаемых глаголов </sans_small><sans_small_i>хотеть, бежать. </sans_small_i>●<sans_small>&#160;Являются ли антонимами выделенные слова? Почему?</sans_small></p>
+	</text_block>
+	<p indent="2"><sans_green>Образец. </sans_green><tex>\small{\textitsf{Хо}\uuline{\textitsf{ч}}\boxed{\textitsf{ет}}\textitsf{ (несов. в., 3-е л., ед. ч.).}}</tex></p>
+	<p indent="2">1.&#160;Буд..шь старат(?)ся&#160;— всё может удаст(?)ся. 2.&#160;Язык мягок&#160;— что (хотеть), то и лопоч..т. 3.&#160;<b>Худая</b> снасть и отдохнуть (не)(дать). 4.&#160;Чего себе (не)(хотеть), того и другому не делай. 5.&#160;<b>Добрая</b> слава лежит, а худая (бежать).<footnote><brief><sup_blue>4</sup_blue></brief>выполнить синтаксический разбор предложения</footnote> 6.&#160;Паши не лениво, если (хотеть) жить счас(?)ливо.</p>
+    <p margin_top="0" align="right"><sans_small>(Пословицы)</sans_small></p>
+</chapter>

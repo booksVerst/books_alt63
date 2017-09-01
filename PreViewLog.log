@@ -1,6 +1,11 @@
 ----------------------------------------------------------------
 Processing file Articles/articles_main.xml
 Processing file Lists/list_main.xml
+Processing file rus_fts_Headwords.xml
+Processing file rus_fts_Example.xml
+Processing file rus_fts_Example_hidden.xml
+Warning! Variants property count != Number of variants
+Warning! Variants property count != Number of variants
 Warning! Variants property count != Number of variants
 Warning! Variants property count != Number of variants
 Warning! Unused style from project file: <abstract_resource>.
@@ -211,6 +216,7 @@ Warning! Unused style from project file: <whitespace_sans_b_blue>.
 Warning! Unused style from project file: <whitespace_sans_b_white>.
 Warning! Unused style from project file: <whitespace_sans_bi>.
 Warning! Unused style from project file: <whitespace_sans_big>.
+Warning! Unused style from project file: <whitespace_sans_big_grey>.
 Warning! Unused style from project file: <whitespace_sans_green>.
 Warning! Unused style from project file: <whitespace_sans_grey>.
 Warning! Unused style from project file: <whitespace_sans_i_sub>.

@@ -1,22 +1,22 @@
 Loading xml file "Articles/articles_main.xml" by pugi parser
 Kernel Time: 00:00:00:000
-User Time: 00:00:00:015
-Total Time: 00:00:00:015
+User Time: 00:00:00:000
+Total Time: 00:00:00:000
 
 Memory Usage
-WorkingSetSize: 5545984
-PeakWorkingSetSize: 8769536
-PagefileUsage: 3907584
-PeakPagefileUsage: 7094272
+WorkingSetSize: 5435392
+PeakWorkingSetSize: 8691712
+PagefileUsage: 3780608
+PeakPagefileUsage: 7012352
 
 Parsing and creating articles from file "Articles/articles_main.xml" by Compiler
 Kernel Time: 00:00:00:000
-User Time: 00:00:00:031
-Total Time: 00:00:00:031
+User Time: 00:00:00:046
+Total Time: 00:00:00:046
 
 Memory Usage
-WorkingSetSize: 10612736
-PeakWorkingSetSize: 10612736
-PagefileUsage: 8843264
-PeakPagefileUsage: 8843264
+WorkingSetSize: 10870784
+PeakWorkingSetSize: 10870784
+PagefileUsage: 9089024
+PeakPagefileUsage: 9089024
 

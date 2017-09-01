@@ -1,5 +1,5 @@
 ----------------------------------------------------------------
 Processing file project_main.sproj
 CArticle::AddBlock : Warning! Wrong table cell align atribute value: top
-CArticle::AddBlock : Warning! Wrong table cell align atribute value: top
 CArticle::AddBlock : Warning! Wrong table cell align atribute value: bottom
+CArticle::AddBlock : Warning! Wrong table cell align atribute value: top

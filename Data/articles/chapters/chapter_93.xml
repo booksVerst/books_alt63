@@ -1,8 +1,253 @@
-<chapter version="1.0" id="chapter_93">
-	<page number="122"/>
+<chapter version="1.21" id="chapter_93">
+    <page number="121" />
+    <p><big_paragraph>§&#160;93</big_paragraph><big_purpure> Повелительное наклонение</big_purpure></p>
 
-	<p indent="2"><b>Аверченко и «новое» искусство.</b> Аверченко выступает по­борником не просто талантливого, но жизненного, реалистиче­ского искусства. Восторженно откликается он на гастроли в Пе­тербурге МХТ: «Художественный театр был единственным ме­стом, где я спрятал свой смех в карман и сидел на своём месте, потрясённый, сжатый тем мощным потоком несокрушимого та­ланта, который хлынул в мою бедную, юмористическую душу и закружил её, как щепку». Зато высмеивает он, исходя из здравого смысла, оторванный от жизни романтизм («Русалка»), и смех его достигает звенящей силы и едкости, когда он обра­щается к «архимодным», упадочническим течениям в современ­ной ему литературе или живописи. И здесь снова приходится вернуться к общей линии «Сатирикона».</p>
-	<p indent="2" margin_top="0px">Художники, поэты, рассказчики постоянно избирают мишенью для сатиры уродливое, антиэстетическое, больное в искусстве. Нет ничего удивительного в том, что темы иных карикатур и па­родий повторяют или предвосхищают сюжеты иных аверченков- ских рассказов. Они видели и весело изобличали в «новаторах», кичащихся своей «непонятностью», самых обычных шарлатанов. Демократизмом, ясностью вкусов Аверченко был близок массо­вому читателю.</p>
+    <text_block class="independent">
+        <p indent="2" margin_top="-5px"><sans>Прочитайте стихотворение выразительно, передавая голосом ласковое побуждение к действию. Назовите глаголы, обозначающие действия, к которым побуждает автор. В каком лице и числе они стоят? Употребите эти глаголы во 2&#8211;м лице во множественном числе.</sans></p>
+    </text_block>
 
+    <media_container margin_left="30%">
+        <p>Буди заснувшие цветы</p>
+        <p margin_top="0px">И им расписывай листы,</p>
+        <p margin_top="0px">Потом медвяною росой</p>
+        <p margin_top="0px">Пчелу&#8211;работницу напой</p>
+        <p margin_top="0px">И чистых капель меж листов</p>
+        <p margin_top="0px">Оставь про резвых мотыльков.</p>
+    </media_container>
+    <media_container margin_left="60%"><p margin_top="0"><sans>(В.&#160;Жуковский)</sans></p></media_container>
+
+     <text_block class="definition">
+        <p indent="2" margin_top="-5px">
+            <sans>Глаголы в </sans><sans_b>повелительном наклонении</sans_b><sans> обозначают такие действия, которые кто&#8211;то требует или просит выполнить.</sans>
+        </p>
+    </text_block>
+
+    <text_block class="theoretical">
+        <p indent="2"  margin_top="-5px"><sans>Глаголы в повелительном наклонении употребляются обычно в форме 2&#8211;го лица единственного и множественного числа. Глаголы в повелительном наклонении не изменяются по временам.</sans></p>
+    </text_block>
+
+    <text_block class="independent">
+        <p indent="2" margin_top="-5px"><sans>Рассмотрите таблицу. Назовите глаголы единственного числа в повелительном наклонении. С помощью какого суффикса они образованы? Какие окончания имеют глаголы множественного числа в повелительном наклонении?</sans></p>
+    </text_block>
+
+
+    <table border="1px">
+        <tr>
+            <td width="100%" colspan="2"><p align="center"><sans>Повелительное наклонение</sans></p></td>
+        </tr>
+        <tr>
+            <td width="50%"><p align="center">единственное число</p></td>
+            <td width="50%"><p align="center">множественное число</p></td>
+        </tr>
+        <tr>
+            <td width="50%"><p><tex>\textit{уч}\widehat{\textit{и}}\boxed{ }, \textit{ науч}\widehat{\textit{и}}\boxed{ }, \textit{ спрячь}\boxed{ }, \textit{ спрячь}\boxed{ }\widehat{\textit{ся}} \textit{ бросай}\boxed{ }</tex></p></td>
+            <td width="50%"><p><tex>\textit{уч}\widehat{\textit{и}}\boxed{\textit{те}}, \textit{ науч}\widehat{\textit{и}}\boxed{\textit{те}}, \textit{ спрячь}\boxed{\textit{те}}, \textit{ спрячь}\boxed{\textit{те}}\widehat{\textit{сь}}, \textit{ бросай}\boxed{\textit{те}}</tex></p></td>
+        </tr>
+    </table>   
+
+
+    <page number="122" />
+
+   <p><back_green>&#160;&#160;548.&#160;&#160;</back_green><sans_small>Прочитайте стихотворение Г.&#160;Граубина. Выпишите все глаголы в повелительном наклонении. Укажите лицо и число, обозначьте суффикс.</sans_small></p>
+
+    <media_container margin_left="33%"><p>ЗАМРИ&#160;— ОТОМРИ</p></media_container>
+    <media_container margin_left="30%">
+        <p>Давай поиграем в замри&#160;— отомри.</p>
+        <p margin_top="0px">Ты в школу идёшь.</p>
+        <p margin_top="0px">Перекрёсток.</p>
+        <p margin_top="0px">Замри!</p>
+        <p margin_top="0px">На красный огонь</p>
+        <p margin_top="0px">На дорогу смотри.</p>
+        <p margin_top="0px">Машины пройдут&#160;—</p>
+        <p margin_top="0px">Отомри и беги.</p>
+        <p margin_top="0px">Увидишь девчонку&#160;—</p>
+        <p margin_top="0px">И ей помоги.</p>
+        <p margin_top="0px">Звонок прозвенел&#160;—</p>
+        <p margin_top="0px">Сядь за парту, замри:</p>
+        <p margin_top="0px">Не прыгай,</p>
+        <p margin_top="0px">Не пой,</p>
+        <p margin_top="0px">Не болтай,</p>
+        <p margin_top="0px">Не сори.</p>
+        <p margin_top="0px">Попросит учитель к доске&#160;—</p>
+        <p margin_top="0px">Отомри,</p>
+        <p margin_top="0px">Уверенно, чётко</p>
+        <p margin_top="0px">Урок говори.</p>
+        <p margin_top="0px">С тобою в такое «замри&#160;— отомри»</p>
+        <p margin_top="0px">Готов я играть</p>
+        <p margin_top="0px">От зари до зари.</p>
+    </media_container>
+
+    <p align="center">
+        <image_block interactivity="no" class="top-bottom" width="700px"><img url="Data\images\93_1.png" /></image_block>
+    </p>
+
+    <page number="123" />
+
+    <media_container margin_left="30%">
+        <p margin_top="0px">Ну как, ты согласен?</p>
+        <p margin_top="0px">Итак: раз... два... три...</p>
+        <p margin_top="0px">Ты сел за уроки,</p>
+        <p margin_top="0px">Взял книжки...</p>
+        <p margin_top="0px">Замри!</p>
+    </media_container>
+
+    <p><back_green>&#160;&#160;549.&#160;&#160;</back_green><sans_small> Выпишите глаголы в повелительном наклонении и образуйте от них формы множественного числа. </sans_small>●<sans_small>&#160;В каких предложениях по цели высказывания употребляются глаголы в повелительном наклонении? </sans_small>●<sans_small>&#160;Какой из призывов в тексте представляется вам самым важным?</sans_small></p>
+
+    <p indent="2"><sans_green>Образец. </sans_green><tex>\small{\textitsf{Создавай}\boxed{ } \textitsf{ — создавай}\boxed{\textitsf{те}}.}</tex></p>
+
+    <p indent="2">Делай! Украшай землю и жизнь! Выращивай пшеницу, если ты агроном, борись за большую правду, за добро и справедливость, если ты писатель. Делай! И не оправдывай себя, если сделаешь плохо.</p>
+    <p margin_top="0px" align="right"><sans_small>(По&#160;Г.&#160;Николаевой)</sans_small></p>
+
+    <text_block class="theoretical">
+        <p indent="2"  margin_top="-5px"><sans>Формы глаголов в повелительном наклонении образуются с помощью суффикса </sans><sans_bi>-и</sans_bi><sans> или без суффикса. Глаголы в повелительном наклонении в единственном числе имеют нулевое окончание, а во множественном числе&#160;— окончание </sans><sans_bi>-те</sans_bi><sans>.</sans></p>
+    </text_block>
+
+    <p><back_green>&#160;&#160;550.&#160;&#160;</back_green><sans_small>Прочитайте стихотворение так, чтобы все услышали, как радостно косарь побуждает всех к действию: себя самого и силы природы. Спишите, расставляя пропущенные запятые. Обозначьте основу глаголов в повелительном наклонении и суффикс </sans_small><sans_small_b>-и.</sans_small_b></p>
+
+    <table border-style="none">
+        <tr>
+            <td width="100%" colspan="2"><media_container><p align="center">КОСАРЬ</p></media_container></td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <media_container margin_left="30%">
+                    <p>Раззудись плечо!</p>
+                    <p margin_top="0px">Размахнись рука!</p>
+                    <p margin_top="0px">Ты пахни в лицо</p>
+                    <p margin_top="0px">Ветер с полудня!</p>
+                    <p margin_top="0px">Освежи взволнуй</p>
+                    <p margin_top="0px">Степь просторную!</p>
+                    <p>&#160;</p>
+                </media_container>
+            </td>
+            <td width="50%">
+                <media_container margin_left="30%">
+                    <p>Зажужжи коса</p>
+                    <p margin_top="0px">Засверкай кругом,</p>
+                    <p margin_top="0px">Зашуми трава</p>
+                    <p margin_top="0px">Подкошённая;</p>
+                    <p margin_top="0px">Поклонись цветы</p>
+                    <p margin_top="0px">Головой земле!</p>
+                </media_container>
+                <media_container margin_left="60%"><p margin_top="0"><sans>(А.&#160;Кольцов)</sans></p></media_container>
+            </td>
+        </tr>
+    </table>  
+    
+    <page number="124" />
+
+    <text_block class="definition">
+        <p indent="2" margin_top="-5px"><sans>На конце глагола в повелительном наклонении после мягких согласных и шипящих пишется буква </sans><sans_bi>ь.</sans_bi></p>
+        <p indent="2" margin_top="0px"><sans>Мягкий знак в повелительном наклонении сохраняется перед </sans><tex>\textitsf{-}\widehat{\textitsf{ся}} \textitsf{ и } \textitsf{-}\boxed{\textitsf{те}}.</tex></p>
+        <p indent="2" margin_top="0px"><tex>\textitsf{Познако}\uuline{\textitsf{м}}\uline{\textitsf{ь}} \textitsf{, познако}\uuline{\textitsf{м}}\uline{\textitsf{ь}}\textitsf{те,} \textitsf{ познако}\uuline{\textitsf{м}}\uline{\textitsf{ь}}\textitsf{ся} \textitsf{ (повелит.).}</tex></p>
+        <p indent="2" margin_top="0px"><tex>\textitsf{Отре}\uuline{\textitsf{ж}}\uline{\textitsf{ь}} \textitsf{, отре}\uuline{\textitsf{ж}}\uline{\textitsf{ь}}\textitsf{те (повелит.).}</tex></p>
+        <p margin_top="0" align="right"><sans>№&#160;47</sans></p>
+    </text_block>
+    
+    <p><back_green>&#160;&#160;551.&#160;&#160;</back_green><sans_small> Замените данные глаголы близкими по значению, сохраняя повелительное наклонение и частицу </sans_small><sans_small_bi>не</sans_small_bi><sans_small>. Обозначьте условия выбора изучаемой орфограммы (см. образец в правиле).</sans_small></p>
+
+    <p indent="2">Не реви. Не горюйте. Не скрывайся от людей<footnote><brief><sup_blue>1</sup_blue></brief>выполнить фонетический разбор слова</footnote> . Освободи меня от неприятных<footnote><brief><sup_blue>3</sup_blue></brief>выполнить морфологический разбор слова</footnote> разговоров. Не упорствуй понапрасну.</p>
+    <p indent="2" margin_top="0px"><sans_purpure>Для справок:</sans_purpure><sans_small_i> прятаться, плакать, упрямиться, печалиться, избавить.</sans_small_i></p>
+
+    <text_block class="hard">   
+        <p indent="2"><back_green>&#160;&#160;552.&#160;&#160;</back_green><sans_small> Замените глаголы несовершенного вида глаголами совершенного вида. Определите, какие это глаголы&#160;— переходные или непереходные. </sans_small>●<sans_small>&#160;Составьте с выделенными словами словосочетания.</sans_small></p>
+    </text_block>
+    
+    <p indent="2"><sans_green>Образец.</sans_green><tex>\small{\textitsf{Оставайтесь — оста}\uuline{\textitsf{н}}\uline{\textitsf{ь}}\boxed{\textitsf{те}}\widehat{\textitsf{сь}} \textitsf{ (неперех.).} }</tex></p>
+
+    <p indent="2">Утешайтесь, (не)трогайте, увеличивайте, <b>повышайте</b>, (<b>не)замораживайте</b>, обжаривайте, ускоряйте, отодвигайте, опрокидывайте.</p>
+
+    <p><back_green>&#160;&#160;553.&#160;&#160;</back_green><sans_small> Спишите, вставляя подходящие по смыслу глаголы и расставляя пропущенные знаки препинания. </sans_small>●<sans_small>&#160;Найдите разноспрягаемый глагол.</sans_small></p>
+
+    <p indent="2">1.&#160;Петя __&#160;__ поскорее в школу. 2.&#160;Митя __&#160;__ чертёж в п..ртфель. 3.&#160;Шестиклассники __&#160;__ всё всегда на место&#160;— (не)будете никогда (ни)чего<footnote><brief><sup_blue>3</sup_blue></brief>выполнить морфологический разбор слова</footnote> искать. 4.&#160;Я подожду следующего тр..мвая, а ты Миша __&#160;__ на этом.<footnote><brief><sup_blue>5</sup_blue></brief>выполнить пунктуационный разбор предложения</footnote> 5.&#160;Вы устали Дмитрий Сергеевич? __&#160;__.</p>
+
+    <p indent="2" margin_top="0px"><sans_purpure>Для справок:</sans_purpure><sans_small_i> беги&#160;— бегите, положи&#160;— положите, клади&#160;— кладите, поезжай&#160;— поезжайте, отдохни&#160;— отдохните.</sans_small_i></p>
+
+    <page number="125" />
+
+    <text_block class="hard">   
+        <p indent="2"><back_green>&#160;&#160;554.&#160;&#160;</back_green><sans_small> Запишите пословицы, графически обозначая орфограммы. Над какими двумя видами орфограмм вы работали?</sans_small></p>
+    </text_block>
+    
+    <p indent="2"><sans_green>Образец. </sans_green><tex>\small{\textitsf{Семь раз отмерь, один } \overset{\textitsf{пов.}} {\textitsf{отре} \uuline{\textitsf{ж}} \uline{\textitsf{ь}} \textitsf{.} }}</tex></p>
+    <p indent="2" margin_top="0px"><tex>\small{\textitsf{Услуга за услугу — } \overset{\textitsf{неопр.}}{\textitsf{помо}\uuline{\textitsf{ч}} \uline{\textitsf{ь}} \textitsf{ хотим друг другу.} } }</tex></p>
+
+
+    <p indent="2">1.&#160;Не говори обиняком, реж(?) правду прямиком. 2.&#160;Кто не слушает советов, тому нечем помоч(?). 3.&#160;Лучше побереч(?)ся, чем обжеч(?)ся. 4.&#160;Кто неспособен гореть, того не зажеч(?). 5.&#160;Не ломай каравай, а ножом реж(?) да еш(?).</p>
+
+    <text_block class="independent">
+        <p indent="2" margin_top="-5px"><sans>Определите, в каком наклонении, лице и числе стоят глаголы. Какого они спряжения? В каких случаях в глаголах пишется </sans><sans_bi>-ите</sans_bi><sans>, а в каких&#160;— </sans><sans_bi>-ете</sans_bi><sans>?</sans></p>
+        <p indent="2"><sans>Почему в скобках дана форма 2&#8211;го лица единственного числа?</sans></p>
+    </text_block>
+
+    <table border-style="none">
+        <tr>
+            <td width="50%">
+                <p indent="1"><tex>\textit{Когда выйд}\boxed{\textit{ете}} \textit{ гулять?}</tex></p>
+                <p indent="1"><tex>\textit{(ты выйд}\boxed{\textit{ешь}} \textit{)}</tex></p>
+                <p indent="1"><tex>\textit{Вы помн}\boxed{\textit{ите}} \textit{ нашу встречу?}</tex></p>
+                <p indent="1"><tex>\textit{(ты помн}\boxed{\textit{ишь}} \textit{)}</tex></p>
+            </td>
+            <td width="50%" border-style="none none none solid" border-color="000000" border-size="3px" margin_top="0">
+                <p indent="1"><tex>\textit{Выйд}\widehat{\textit{и}}\boxed{\textit{ете}} \textit{ побыстрее!}</tex></p>
+                <p indent="1"><tex>\textit{(выйд}\widehat{\textit{и}} \textit{)}</tex></p>
+                <p indent="1"><tex>\textit{Помн}\widehat{\textit{и}}\boxed{\textit{ете}} \textit{ нас!}</tex></p>
+                <p indent="1"><tex>\textit{(помн}\widehat{\textit{и}} \textit{)}</tex></p>
+            </td>
+        </tr>
+    </table>
+
+    <text_block class="theoretical">
+        <p indent="2"  margin_top="-5px"><sans>Во 2&#8211;м лице во множественном числе пишется: </sans></p>
+        <p indent="2"><sans_bi>-ите</sans_bi><sans> в повелительном наклонении и в изъявительном наклонении у глаголов II спряжения;</sans></p>
+        <p indent="2"><sans_bi>-ете</sans_bi><sans_b> только</sans_b><sans> в изъявительном наклонении у глаголов I спряжения.</sans></p>
+    </text_block>
+
+    <p><back_green>&#160;&#160;555.&#160;&#160;</back_green><sans_small> Определите наклонение выделенных глаголов. Спишите, употребляя глаголы, данные в скобках, в нужной форме.</sans_small></p>
+    <p indent="2">1.&#160;<b>Пойдите</b> в лес, (пополнить) свой гербарий, (поискать) насекомых.</p>
+    <p indent="2" margin_top="0px">2.&#160;Вы <b>сядете</b> в лодку и (направиться) к противоположному берегу. Там (выбрать) место для палатки, (поставить) её.</p>
+
+    <page number="126" />
+
+    <p><back_green>&#160;&#160;556.&#160;&#160;</back_green><sans_small> Употребите глаголы во 2&#8211;м лице во множественном числе: а)&#160;в настоящем или будущем времени; б)&#160;в повелительном наклонении.</sans_small></p>
+
+    <p indent="2"><sans_green>Образец.</sans_green><tex>\small{\textitsf{Вынести — } \overset{\textitsf{буд.}} {\textitsf{вынес} \boxed{\textitsf{ете}}} \textitsf{ — } \overset{\textitsf{пов.}} {\textitsf{вынес} \widehat{\textitsf{и}} \boxed{\textitsf{те}}} }</tex></p>
+    <p indent="2">Выбрать, держать, выйти, сказать, писать.</p>
+
+    <text_block class="hard">   
+        <p indent="2"><back_green>&#160;&#160;557.&#160;&#160;</back_green><sans_small> Спишите, над глаголами в повелительном наклонении напишите </sans_small><sans_small_i>пов.</sans_small_i><sans_small>, а над глаголами в изъявительном наклонении укажите спряжение. Подчеркните глаголы в неопределённой форме. Какой из них переходный?</sans_small></p>
+    </text_block>
+    
+    <p indent="2">Напиш..те (не)большой ра(с,&#160;сс)каз о вашем любимом заняти..<footnote><brief><sup_blue>3</sup_blue></brief>выполнить морфологический разбор слова</footnote> . Вспомн..те, чем вы люб..те зан..маться на досуге. Когда подб..рёте<footnote><brief><sup_blue>2</sup_blue></brief>выполнить морфемный разбор слова</footnote> материал к сочинению, состав..те план, отброс..те<footnote><brief><sup_blue>2</sup_blue></brief>выполнить морфемный разбор слова</footnote> всё лишнее. После того как вы напиш..те черновик, внимательно провер..те написанное. (Не)торопитесь! Когда вы тороп..тесь, то не замеча..те (не)дочётов и ошибок. Прочитайте вслух своё сочинение, отметьте на полях (не)точности и ошибки, исправ..те их, дополн..те сочинение. Теперь мож..те переписать его.</p>
+    <p indent="2" margin_top="0px">У вас получится хорошее сочинение, если вы буд..те требовательны к себе.</p>
+
+    <text_block class="theoretical">
+        <p indent="2"  margin_top="-5px"><sans>Повелительное наклонение имеет также формы 3&#8211;го лица единственного и множественного числа и 1&#8211;го лица множественного числа.</sans></p>
+    </text_block>
+
+    <p><back_green>&#160;&#160;558.&#160;&#160;</back_green><sans_small> Спишите, подчёркивая глаголы в повелительном наклонении. Как образованы формы повелительного наклонения в выделенных глаголах?</sans_small></p>
+
+    <p indent="2">1.&#160;Шутку люб..шь над Фомой, так люби и над собой. 2.&#160;Семь раз отмерь, один раз отреж(?). 3.&#160;Поживи подольше, так и увид..шь побольше. (Посл.) 4.&#160;<b>Да здравствует</b> солнце, да скро..тся тьма.<footnote><brief><sup_blue>4</sup_blue></brief>выполнить синтаксический разбор предложения</footnote> (А.&#160;Пушкин) 5.&#160;Соловьи, соловьи, (не)тревож(?)те солдат: <b>пусть</b> солдаты немного <b>поспят</b>. (А.&#160;Фатьянов) 6.&#160;<b>Сделаем</b> всё, чтобы наша Родина процветала.</p>
+
+    <page number="127" />
+
+    <text_block class="hard">   
+        <p indent="2"><back_green>&#160;&#160;559.&#160;&#160;</back_green><sans_small> Напишите 5 призывов к приближающемуся празднику. Используйте глаголы в повелительном наклонении в форме 1&#8211;го лица множественного числа, а также глаголы в форме 3&#8211;го лица со словами да, пусть. </sans_small>●<sans_small>&#160;Объясните в записанных вами предложениях постановку знаков препинания.</sans_small></p>
+    </text_block>
+    
+    <p indent="2"><sans_green>Образец.</sans_green><sans_small_i> Ребята, </sans_small_i><sans_small_bi>посадим</sans_small_bi><sans_small_i> на нашей улице деревья! </sans_small_i><sans_small_bi>Да здравствует</sans_small_bi><sans_small_i> наша страна!</sans_small_i></p>
+
+    <p><back_green>&#160;&#160;560.&#160;&#160;</back_green><sans_small> Сгруппируйте глаголы по признаку: а)&#160;в изъявительном наклонении; б)&#160;в повелительном наклонении; в)&#160;в условном наклонении. Выделите суффиксы и окончания глаголов.</sans_small></p>
+    <p indent="2">1.&#160;(Не)трудился бы, так и хлеба (не)добился бы. 2.&#160;Языком (не)спеши, а делами (не)смеши. 3.&#160;(Не)пеняй на соседа, коли спишь до обеда. 4.&#160;Кто<footnote><brief><sup_blue>3</sup_blue></brief>выполнить морфологический разбор слова</footnote> (не)трудится, тот<footnote><brief><sup_blue>3</sup_blue></brief>выполнить морфологический разбор слова</footnote> (не)ест. 5.&#160;Лодырю всегда (не)здоровит(?)ся. 6.&#160;От красивых слов (не)прибавится масла в каше.</p>
+    <p align="right"><sans>(Пословицы)</sans></p>
+
+    <p><big_red_p>Р </big_red_p><back_green>&#160;561.&#160;</back_green><sans_small> Рассмотрите рисунки. Что могло произойти до и после того, что изображено на рисунках?</sans_small></p>
+
+    <p align="center">
+        <image_block interactivity="no" class="top-bottom" width="700px"><img url="Data\images\93_2.png" /></image_block>
+    </p>
+
+    <p indent="2"><sans_small>Напишите </sans_small><sans_small_b>рассказ</sans_small_b><sans_small> и озаглавьте его. Рассказ вы можете вести от 3&#8211;го и от 1&#8211;го лица; например, представьте себе, что вы и есть тот мальчик, которому поручили повесить плакат. Кому вы расскажете о том, как приклеивали плакат? Кто ваши слушатели? В какой обстановке вы рассказываете эту забавную историю? Как вас слушают?</sans_small></p>
+    <p indent="2" margin_top="0px"><sans_small>Подчеркните глаголы. Укажите их наклонение.</sans_small></p>
 
 </chapter>

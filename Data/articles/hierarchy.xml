@@ -1,8 +1,74 @@
 <root>
-	<article text="ГЛАВА1">
-		<article text="ПОДГЛАВА1">
-			<article id="chapter_0" text="§0. НАЗВАНИЕ1"/>
-			<article id="chapter_1" text="§1. НАЗВАНИЕ2"/>
+	<article text="МОРФОЛОГИЯ. ОРФОГРАФИЯ. КУЛЬТУРА РЕЧИ">
+		<article text="Имя прилагательное">
+			<article id="chapter_55" text="§55. Повторение изученного в 5 классе"/>
+			<article id="chapter_56" text="§56. Описание природы"/>
+			<article id="chapter_57" text="§57. Степени сравнения имён прилагательных"/>
+			<article id="chapter_58" text="§58. Разряды имён прилагательных по значению. Качественные прилагательные"/>
+			<article id="chapter_59" text="§59. Относительные прилагательные"/>
+			<article id="chapter_60" text="§60. Притяжательные прилагательные"/>
+			<article id="chapter_61" text="§61. Морфологический разбор имени прилагательного"/>
+			<article id="chapter_62" text="§62. Не с прилагательными"/>
+			<article id="chapter_63" text="§63. Буквы о и е после шипящих и ц в суффиксах прилагательных"/>
+			<article id="chapter_64" text="§64. Одна и две буквы н в суффиксах прилагательных"/>
+			<article id="chapter_65" text="§65. Различение на письме суффиксов прилагательных -к- и -ск-"/>
+			<article id="chapter_66" text="§66. Дефисное и слитное написание сложных прилагательных"/>
+			<article id="repeat_66"  text="Повторение"/>
 		</article>
+		<article text="Имя числительное">
+			<article id="chapter_67" text="§67. Имя числительное как часть речи"/>
+			<article id="chapter_68" text="§68. Простые и составные числительные"/>
+			<article id="chapter_69" text="§69. Мягкий знак на конце и в середине числительных"/>
+			<article id="chapter_70" text="§70. Порядковые числительные"/>
+			<article id="chapter_71" text="§71. Разряды количественных числительных"/>
+			<article id="chapter_72" text="§72. Числительные, обозначающие целые числа"/>
+			<article id="chapter_73" text="§73. Дробные числительные"/>
+			<article id="chapter_74" text="§74. Собирательные числительные"/>
+			<article id="chapter_75" text="§75. Морфологический разбор имени числительного"/>
+			<article id="repeat_75"  text="Повторение"/>
+		</article>
+		<article text="Местоимение">
+			<article id="chapter_76" text="§76. Местоимение как часть речи"/>
+			<article id="chapter_77" text="§77. Личные местоимения"/>
+			<article id="chapter_78" text="§78. Возвратное местоимение себя"/>
+			<article id="chapter_79" text="§79. Вопросительные и относительные местоимения"/>
+			<article id="chapter_80" text="§80. Неопределённые местоимения"/>
+			<article id="chapter_81" text="§81. Отрицательные местоимения"/>
+			<article id="chapter_82" text="§82. Притяжательные местоимения"/>
+			<article id="chapter_83" text="§83. Рассуждение"/>
+			<article id="chapter_84" text="§84. Указательные местоимения"/>
+			<article id="chapter_85" text="§85. Определительные местоимения"/>
+			<article id="chapter_86" text="§86. Местоимения и другие части речи"/>
+			<article id="chapter_87" text="§87. Морфологический разбор местоимения"/>
+			<article id="repeat_87"  text="Повторение"/>
+		</article>
+		<article text="Глагол">
+			<article id="chapter_88" text="§88. Повторение изученного в 5 классе"/>
+			<article id="chapter_89" text="§89. Разноспрягаемые глаголы"/>
+			<article id="chapter_90" text="§90. Глаголы переходные и непереходные"/>
+			<article id="chapter_91" text="§91. Наклонение глагола. Изъявительное наклонение"/>
+			<article id="chapter_92" text="§92. Условное наклонение"/>
+			<article id="chapter_93" text="§93. Повелительное наклонение"/>
+			<article id="chapter_94" text="§94. Употребление наклонений"/>
+			<article id="chapter_95" text="§95. Безличные глаголы"/>
+			<article id="chapter_96" text="§96. Морфологический разбор глагола"/>
+			<article id="chapter_97" text="§97. Рассказ на основе услышанного"/>
+			<article id="chapter_98" text="§98. Правописание гласных в суффиксах глаголов"/>
+			<article id="repeat_98"  text="Повторение"/>
+		</article>
+	</article>
+	<article text="ПОВТОРЕНИЕ И СИСТЕМАТИЗАЦИЯ ИЗУЧЕННОГО В 5 И 6 КЛАССАХ">
+		<article id="chapter_99" text="§99. Разделы науки о языке"/>
+		<article id="chapter_100" text="§100. Орфография"/>
+		<article id="chapter_101" text="§101. Пунктуация"/>
+		<article id="chapter_102" text="§102. Лексика и фразеология"/>
+		<article id="chapter_103" text="§103. Словообразование"/>
+		<article id="chapter_104" text="§104. Морфология"/>
+		<article id="chapter_105" text="§105. Синтаксис"/>
+	</article>
+	<article text="Приложение">
+		<article id="reminders" text="Памятки"/>
+		<article id="write_correctly" text="Пиши правильно!"/>
+		<article id="dictionary" text="Толковый словарь"/>
 	</article>
 </root>

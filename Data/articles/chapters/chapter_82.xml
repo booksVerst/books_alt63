@@ -1,0 +1,112 @@
+<chapter version="1.21" id="chapter_82">
+    <page number="84" />
+<!-- Параграфы -->
+    <p><big_paragraph>§&#160;82</big_paragraph><big_purpure> Притяжательные местоимения</big_purpure></p>
+    <text_block class="independent" margin_top="-5px">
+        <p indent="2"><sans>На какие вопросы отвечают выделенные слова в словосочетаниях? Какие из них прилагательные, а какие&#160;— местоимения?</sans></p>
+    </text_block>
+    <table margin_top="0" border-style="none" >
+        <tr>
+            <td width="40%">
+            	<p margin_top="0"><bi>сестрин</bi><i> платок</i></p>
+            	<p margin_top="0"><bi>лисья</bi><i> нора</i></p>
+            	<p margin_top="0"><bi>воронье</bi><i> гнездо</i></p>
+            	<p margin_top="0"><bi>птичьи</bi><i> домики</i></p>
+            	<p margin_top="0">&#160;</p>
+            	<p margin_top="0">&#160;</p>
+            	<p margin_top="0">&#160;</p>
+            	<p margin_top="0">&#160;</p>
+            </td>
+            <td border-style="none none none solid" border-color="000000" border-size="2px" width="40%">
+            	<p indent="1" margin_top="0"><bi>мой</bi><i> платок</i></p>
+            	<p indent="1" margin_top="0"><bi>твоя</bi><i> комната</i></p>
+            	<p indent="1" margin_top="0"><bi>ваши</bi><i> домики</i></p>
+            	<p indent="1" margin_top="0"><bi>наши</bi><i> домики</i></p>
+            	<p indent="1" margin_top="0"><bi>своё</bi><i> жилище</i></p>
+            	<p indent="1" margin_top="0"><bi>его</bi><i> книга</i></p>
+            	<p indent="1" margin_top="0"><bi>её</bi><i> отметка</i></p>
+            	<p indent="1" margin_top="0"><bi>их</bi><i> участие</i></p>
+            </td>
+            <td width="20%">
+            	<image_block>
+            	    <img url="Data\images\82-1.png" />
+            	</image_block>
+            </td>
+        </tr>
+    </table>
+    <text_block class="independent" margin_top="-5px">
+        <table border-style="none" margin_top="0">
+            <tr>
+                <td width="75%">
+                <p indent="2"><sans>Посмотрите, как изменяется притяжательное местоимение </sans><sans_i>наш.</sans_i></p>
+                </td>
+                <td width="25%">
+                    <image_block>
+                        <img url="Data\images\82-2.png" />
+                    </image_block>
+                </td>
+            </tr>
+        </table>
+        <table margin_top="0" border-style="none" >
+	        <tr>
+	            <td width="15%">
+	            </td>
+	            <td width="70%">
+	            	<p><tex>\text{Наш}\boxed{ }</tex> ковёр — цветочная поляна,</p>
+	            	<p margin_top="0"><tex>\text{Наш}\boxed{\text{и}}</tex> стены — сосны-великаны,</p>
+	            	<p margin_top="0"><tex>\text{Наш}\boxed{\text{а}}</tex> крыша — небо голубое,</p>
+	            	<p margin_top="0"><tex>\text{Наш}\boxed{\text{е}}</tex> счастье — жить такой судьбою.</p>
+	            	<p margin_top="0" align="right"><sans_small>(Ю. Энтин)</sans_small></p>
+	            </td>
+	            <td width="15%">
+	            </td>
+	        </tr>
+	    </table>
+	    <page number="85" />
+	    <p indent="2"><sans>Просклоняйте одно из словосочетаний с местоимением </sans><sans_i>наш (наша, наше).</sans_i></p>
+    </text_block>
+    <text_block class="theoretical">
+    	<p indent="2"  margin_top="-5px"><sans_b>Притяжательные </sans_b><sans>местоимения указывают на принадлежность.</sans></p>
+    	<p indent="2" margin_top="0"><sans>Они склоняются, как прилагательные.</sans></p>
+    	<p indent="2" margin_top="0">В предложении притяжательные местоимения обычно бывают определениями.</p>
+    </text_block>
+    <text_block class="independent" margin_top="-5px">
+        <p indent="2"><sans>Поставьте вопросы к выделенным местоимениям. В каких примерах они обозначают лицо, а в каких&#160;— принадлежность?</sans></p>
+    </text_block>
+    <p>1. Мы услышали <b>его.</b></p>
+    <p indent="2" margin_top="0">Мы были в восторге от <b>него.</b></p>
+    <p margin_top="0">2. Мы услышали <b>его </b>песню.</p>
+    <p indent="2" margin_top="0">Мы были в восторге от <b>его </b>песни.</p>
+    <p><back_green>&#160;&#160;475.&#160;&#160;</back_green><sans_small> Замените выделенные существительные местоимениями. В каких словосочетаниях местоимения обозначают принадлежность?</sans_small></p>
+    <p indent="2"><sans_green>Образец. </sans_green><sans_small_i>Склонилась к </sans_small_i><sans_small_bi>малышу </sans_small_bi><sans_small_i>- </sans_small_i><image_block display="inline"  interactivity="no" width="120px"><img url="Data\images\82-3.png" /></image_block></p>
+    <p indent="2"><sans_small_i>Обратилась к сестре Виктора&#160;— обратилась к </sans_small_i><image_block display="inline"  interactivity="no" width="80px"><img url="Data\images\82-4.png" /></image_block></p>
+    <p>1. Ра(с, сс)прашивает о <b>противнике.</b></p>
+    <p margin_top="0">2. Заботиш(?)ся о ребёнке <b>соседа.</b></p>
+    <p margin_top="0">3. Се&#x301;рдит(?)ся на <b>сестру.</b></p>
+    <p margin_top="0">4. Тревожиш(?)ся за друга <b>отца.</b></p>
+    <p margin_top="0">5. Шутили над подругой <b>Веры.</b></p>
+    <p margin_top="0">6. Беседовать с <b>подругой.</b></p>
+    <p margin_top="0">7. Просить помощи у <b>одноклассника.</b></p>
+    <p margin_top="0">8. Контактировать с <b>людьми.</b></p>
+    <p margin_top="0">9. Гостить у <b>друзей.</b></p>
+    <page number="86" />
+    <text_block class="hard">   
+        <p indent="2"><back_green>&#160;&#160;476.&#160;&#160;</back_green><sans_small> Прочитайте и озаглавьте текст. Спишите. Подчеркните местоимения, укажите их разряд, обозначьте падеж. </sans_small>●<sans_small>&#160;Как изменится смысл текста, если вместо местоимений </sans_small><sans_small_i>ты, твой </sans_small_i><sans_small>употребить местоимения </sans_small><sans_small_i>вы, ваш?</sans_small_i></p>
+    </text_block>
+    <image_block class="inner" float="left" width="40%">
+        <img url="Data\images\82-5.png" />
+    </image_block>
+    <p indent="2">Твоей<footnote><brief><sup_blue>1</sup_blue></brief>выполнить фонетический разбор слова</footnote> маме пр..ятно п..лучить от тебя не купленные на её же деньги цв..ты или к..нфеты, а вып..ленную твоими руками рамку или полочку, сделанную тобой шк..тулку, н..рисованную тобой к..ртинку, выш..тую тобой с..лфетку.</p>
+    <p indent="2" margin_top="0">Как бы скромен<footnote><brief><sup_blue>3</sup_blue></brief>выполнить морфологический разбор слова</footnote> ни был твой подарок, он д..ставит много радост.., если ты г..товил его с любовью<footnote><brief><sup_blue>3</sup_blue></brief>выполнить морфологический разбор слова</footnote> и своими руками.</p>
+    <text_block class="theoretical">
+    	<p indent="2"  margin_top="-5px"><sans>Местоимения </sans><sans_i>вы, ваш </sans_i><sans>иногда используются как форма вежливого обращения к одному лицу. В этом случае они пишутся с большой буквы: </sans><sans_i>Вы, Ваш.</sans_i></p>
+    </text_block>
+    <p><big_red_p>Р </big_red_p><back_green>&#160;477.&#160;</back_green><sans_small> Прочитайте отрывок из письма А.&#160;П.&#160;Чехова Я.&#160;П.&#160;Полонскому. Какие местоимения подчё ркивают вежливость и учтивость А.&#160;Чехова?</sans_small></p>
+    <p indent="2">...Мне стыдно, что не я первый написал Вам. Признаюсь, я давно уже хотел написать, да стеснялся и трусил.</p>
+    <p indent="2" margin_top="0">На Ваше желание посвятить мне стихотворение могу ответить только поклоном и просьбой&#160;— позволить мне посвятить Вам в будущем ту повесть, которую я напишу с особенной любовью .</p>
+    <p><big_red_p>Р </big_red_p><back_green>&#160;478.&#160;</back_green><sans_small> Прочитайте высказывание И.&#160;Эренбурга. Найдите местоимения. Попробуйте прочитать текст без них. Можно ли сказать, что в этом случае текст теряет смысл и выразительность?</sans_small></p>
+    <p indent="2">Мы не хотим воевать, мы хотим жить для себя, для детей, для нашей чудесной земли. Мы не только любим мир, мы его отстаиваем&#160;— нашим трудом, нашей выдержкой, нашим сознанием.</p>
+    <page number="87" />
+    <p><back_green>&#160;&#160;479.&#160;&#160;</back_green><sans_small_b> Диктант.</sans_small_b><sans_small> Укажите разряд местоимений. Объясните условия выбора </sans_small><sans_small_bi>н </sans_small_bi><sans_small>и </sans_small><sans_small_bi>нн </sans_small_bi><sans_small>в суффиксах прилагательных.</sans_small></p>
+    <p indent="2">Какой(нибудь) (не)большой подарок, с кем(нибудь) пос..ветоваться, на кожа(н, нн)ом (тёмно)коричнев..м переплёт.., на внутре(н, нн)ей стороне крышк.., чья(то) стари(н, нн)ая вышивка, (бледно)розовая с..лфетка, какие(либо) комнатные р..стения, шерстя(н, нн)ая пряжа для в..зания, (не)сложные контуры рисунка для вышивания, деревя(н, нн)ый или костя(н, нн)ой крюч..к, (ни)чего (ни)(у)кого (не)ок..залось, (не)чем отбл..годарить за вн..мание.</p>
+</chapter>

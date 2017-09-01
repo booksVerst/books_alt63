@@ -1,6 +1,107 @@
-<chapter version="1.0" id="chapter_86">
-	<page number="115"/>
-
-	<p indent="2"><b>«Путешествие Глеба».</b> Одним из главных памятников России отошедшей, самым обширным из писаний Зайцева является ав­тобиографическая тетралогия «Путешествие Глеба» (1937), «Ти­шина» (1948), «Юность» (1950), «Древо жизни» (1953). Вместе с другими крупными писателями Русского зарубежья, именно вдалеке от родины обращаясь к впечатлениям детства и моло­дости, создаёт он «историю одной жизни», «наполовину автобио­графию». Главная мысль тетралогии (впрочем, как и всего позд­него творчества Зайцева) может быть определена его же слова­ми: «Времени нет. Пока жив человек... Бывшее полвека столь же живо, а то и живее вчерашнего...» И в другом месте: «Всё до­стойное живёт в вечности этой». И хотя герой тетралогии — это второе «я» писателя (даже имя прозрачно намекает на другого русского святого, неразрывно с Глебом связанного, — князя Бо­риса, так же как и он, павшего от рук убийц, подосланных Свя- тополком Окаянным), подлинным центром всего произведения становится всё-таки Россия — деревенская, помещичья и кре­стьянская, городская, интеллигентская, её тогдашний жизненный уклад, её люди и пейзажи, её безмерность, поля, леса, веси и грады.</p>
-
+<chapter version="1.21" id="chapter_86">
+    <page number="94" />
+<!-- Параграфы -->
+    <p><big_paragraph>§&#160;86</big_paragraph><big_purpure> Местоимения и другие части речи</big_purpure></p>
+    <table border-style="none" margin_top="0">
+        <tr>
+            <td width="10%">
+                <image_block interactivity="no" margin_top="0" class="inner" width="10%"><img margin_top="0" url="Data\images\babyMan.png"  /></image_block>
+            </td>
+            <td width="90%">
+                <p>Елена Ивановна, у меня вопрос. Одни местоимения напоминают имена существительные и отвечают на вопросы <b>к&#160;т&#160;о? ч&#160;т&#160;о?,</b> а другие&#160;— напоминают имена прилагательные, к ним можно поставить вопросы <b>к&#160;а&#160;к&#160;о&#160;й? ч&#160;е&#160;й?</b> Значит, местоимения похожи на другие части речи?</p>
+            </td>
+        </tr>
+    </table>
+    <table border-style="none" margin_top="0">
+        <tr>
+            <td width="90%">
+                <p>Да, ты прав, Ваня. Одни местоимения имеют много общего с именами существительными и именами прилагательными, другие&#160;— с именами числительными и ещё некоторыми частями речи. Вспомним определение местоимения, как части речи, которая указывает на предметы, признаки, количества, но не называет их. Попробуйте привести примеры местоимений, которые похожи на другие части речи.</p>
+            </td>
+            <td width="10%">
+                <image_block interactivity="no" margin_top="0" class="inner" width="10%"><img margin_top="0" url="Data\images\woman.png" /></image_block>
+            </td>
+        </tr>
+    </table>
+    <table border-style="none" margin_top="0">
+        <tr>
+            <td width="10%">
+                <image_block interactivity="no" margin_top="0" class="inner" width="10%"><img margin_top="0" url="Data\images\babyGirl.png"  /></image_block>
+            </td>
+            <td width="90%">
+                <p>На имена существительные похожи местоимения: <b>я, ты, он, она...</b></p>
+            </td>
+        </tr>
+    </table>
+    <table border-style="none" margin_top="0">
+        <tr>
+            <td width="90%">
+                <p>А на имена прилагательные похожи местоимения <b>мой, твой, наш, каков, чей...</b></p>
+            </td>
+            <td width="10%">
+                <image_block interactivity="no" margin_top="0" class="inner" width="10%"><img margin_top="0" url="Data\images\babyMan.png" /></image_block>
+            </td>
+        </tr>
+    </table>
+    <table border-style="none" margin_top="0">
+        <tr>
+            <td width="10%">
+                <image_block interactivity="no" margin_top="0" class="inner" width="10%"><img margin_top="0" url="Data\images\woman.png"  /></image_block>
+            </td>
+            <td width="90%">
+                <p>Много общего с числительными имеют местоимения <b>сколько, столько, несколько...</b></p>
+            </td>
+        </tr>
+    </table>
+    <text_block class="theoretical">
+    	<p indent="2"  margin_top="-5px"><sans>Многие лингвисты выделяют местоимения по признаку сходства с другими частями речи: местоимения&#8211;существительные, местоимения&#8211;прилагательные, местоимения&#8211;числительные и др.</sans></p>
+    </text_block>
+    <page number="95" />
+    <table margin_top="0" border-style="solid solid solid solid" border-color="000000" border-size="3px" >
+        <tr>
+            <td margin_top="0" width="65%">
+            	<p align="center"><sans>Местоимения</sans></p>
+            </td>
+            <td margin_top="0" width="35%">
+            	<p align="center"><sans>Примеры</sans></p>
+            </td>
+        </tr>
+        <tr>
+            <td margin_top="0" width="65%" border-style="solid solid none solid">
+                <media_container margin_left="1">
+                    <p>Местоимения с признаками имён существительных</p>
+                </media_container>
+            </td>
+            <td margin_top="0" width="35%" border-style="solid solid none solid">
+                <media_container margin_left="1">
+                    <p><i>вы...</i></p>
+                </media_container>
+            </td>
+        </tr>
+        <tr>
+            <td margin_top="0" width="65%" border-style="none solid none solid">
+                <media_container margin_left="1">
+                    <p margin_top="0">Местоимения с признаками имён прилагательных</p>
+                </media_container>
+            </td>
+            <td margin_top="0" width="35%" border-style="none solid none solid">
+                <media_container margin_left="1">
+                    <p margin_top="0"><i>мой...</i></p>
+                </media_container>
+            </td>
+        </tr>
+        <tr>
+            <td margin_top="0" width="65%" border-style="none solid solid solid">
+                <media_container margin_left="1">
+                    <p margin_top="0">Местоимения с признаками имён числительных</p>
+                </media_container>
+            </td>
+            <td margin_top="0" width="35%" border-style="none solid solid solid">
+                <media_container margin_left="1">
+                    <p margin_top="0"><i>несколько...</i></p>
+                </media_container>
+            </td>
+        </tr>
+    </table>
+    <p><back_green>&#160;&#160;496.&#160;&#160;</back_green><sans_small> Прочитайте пословицы. Какие местоимения замещают существительные, какие&#160;— прилагательные, какие&#160;— числительные?</sans_small></p>
+    <p indent="2">1.&#160;Всякому овощу своё время. 2.&#160;Своя земля и в горсти мила. 3.&#160;Сколько голов, столько и умов. 4.&#160;Ты ему по секрету, а он&#160;— всему свету. 5.&#160;Ты ему слово, он тебе&#160;— десять. 6.&#160;Много говорено, да мало сказано. 7.&#160;Немного думано, да хорошо сказано.</p>
 </chapter>

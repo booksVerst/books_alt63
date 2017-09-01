@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <SlovoEd_Project>
-	<DictID>000002F0</DictID>
+	<DictID>000009F1</DictID>
 	<DatabaseType>Textbook</DatabaseType>
 	<LanguageCodeFrom>russ</LanguageCodeFrom>
 	<LanguageCodeTo>russ</LanguageCodeTo>
@@ -74,6 +74,105 @@
 			<Type>AuthorName</Type>
 			<LanguageCode>russ</LanguageCode>
 		</VariantProperty>
+	</List>
+	<List id="rus_fts_Headwords">
+		<ListType>FullTextSearch_Headword</ListType>
+		<FullTextSearchOptions>
+			<LinkType>ListEntryId</LinkType>
+			<ShiftType>None</ShiftType>
+			<Priority>0</Priority>
+			<isListSuffixSearch>NO</isListSuffixSearch>
+			<isListFullMorphologyWordForms>NO</isListFullMorphologyWordForms>
+			<AllowSourceListId>MainList</AllowSourceListId>
+		</FullTextSearchOptions>
+		<isListSorted>YES</isListSorted>
+		<isListHasHierarchy>NO</isListHasHierarchy>
+		<isListHasIcons>NO</isListHasIcons>
+		<isListHasSounds>NO</isListHasSounds>
+		<isListHasNumberOfArticlesPerItem>YES</isListHasNumberOfArticlesPerItem>
+		<LanguageCodeFrom>russ</LanguageCodeFrom>
+		<LanguageCodeTo>russ</LanguageCodeTo>
+		<ListFile>rus_fts_Headwords.xml</ListFile>
+		<CompressionMethod>CharCount</CompressionMethod>
+		<Strings Language="0000">
+			<ListName>Заголовки MainList</ListName>
+			<ListNameShort>Заголовки Ma</ListNameShort>
+			<ListLanguagePair>MainList</ListLanguagePair>
+			<ListLanguagePairShort>MainList</ListLanguagePairShort>
+			<ListLanguageNameFrom>MainList</ListLanguageNameFrom>
+			<ListLanguageNameTo>MainList</ListLanguageNameTo>
+		</Strings>
+	</List>
+	<List id="rus_fts_Example">
+		<ListType>FullTextSearch_Example</ListType>
+		<FullTextSearchOptions>
+			<LinkType>ListEntryId</LinkType>
+			<ShiftType>None</ShiftType>
+			<Priority>1</Priority>
+			<isListSuffixSearch>NO</isListSuffixSearch>
+			<isListFullMorphologyWordForms>NO</isListFullMorphologyWordForms>
+			<AllowSourceListId>rus_fts_Example_hidden</AllowSourceListId>
+		</FullTextSearchOptions>
+		<isListSorted>YES</isListSorted>
+		<isListHasHierarchy>NO</isListHasHierarchy>
+		<isListHasIcons>NO</isListHasIcons>
+		<isListHasSounds>NO</isListHasSounds>
+		<isListHasNumberOfArticlesPerItem>YES</isListHasNumberOfArticlesPerItem>
+		<LanguageCodeFrom>russ</LanguageCodeFrom>
+		<LanguageCodeTo>russ</LanguageCodeTo>
+		<ListFile>rus_fts_Example.xml</ListFile>
+		<CompressionMethod>CharCount</CompressionMethod>
+		<Strings Language="0000">
+			<ListName>Примеры MainList</ListName>
+			<ListNameShort>Примеры Ma</ListNameShort>
+			<ListLanguagePair>MainList</ListLanguagePair>
+			<ListLanguagePairShort>MainList</ListLanguagePairShort>
+			<ListLanguageNameFrom>MainList</ListLanguageNameFrom>
+			<ListLanguageNameTo>MainList</ListLanguageNameTo>
+		</Strings>
+	</List>
+	<List id="rus_fts_Example_hidden">
+		<ListType>FullTextAuxiliary</ListType>
+		<FullTextSearchOptions>
+			<LinkType>ListEntryId</LinkType>
+			<ShiftType>None</ShiftType>
+			<Priority>1025</Priority>
+			<isListSuffixSearch>NO</isListSuffixSearch>
+			<isListFullMorphologyWordForms>NO</isListFullMorphologyWordForms>
+			<AllowSourceListId>MainList</AllowSourceListId>
+		</FullTextSearchOptions>
+		<isListSorted>YES</isListSorted>
+		<isListHasHierarchy>NO</isListHasHierarchy>
+		<isListHasIcons>NO</isListHasIcons>
+		<isListHasSounds>NO</isListHasSounds>
+		<isListHasNumberOfArticlesPerItem>YES</isListHasNumberOfArticlesPerItem>
+		<LanguageCodeFrom>russ</LanguageCodeFrom>
+		<LanguageCodeTo>russ</LanguageCodeTo>
+		<ListFile>rus_fts_Example_hidden.xml</ListFile>
+		<CompressionMethod>CharCount</CompressionMethod>
+		<VariantProperty>
+			<Number>0</Number>
+			<Type>Show</Type>
+			<LanguageCode>russ</LanguageCode>
+		</VariantProperty>
+		<VariantProperty>
+			<Number>1</Number>
+			<Type>Phrase</Type>
+			<LanguageCode>russ</LanguageCode>
+		</VariantProperty>
+		<VariantProperty>
+			<Number>2</Number>
+			<Type>Label</Type>
+			<LanguageCode>engl</LanguageCode>
+		</VariantProperty>
+		<Strings Language="0000">
+			<ListName>Примеры MainList</ListName>
+			<ListNameShort>Примеры Ma</ListNameShort>
+			<ListLanguagePair>MainList</ListLanguagePair>
+			<ListLanguagePairShort>MainList</ListLanguagePairShort>
+			<ListLanguageNameFrom>MainList</ListLanguageNameFrom>
+			<ListLanguageNameTo>MainList</ListLanguageNameTo>
+		</Strings>
 	</List>
 	<Style>
 		<Tag>sans_i_sub</Tag>
@@ -291,53 +390,85 @@
 	</Style>
 	<Style>
 		
+		
         
+		
 		<Tag>sup_blue</Tag>
 		
+		
         
+		
 		<Level>Sup</Level>
 		
+		
         
+		
 		<Size>12</Size>
 		
+		
         
+		
 		<Color Red="0" Green="168" Blue="227" />
 		
+		
         
+		
 		<FontName>Helvetica Neue</FontName>
 		
+		
         
+		
 		<Language>russ</Language>
 		
+		
         
+		
 		<TextType>Normal</TextType>
 		
+		
     
+	
 	</Style>
 	<Style>
 		
+		
         
+		
 		<Tag>whitespace_sup_blue</Tag>
 		
+		
         
+		
 		<Level>Sup</Level>
 		
+		
         
+		
 		<Size>12</Size>
 		
+		
         
+		
 		<Color Red="0" Green="168" Blue="227" />
 		
+		
         
+		
 		<FontName>Helvetica Neue</FontName>
 		
+		
         
+		
 		<Language>russ</Language>
 		
+		
         
+		
 		<TextType>Normal</TextType>
 		
+		
     
+	
 	</Style>
 	<Style>
 		<Tag>orange_b</Tag>
@@ -1183,6 +1314,24 @@
 		<Size>12</Size>
 		<Language>russ</Language>
 		<Color Red="101" Green="98" Blue="99" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>sans_big_grey</Tag>
+		<Size>16</Size>
+		<Bold>ON</Bold>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<Color Red="109" Green="110" Blue="112" />
+		<FontName>Helvetica Neue</FontName>
+	</Style>
+	<Style>
+		<Tag>whitespace_sans_big_grey</Tag>
+		<Size>16</Size>
+		<Bold>ON</Bold>
+		<TextType>Normal</TextType>
+		<Language>russ</Language>
+		<Color Red="109" Green="110" Blue="112" />
 		<FontName>Helvetica Neue</FontName>
 	</Style>
 	<Style>
