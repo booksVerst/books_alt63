@@ -2,21 +2,21 @@
     <page number="79" />
 <!-- Параграфы -->
     <p><big_paragraph>§&#160;81</big_paragraph><big_purpure> Отрицательные местоимения</big_purpure></p>
-    <text_block class="theoretical">
         <table border-style="none" margin_top="0">
             <tr>
                 <td width="75%">
-                    <p indent="2"  margin_top="-5px"><sans_b>Отрицательные </sans_b><sans>местоимения образованы от вопросительных с помощью приставок </sans><sans_bi>не&#8211; </sans_bi><sans>и </sans><sans_bi>ни&#8211;.</sans_bi><sans> Они выражают отсутствие чего-либо: лица, предмета, признака, количества.</sans></p>
-                    <p indent="2" margin_top="0"><sans>Отрицательные местоимения изменяются по падежам. Местоимения </sans><sans_i>не&#x301;кого, не&#x301;чего </sans_i><sans>не имеют именительного падежа.</sans></p>
+                    <text_block class="theoretical">
+                        <p indent="2"  margin_top="-5px"><sans_b>Отрицательные </sans_b><sans>местоимения образованы от вопросительных с помощью приставок </sans><sans_bi>не&#8211; </sans_bi><sans>и </sans><sans_bi>ни&#8211;.</sans_bi><sans> Они выражают отсутствие чего-либо: лица, предмета, признака, количества.</sans></p>
+                        <p indent="2" margin_top="0"><sans>Отрицательные местоимения изменяются по падежам. Местоимения </sans><sans_i>не&#x301;кого, не&#x301;чего </sans_i><sans>не имеют именительного падежа.</sans></p>
+                    </text_block>
                 </td>
                 <td width="25%">
-                    <image_block>
+                    <image_block width="80%">
                         <img url="Data\images\81-1.png" />
                     </image_block>
                 </td>
             </tr>
         </table>
-    </text_block>
     <p><back_green>&#160;&#160;462.&#160;&#160;</back_green><sans_small> Как образованы данные слова? </sans_small>●<sans_small>&#160;Составьте 2—3 предложения с отрицательными местоимениями.</sans_small></p>
     <p indent="2"><sans_green>Образец. </sans_green><tex>\small{\overline{\textitsf{Ни}}^{\rule{0.4pt}{2pt}}\textitsf{чей }\leftarrow\textitsf{ чей.}}</tex></p>
     <p indent="2">Некого, никакой, никто, нечего, ничто.</p>
@@ -34,14 +34,14 @@
     	</tr>
         <tr  margin_top="0" >
             <td width="40%">
-            	<p>— Что купили?</p>
-            	<p margin_top="0">— Ничего!</p>
-            	<p margin_top="0">— Что сварили?</p>
-            	<p margin_top="0">— Ничего!</p>
-            	<p margin_top="0">— Что жуёте?</p>
-            	<p margin_top="0">— Ничего!</p>
-            	<p margin_top="0">— Как живёте?</p>
-            	<p margin_top="0">— Ничего!</p>
+            	<p indent="5">— Что купили?</p>
+            	<p indent="5" margin_top="0">— Ничего!</p>
+            	<p indent="5" margin_top="0">— Что сварили?</p>
+            	<p indent="5" margin_top="0">— Ничего!</p>
+            	<p indent="5" margin_top="0">— Что жуёте?</p>
+            	<p indent="5" margin_top="0">— Ничего!</p>
+            	<p indent="5" margin_top="0">— Как живёте?</p>
+            	<p indent="5" margin_top="0">— Ничего!</p>
             </td>
             <td width="40%">
             	<p>— Непонятно,</p>
@@ -69,7 +69,7 @@
                     <p margin_top="0"><tex>\overline{\textitsf{Н}\uline{\textitsf{и}}}^{\rule{0.4pt}{2pt}}\textitsf{ког\'о.}</tex></p>
                 </td>
                 <td width="20%">
-                    <p align="right"  margin_top="0"><sans_b>№ 45</sans_b></p>
+                    <p align="right"  margin_top="0"><sans_b>№&#160;45</sans_b></p>
                 </td>
             </tr>
         </table>
@@ -125,10 +125,10 @@
     	<table margin_top="0" border-style="none">
 	    	<tr>
 	    		<td width="80%">
-	    			<p><tex>\textitsf{Ни}\uline{~~}\uuline{\textitsf{у}}\uline{~~}\textitsf{кого. }</tex><tex>\textitsf{Н\'e}\uline{~~}\uuline{\textitsf{с}}\uline{~~}\textitsf{кем.}</tex></p>
+	    			<p><tex>\textitsf{Ни}\uline{~~}\uuline{\textitsf{у}}\uline{~~}\textitsf{кого. ~~~}</tex><tex>\textitsf{Н\'e}\uline{~~}\uuline{\textitsf{с}}\uline{~~}\textitsf{кем.}</tex></p>
 	    		</td>
 	    		<td width="20%">
-	    			<p align="right"><sans_b>№ 46</sans_b></p>
+	    			<p align="right"><sans_b>№&#160;46</sans_b></p>
 	    		</td>
 	    	</tr>
 	    </table>
@@ -147,7 +147,7 @@
     <text_block class="hard">   
         <p indent="2"><back_green>&#160;&#160;471.&#160;&#160;</back_green><sans_small> Прочитайте и озаглавьте текст. Найдите в тексте местоимения, определите их разряд. Объясните изученные орфограммы в местоимениях.</sans_small></p>
     </text_block>
-    <image_block class="inner" width="50%" float="left">
+    <image_block class="inner" width="40%" float="left">
         <img url="Data\images\81-3.png" />
     </image_block>
     <p indent="2">Собрались как-то трое друзей и стали спорить, кто лучше сказку расскажет. Первый начал:</p>

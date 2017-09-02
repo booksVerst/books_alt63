@@ -52,17 +52,17 @@
 
     <p><back_green>&#160;&#160;394.&#160;&#160;</back_green><sans_small> Рассмотрите рисунки. Какие однокоренные слова пытался проиллюстрировать художник? Определите часть речи каждого слова.</sans_small></p>
     
-    <table border-style="none">
+    <table margin_top="0" border-style="none">
         <tr>
             <td width="50%">
-                <p align="center">
-                    <image_block interactivity="no" class="top-bottom" width="700px"><img url="Data\images\67_1.png" /></image_block>
-                </p>
+                <image_block interactivity="no" class="top-bottom" >
+                    <img url="Data\images\67_1.png" />
+                </image_block>
             </td>
             <td width="50%">
-                <p align="center">
-                    <image_block interactivity="no" class="top-bottom" width="700px"><img url="Data\images\67_2.png" /></image_block>
-                </p>
+                <image_block interactivity="no" class="top-bottom" >
+                    <img url="Data\images\67_2.png" />
+                </image_block>
             </td>
         </tr>
     </table>

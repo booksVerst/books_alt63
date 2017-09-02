@@ -2,21 +2,21 @@
     <page number="76" />
 <!-- Параграфы -->
     <p><big_paragraph>§&#160;80</big_paragraph><big_purpure> Неопределённые местоимения</big_purpure></p>
-    <text_block class="independent" margin_top="-5px">
         <table border-style="none" margin_top="0">
             <tr>
                 <td width="75%">
-                    <p indent="2"><sans_b>Не&#x301;кто</sans_b><sans> шёл по </sans><sans_b>какой-то</sans_b><sans> дороге и нашёл </sans><sans_b>не&#x301;что. Не&#x301;которую</sans_b><sans> часть найденного он отдал товарищу, а </sans><sans_b>кое-что</sans_b><sans> бросил. Что у него осталось?</sans></p>
-                    <p indent="2"><sans>Ясно ли из этой загадки, кто шёл, по какой дороге, что он нашёл и что отдал?</sans></p>
+                    <text_block class="independent" margin_top="-5px">
+                        <p indent="2"><sans_b>Не&#x301;кто</sans_b><sans> шёл по </sans><sans_b>какой-то</sans_b><sans> дороге и нашёл </sans><sans_b>не&#x301;что. Не&#x301;которую</sans_b><sans> часть найденного он отдал товарищу, а </sans><sans_b>кое-что</sans_b><sans> бросил. Что у него осталось?</sans></p>
+                        <p indent="2"><sans>Ясно ли из этой загадки, кто шёл, по какой дороге, что он нашёл и что отдал?</sans></p>
+                    </text_block>
                 </td>
                 <td width="25%">
-                    <image_block>
+                    <image_block width="80%">
                         <img url="Data\images\80-1.png" />
                     </image_block>
                 </td>
             </tr>
         </table>
-    </text_block>
     <text_block class="theoretical">
     	<p indent="2"  margin_top="-5px"><sans>Выделенные местоимения указывают на неопределённые лица, предметы, признаки, количества и называются </sans><sans_b>неопределёнными.</sans_b></p>
     	<page number="77" />

@@ -16,8 +16,8 @@
 
     <text_block class="theoretical">
         <p indent="2"  margin_top="-5px"><sans>Сравнительная степень прилагательных имеет две формы: простую и составную.</sans></p>
-        <p indent="2" margin_top="0px"><sans_b>Простая форма сравнительной степени </sans_b><sans>бразуется путём прибавления к основе начальной формы прилагательных суффиксов </sans><sans_bi>-ее (-ей),</sans_bi><sans> например: </sans><sans_i>приветливый&#160;— </sans_i><tex>\small{\textitsf{приветлив}\widehat{\textitsf{ее}}}</tex><sans> </sans><tex>\small{\textitsf{(-}\widehat{\textitsf{ей}}\textitsf{);}}</tex><sans_b> -е </sans_b><sans>(перед ним происходит чередование согласных), например: </sans><tex>\small{\textitsf{гром}\uline{\textitsf{к}}\textitsf{ий}}</tex><sans_i>&#160;— </sans_i><tex>\small{\textitsf{гром}\uline{\textitsf{ч}}\widehat{\textitsf{е}}};</tex><sans_bi> -ше, </sans_bi><sans>например: </sans><sans_i>тонкий&#160;— </sans_i><tex>\small{\textitsf{тонь}\widehat{\textitsf{ше}}.}</tex></p>
-        <p indent="2" margin_top="0px"><sans>Иногда при присоединении суффиксов</sans><sans_bi>-е</sans_bi><sans> и </sans><sans_bi>-ше</sans_bi><sans> от основы начальной формы отсекается суффикс </sans><sans_bi>-к- (-ок, -ёк),</sans_bi><sans> например: </sans><tex>\small{\textitsf{слад}\uline{\textitsf{к}}\textitsf{ий}}</tex><sans_i>&#160;— </sans_i><tex>\textitsf{слащ}\small{\widehat{\textitsf{е}}}, </tex><tex>\small{\textitsf{дал}\uline{\textitsf{ёк}}\textitsf{ий}}</tex><sans_i>&#160;— </sans_i><tex>\small{\textitsf{даль}\widehat{\textitsf{ше}}}.</tex></p>
+        <p indent="2" margin_top="0px"><sans_b>Простая форма сравнительной степени </sans_b><sans>бразуется путём прибавления к основе начальной формы прилагательных суффиксов </sans><sans_bi>-ее (-ей),</sans_bi><sans> например: </sans><sans_i>приветливый&#160;— </sans_i><tex>\small{\textitsf{приветлив}\widehat{\textitsf{ее}}}</tex><sans> </sans><tex>\small{\textitsf{(-}\widehat{\textitsf{ей}}\textitsf{);}}</tex><sans_b> -е </sans_b><sans>(перед ним происходит чередование согласных), например: </sans><tex>\small{\textitsf{гром}\uline{\textitsf{к}}\textitsf{ий}}</tex><sans_i>&#160;— </sans_i><tex>\small{\textitsf{гром}\uline{\textitsf{ч}}\widehat{\textitsf{е}}\textitsf{;}}</tex><sans_bi> -ше, </sans_bi><sans>например: </sans><sans_i>тонкий&#160;— </sans_i><tex>\small{\textitsf{тонь}\widehat{\textitsf{ше}}\textitsf{.}}</tex></p>
+        <p indent="2" margin_top="0px"><sans>Иногда при присоединении суффиксов</sans><sans_bi>-е</sans_bi><sans> и </sans><sans_bi>-ше</sans_bi><sans> от основы начальной формы отсекается суффикс </sans><sans_bi>-к- (-ок, -ёк),</sans_bi><sans> например: </sans><tex>\small{\textitsf{слад}\uline{\textitsf{к}}\textitsf{ий}}</tex><sans_i>&#160;— </sans_i><tex>\textitsf{слащ}\small{\widehat{\textitsf{е}}\textitsf{,~~~~~}} </tex><tex>\small{\textitsf{дал}\uline{\textitsf{ёк}}\textitsf{ий}\textitsf{~~ — ~~}\textitsf{даль}\widehat{\textitsf{ше}}}.</tex></p>
         <p indent="2" margin_top="0px"><sans>Прилагательные </sans><sans_i>малый (маленький), плохой, хороший </sans_i><sans>образуют форму простой сравнительной степени от других основ: </sans><sans_i>меньше, хуже, лучше.</sans_i></p>
         <p indent="2" margin_top="0px"><sans>Прилагательные в форме простой сравнительной степени не изменяются ни по родам, ни по числам, ни по падежам. В предложении они бывают сказуемыми.</sans></p>
     </text_block>
@@ -35,7 +35,7 @@
     <page number="12" />
 
     <image_block class="inner" width="20%" interactivity="no"><img url="Data\images\57_4.png"/></image_block>
-    <p indent="2" margin_top="0px">2. <i>Дорогой&#160;— дороже</i>; сухой<footnote><brief><sup_blue>1</sup_blue></brief>выполнить фонетический разбор слова</footnote> , твёрдый, богатый, крутой, густой, простой, толстый, чистый, громкий, мелкий, горький, сладкий, мягкий, лёгкий.</p>
+    <p indent="2" margin_top="0px">2. <i>Дорогой&#160;— дороже</i>; сухой<footnote><brief><sup_blue>1</sup_blue></brief>выполнить фонетический разбор слова</footnote>, твёрдый, богатый, крутой, густой, простой, толстый, чистый, громкий, мелкий, горький, сладкий, мягкий, лёгкий.</p>
     <p indent="2" margin_top="0px">3. <i>Долгий&#160;— дольше</i>; ранний, тонкий, далёкий.</p>
     <p indent="2" margin_top="0px">4. <i>Малый&#160;— меньше</i>; плохой, хороший.</p>
 
@@ -64,7 +64,7 @@
     <table border-style="none">
         <tr>
             <td width="70%">
-                <media_container margin_left="33%"><p>УРАЛ</p></media_container>
+                <media_container margin_left="45%"><p>УРАЛ</p></media_container>
                 <media_container margin_left="30%">
                         <p>Не позволяй душе лениться!</p>
                         <p margin_top="0px">Живу я в глуб..не Росси..,</p>
@@ -88,7 +88,7 @@
                         <p margin_top="0px">Как сол(?)це в драгоценной гран..,</p>
                         <p margin_top="0px">В Урал.. Русь отражена.</p>
                 </media_container>
-                <media_container margin_left="60%"><p margin_top="0"><sans>(Л.&#160;Татьяничева)</sans></p></media_container>
+                <media_container margin_left="60%"><p margin_top="0"><sans_small>(Л.&#160;Татьяничева)</sans_small></p></media_container>
             </td>
             <td width="30%">
                 <p align="center">
@@ -115,7 +115,7 @@
 
     <text_block class="theoretical">
         <p indent="2"  margin_top="-5px"><sans>Превосходная степень прилагательных имеет две формы: простую и составную.</sans></p>
-        <p indent="2" margin_top="0px"><sans_b>Простая форма превосходной степени</sans_b><sans> образуется путём прибавления к основе начальной формы прилагательного суффикса </sans><sans_bi>ейш- (-айш-),</sans_bi><sans> например: </sans><sans_i>справедливый&#160;— </sans_i><tex>\textitsf{справедлив}\widehat{\textitsf{ейш}}\textitsf{ий}.</tex><sans_i> </sans_i><sans>Перед </sans><sans_bi>-айш-</sans_bi><sans> происходит чередование согласных, например: </sans><tex>\textitsf{глубо}\uline{\textitsf{к}}\textitsf{ий}</tex><sans_i>&#160;— </sans_i><tex>\textitsf{глубо}\uline{\textitsf{ч}}\widehat{\textitsf{айш}}\textitsf{ий}.</tex><sans_i> </sans_i><sans>Эта форма прилагательных чаще всего упо требляется в книжной речи.</sans></p>
+        <p indent="2" margin_top="0px"><sans_b>Простая форма превосходной степени</sans_b><sans> образуется путём прибавления к основе начальной формы прилагательного суффикса </sans><sans_bi>ейш- (-айш-),</sans_bi><sans> например: </sans><sans_i>справедливый&#160;— </sans_i><tex>\textitsf{справедлив}\widehat{\textitsf{ейш}}\textitsf{ий.}</tex><sans_i> </sans_i><sans>Перед </sans><sans_bi>-айш-</sans_bi><sans> происходит чередование согласных, например: </sans><tex>\textitsf{глубо}\uline{\textitsf{к}}\textitsf{ий ~~~ — ~~~}\textitsf{глубо}\uline{\textitsf{ч}}\widehat{\textitsf{айш}}\textitsf{ий.}</tex><sans_i> </sans_i><sans>Эта форма прилагательных чаще всего упо требляется в книжной речи.</sans></p>
         <p indent="2" margin_top="0px"><sans>Прилагательные в форме простой превосходной степени склоняются.</sans></p>
         <p indent="2" margin_top="0px"><sans_b>Составная форма превосходной степени</sans_b><sans> образуется прибавлением слов </sans><sans_b>самый, наиболее</sans_b><sans> к начальной форме прилагательного, например: </sans><sans_i>самый справедливый, наиболее строгий.</sans_i></p>
         <p indent="2" margin_top="0px"><sans>В составной превосходной степени прилагательных неизменяемым является слово </sans><sans_i>наиболее,</sans_i><sans> например: </sans><sans_i>в наиболее недоступном месте.</sans_i></p>
@@ -124,7 +124,7 @@
 
     <p><back_green>&#160;&#160;337.&#160;&#160;</back_green><sans_small> Запишите прилагательные в форме простой и составной превосходной степени. Выделите суффикс, подчеркните чередующиеся согласные.</sans_small></p>
     <p indent="2"><i>1.&#160;Красивый&#160;— </i><tex>\textit{красив}\widehat{\textit{ейш}}\textit{ий;}</tex><i> самый красивый.</i> Сильный, слабый, счастливый, простой, интересный, богатый.</p>
-    <p indent="2"><i>2.&#160;</i><tex>\textit{Крат}\uline{\textit{к}}\textit{ий}</tex><i>&#160;— </i><tex>\textit{крат}\uline{\textit{ч}}\widehat{\textit{айш}}\textit{ий;}</tex><i> самый краткий.</i>Лёгкий, мягкий, редкий, тонкий, яркий, высокий, глубокий, широкий, великий, строгий.</p>
+    <p indent="2"><i>2.&#160;</i><tex>\textit{Крат}\uline{\textit{к}}\textit{ий ~~~ — ~~~ крат}\uline{\textit{ч}}\widehat{\textit{айш}}\textit{ий;}</tex><i> самый краткий.</i>Лёгкий, мягкий, редкий, тонкий, яркий, высокий, глубокий, широкий, великий, строгий.</p>
 
     <text_block class="hard">   
         <p indent="2"><back_green>&#160;&#160;338.&#160;&#160;</back_green><sans_small> Спишите, вставляя пропущенные прилагательные в форме составной превосходной степени. Слова в скобках запишите в нужной форме. </sans_small>●<sans_small>&#160;Почему некоторые имена собственные заключены в кавычки? </sans_small>●<sans_small>&#160;Какие из имён собственных не склоняются? В каком падеже они стоят?</sans_small></p>

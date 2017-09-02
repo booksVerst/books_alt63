@@ -68,7 +68,7 @@
     <page number="99"/>
     <p><big_red_p>Р </big_red_p><back_green>&#160;505.&#160;</back_green><sans_small> Прочитайте и озаглавьте текст. Каким образом доказывается выделенный тезис? Как он связан с выводом?</sans_small></p>
     <p indent="2">И ещё я вам расскажу про <b>одно слово, маленькое, но до того умное&#160;— прямо невероятно.</b> Есть такое коротенькое слово «кто». Стучат в дверь, и ты спрашиваешь: «Кто там?» Если бы не было этого малыша «кто», тебе бы пришлось спрашивать: «Там Казик или Маня, тётя или лудильщик, кум Пётр или нищий?» А тот бы всё отвечал: «Нет, нет, нет». Ты бы так три часа подряд мог спрашивать и не угадать. Стоял бы злой, голодный и спрашивал, спрашивал... А так: «Кто там?» <b>И в этом коротеньком «кто»&#160;— имена всех людей на свете.</b> Кто&#160;— местоимение.</p>
-    <p margin_top="0" align="right"><sans_small>(По Я. Корчаку)</sans_small></p>
+    <p margin_top="0" align="right"><sans_small>(По Я.&#160;Корчаку)</sans_small></p>
     <image_block class="inner" width="20%">
         <img url="Data\images\87-1.png" />
     </image_block>
@@ -76,18 +76,18 @@
     <image_block class="inner" width="40%">
         <img url="Data\images\87-2.png" />
     </image_block>
-    <p indent="2">Когда-то и Где-то</p>
-    <p indent="2" margin_top="0">Какой-то там Кто-то</p>
-    <p indent="2" margin_top="0">На Что-то задумал залезть.</p>
-    <p indent="2" margin_top="0">Но есть у Чего-то</p>
-    <p indent="2" margin_top="0">Не то чтобы Что-то,</p>
-    <p indent="2" margin_top="0">Но Что-то такое,</p>
+    <p indent="2">Когда&#8211;то и Где&#8211;то</p>
+    <p indent="2" margin_top="0">Какой&#8211;то там Кто&#8211;то</p>
+    <p indent="2" margin_top="0">На Что&#8211;то задумал залезть.</p>
+    <p indent="2" margin_top="0">Но есть у Чего&#8211;то</p>
+    <p indent="2" margin_top="0">Не то чтобы Что&#8211;то,</p>
+    <p indent="2" margin_top="0">Но Что&#8211;то такое,</p>
     <p indent="2" margin_top="0">Что есть.</p>
-    <p indent="2" margin_top="0">Поэтому Кто-то</p>
-    <p indent="2" margin_top="0">Свалился с Чего-то,</p>
+    <p indent="2" margin_top="0">Поэтому Кто&#8211;то</p>
+    <p indent="2" margin_top="0">Свалился с Чего&#8211;то,</p>
     <p indent="2" margin_top="0">Как только...</p>
     <p indent="2" margin_top="0">Залез на него.</p>
-    <media_container margin_left="60%">
-        <p align="right"><sans_small>(В. Лунин)</sans_small></p>
+    <media_container margin_left="30%">
+        <p><sans_small>(В.&#160;Лунин)</sans_small></p>
     </media_container>
 </chapter>

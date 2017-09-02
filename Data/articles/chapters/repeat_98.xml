@@ -43,7 +43,7 @@
         <p margin_top="0px">Одна з..ря см..нить другую</p>
         <p margin_top="0px">Сп..шит, дав ноч.. (пол)часа.</p>
     </media_container>
-    <media_container margin_left="60%"><p margin_top="0"><sans>(А.&#160;Пушкин)</sans></p></media_container>
+    <media_container margin_left="55%"><p margin_top="0"><sans>(А.&#160;Пушкин)</sans></p></media_container>
 
     <p align="center">
         <image_block interactivity="no" class="top-bottom" width="700px"><img url="Data\images\98_5.png" /></image_block>
@@ -66,7 +66,7 @@
         <p margin_top="0px">А снег всё летит, сверкает,</p>
         <p margin_top="0px">А снег всё летит и тает.</p>
     </media_container>
-    <media_container margin_left="50%"><p margin_top="0"><sans>(Н.&#160;Васильев)</sans></p></media_container>
+    <media_container margin_left="35%"><p margin_top="0"><sans>(Н.&#160;Васильев)</sans></p></media_container>
     
     <p><back_green>&#160;&#160;591.&#160;&#160;</back_green><sans_small> Вспомните все виды орфограмм, изученных в теме «Глагол», и запишите по 3&#8211;4 слова с этими орфограммами, обозначая условия их выбора. В случае затруднений обращайтесь к списку изученных орфограмм на форзацах учебника.</sans_small></p>
 
@@ -93,6 +93,6 @@
         <p margin_top="0px">Что с родиною сбуд..тся,</p>
         <p margin_top="0px">То и с народом стан..тся</p>
     </media_container>
-    <media_container margin_left="50%"><p margin_top="0"><sans>(И.&#160;Уткин)</sans></p></media_container>
+    <media_container margin_left="45%"><p margin_top="0"><sans>(И.&#160;Уткин)</sans></p></media_container>
     
 </chapter>

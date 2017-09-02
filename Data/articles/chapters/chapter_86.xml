@@ -56,6 +56,7 @@
     	<p indent="2"  margin_top="-5px"><sans>Многие лингвисты выделяют местоимения по признаку сходства с другими частями речи: местоимения&#8211;существительные, местоимения&#8211;прилагательные, местоимения&#8211;числительные и др.</sans></p>
     </text_block>
     <page number="95" />
+    <p><back_green>&#160;&#160;495.&#160;&#160;</back_green><sans_small> Заполните таблицу примерами.</sans_small></p>
     <table margin_top="0" border-style="solid solid solid solid" border-color="000000" border-size="3px" >
         <tr>
             <td margin_top="0" width="65%">
@@ -67,36 +68,36 @@
         </tr>
         <tr>
             <td margin_top="0" width="65%" border-style="solid solid none solid">
-                <media_container margin_left="1">
+                <media_container indent="1">
                     <p>Местоимения с признаками имён существительных</p>
                 </media_container>
             </td>
             <td margin_top="0" width="35%" border-style="solid solid none solid">
-                <media_container margin_left="1">
+                <media_container indent="1">
                     <p><i>вы...</i></p>
                 </media_container>
             </td>
         </tr>
         <tr>
             <td margin_top="0" width="65%" border-style="none solid none solid">
-                <media_container margin_left="1">
+                <media_container indent="1">
                     <p margin_top="0">Местоимения с признаками имён прилагательных</p>
                 </media_container>
             </td>
             <td margin_top="0" width="35%" border-style="none solid none solid">
-                <media_container margin_left="1">
+                <media_container indent="1">
                     <p margin_top="0"><i>мой...</i></p>
                 </media_container>
             </td>
         </tr>
         <tr>
             <td margin_top="0" width="65%" border-style="none solid solid solid">
-                <media_container margin_left="1">
+                <media_container indent="1">
                     <p margin_top="0">Местоимения с признаками имён числительных</p>
                 </media_container>
             </td>
             <td margin_top="0" width="35%" border-style="none solid solid solid">
-                <media_container margin_left="1">
+                <media_container indent="1">
                     <p margin_top="0"><i>несколько...</i></p>
                 </media_container>
             </td>

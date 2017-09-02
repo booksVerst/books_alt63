@@ -18,8 +18,8 @@
         <p margin_top="0">А ветер сушит сад и мягко в окна ве..т</p>
         <p margin_top="0">Теплом апрел(?)ских дней.</p>
     </media_container>
-    <media_container margin_left="60%">
-        <p margin_top="0"><sans_small>(И. Бунин)</sans_small></p>
+    <media_container margin_left="50%">
+        <p margin_top="0"><sans_small>(И.&#160;Бунин)</sans_small></p>
     </media_container>
     <p><back_green>&#160;&#160;508.&#160;&#160;</back_green><sans_small> Выпишите глаголы и распределите их на две группы: а)&#160;стоящие в неопределённой форме; б)&#160;употреблённые в форме 3&#8211;го лица. Обозначьте окончание </sans_small><sans_small_bi>&#8211;ть (&#8211;ти) </sans_small_bi><sans_small>в неопределённой форме и окончания глаголов 3&#8211;го лица. Где стоит суффикс </sans_small><sans_small_bi>&#8211;ся </sans_small_bi><sans_small>в этих формах&#160;— до или после окончания?</sans_small></p>
     <table margin_top="0" border-style="none">
@@ -64,7 +64,7 @@
         <p margin_top="0">Час, когда Москва объята сном —</p>
         <p margin_top="0">От листвы, поющей под окном.</p>
     </media_container>
-    <media_container margin_left="60%">
+    <media_container margin_left="40%">
         <p margin_top="0"><sans_small>(И. Снегова)</sans_small></p>
     </media_container>
     <p><back_green>&#160;&#160;510.&#160;&#160;</back_green><sans_small>Расскажите по данной таблице о правописании букв </sans_small><sans_small_bi>е</sans_small_bi><sans_small> и </sans_small><sans_small_bi>и</sans_small_bi><sans_small> в безударных окончаниях глаголов.</sans_small></p>
@@ -110,7 +110,7 @@
         <p margin_top="0">Успе..т встать он за станок,</p>
         <p margin_top="0">За парту в школе сесть.<footnote><brief><sup_blue>5</sup_blue></brief>выполнить пунктуационный разбор предложения</footnote></p>
     </media_container>
-    <media_container margin_left="60%">
+    <media_container margin_left="40%">
         <p><sans>(С. Баруздин)</sans></p>
     </media_container>
     <p><back_green>&#160;&#160;513.&#160;&#160;</back_green><sans_small> Вставьте подходящие по смыслу глаголы в нужной форме. Объясните условия выбора букв </sans_small><sans_small_bi>е</sans_small_bi><sans_small> и </sans_small><sans_small_bi>и</sans_small_bi><sans_small> в безударных окончаниях глаголов.</sans_small></p>
@@ -143,8 +143,8 @@
         <img url="Data\images\88-3.png" />
     </image_block>
     <p indent="2">С утра я нач..наю уб..рать комнату. Вначале скатываю ковёр и сн..маю с подоконника<footnote><brief><sup_blue>2</sup_blue></brief>выполнить морфемный разбор слова</footnote> цветы. Я тщательно прот..раю каждый листоч..к и обильно пол..ваю р..стения.</p>
-    <p indent="2">Потом отж..маю тряпку и выт..раю до блеска оконные стёкла и зеркало.</p>
-    <p indent="2">Теперь надо пол..жить на место игрушки моей младшей сестрёнки. К письме(н, нн)ому столу отца я (не)прик..саюсь: папа сам всегда приводит его в порядок.</p>
+    <p indent="2" margin_top="0">Потом отж..маю тряпку и выт..раю до блеска оконные стёкла и зеркало.</p>
+    <p indent="2" margin_top="0">Теперь надо пол..жить на место игрушки моей младшей сестрёнки. К письме(н, нн)ому столу отца я (не)прик..саюсь: папа сам всегда приводит его в порядок.</p>
     <p><back_green>&#160;&#160;515.&#160;&#160;</back_green><sans_small> К данным словам подберите и запишите однокоренные глаголы, имеющие в своём составе указанные части слова. </sans_small>●<sans_small>&#160;Какими способами образованы записанные слова?</sans_small></p>
     <p indent="2">1. Колесо <bi>(ис&#8211;, &#8211;и&#8211;)</bi>, дар <bi>(&#8211;и&#8211;)</bi>, красный <bi>(&#8211;е&#8211;)</bi>, стопорить <bi>(за&#8211;)</bi>, секрет <bi>(&#8211;нича&#8211;)</bi>, итог <bi>(под&#8211;, &#8211;и&#8211;)</bi>, белый <bi>(по&#8211;, &#8211;и&#8211;)</bi>, помнить <bi>(за&#8211;, &#8211;ся)</bi>.</p>
     <p indent="2" margin_top="0">2. Бежать <bi>(раз&#8211;, &#8211;ся)</bi>, толкать <bi>(от&#8211;, &#8211;ива&#8211;)</bi>, прыгать <bi>(пере&#8211;, &#8211;ива&#8211;)</bi>, скакать <bi>(со&#8211;, &#8211;ива-)</bi>.</p>
@@ -167,7 +167,7 @@
         <img url="Data\images\88-4.png"/>
     </image_block>
     <page number="105"/>
-    <image_block class="inner" width="20%">
+    <image_block class="inner" width="40%">
         <img url="Data\images\88-5.png" />
     </image_block>
     <p indent="2">I. Вы не знаете нашего Стёпу?<footnote><brief><sup_blue>4</sup_blue></brief>выполнить синтаксический разбор предложения</footnote> Хвастун он страшный.</p>
@@ -194,24 +194,32 @@
     <text_block class="hard">   
         <p indent="2"><back_green>&#160;&#160;521.&#160;&#160;</back_green><sans_small> Прочитайте отрывок из стихотворения Ю.&#160;Яковлева. Спишите, раскрывая скобки. Над какой орфограммой вы работали? </sans_small>●<sans_small>&#160;Какую пословицу использует автор? К чему призывает?</sans_small></p>
     </text_block>
-    <image_block class="inner" width="20%">
-        <img url="Data\images\88-7.png" />
-    </image_block>
-    <media_container margin_left="30%">
-        <p>Помните, ребята,</p>
-        <p margin_top="0">Правило одно:</p>
-        <p margin_top="0">Сам барабан</p>
-        <p margin_top="0">(Не)забарабанит,</p>
-        <p margin_top="0">Медная труба</p>
-        <p margin_top="0">Сама трубить</p>
-        <p margin_top="0">(Не)станет!</p>
-        <p margin_top="0">И если огонька</p>
-        <p margin_top="0">Нет, как говорится,</p>
-        <p margin_top="0">Сам по себе</p>
-        <p margin_top="0">Костёр (не)разгорится...</p>
-        <p margin_top="0">(Не)течёт вода</p>
-        <p margin_top="0">Под лежачий камень,</p>
-        <p margin_top="0">Чтоб она текла&#160;—</p>
-        <p margin_top="0">Камень сдвинь руками.</p>
-    </media_container>
+    <table border-style="none">
+        <tr>
+            <td width="80%">
+                <media_container margin_left="30%">
+                    <p>Помните, ребята,</p>
+                    <p margin_top="0">Правило одно:</p>
+                    <p margin_top="0">Сам барабан</p>
+                    <p margin_top="0">(Не)забарабанит,</p>
+                    <p margin_top="0">Медная труба</p>
+                    <p margin_top="0">Сама трубить</p>
+                    <p margin_top="0">(Не)станет!</p>
+                    <p margin_top="0">И если огонька</p>
+                    <p margin_top="0">Нет, как говорится,</p>
+                    <p margin_top="0">Сам по себе</p>
+                    <p margin_top="0">Костёр (не)разгорится...</p>
+                    <p margin_top="0">(Не)течёт вода</p>
+                    <p margin_top="0">Под лежачий камень,</p>
+                    <p margin_top="0">Чтоб она текла&#160;—</p>
+                    <p margin_top="0">Камень сдвинь руками.</p>
+                </media_container>
+            </td>
+            <td width="20%">    
+                <image_block class="inner" width="80%">
+                    <img url="Data\images\88-7.png" />
+                </image_block>
+            </td>
+        </tr>
+    </table>
 </chapter>

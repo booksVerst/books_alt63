@@ -23,9 +23,9 @@
         <p indent="2" margin_top="-5px">
             <sans>В именительном и винительном падежах числительных, обозначающих круглые десятки от </sans><sans_i>50</sans_i><sans> до </sans><sans_i>80</sans_i><sans> и круглые сотни от </sans><sans_i>500</sans_i><sans> до </sans><sans_i>900</sans_i><sans>, после первого корня пишется буква </sans><sans_bi>ь</sans_bi><sans>.</sans>
         </p>
-        <table border-style="none">
+        <table border-style="none" margin_top="0">
             <tr>
-                <td width="900%"><p><tex>\wideparen{\textitsf{Сем}\uline{\textitsf{ь}}}\wideparen{\textitsf{десят}}\textitsf{. ~~~~~} \wideparen{\textitsf{Сем}\uline{\textitsf{ь}}}\wideparen{\textitsf{сот}}\textitsf{.}</tex></p></td>
+                <td width="90%"><p><tex>\wideparen{\textitsf{Сем}\uline{\textitsf{ь}}}\wideparen{\textitsf{десят}}\textitsf{. ~~~~~} \wideparen{\textitsf{Сем}\uline{\textitsf{ь}}}\wideparen{\textitsf{сот}}\textitsf{.}</tex></p></td>
                 <td width="10%"><p margin_top="0" align="right"><sans>№&#160;41</sans></p></td>
             </tr>
         </table>
