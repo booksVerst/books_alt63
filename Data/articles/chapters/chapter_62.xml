@@ -4,10 +4,18 @@
    	<text_block class="independent" margin_top="-5px">
    	    <p indent="2"><sans>Прочитайте. В какой паре пословиц </sans><sans_bi>не </sans_bi><sans>с существительными и прилагательными&#160;— приставка, а в какой&#160;— отрицательная частица? Сравните написание </sans><sans_bi>не </sans_bi><sans>с существительными и прилагательными.</sans></p>
    	</text_block>
-   	<p>1) Лихо тому, кто неправду творит кому.</p>
-   	<p indent="2" margin_top="0">Недоброе слово больнее огня жжёт.</p>
-   	<p margin_top="0">2) Одно дерево ещё не лес.</p>
-   	<p indent="2" margin_top="0">Не велик кувшин, да ёмок.</p>
+
+      <table border-style="none">
+         <tr>
+            <td width="10%" rowspan="2"><p margin_top="0">1) </p></td>
+            <td width="90%"><p>Недоброе слово больнее огня жжёт.</p></td>
+         </tr>
+         <tr>            
+            <td width="10%" rowspan="2"><p margin_top="0">2) </p></td>
+            <td width="90%"><p>Не велик кувшин, да ёмок.</p></td>
+         </tr>
+      </table>
+
    	<text_block class="definition">
    	    <p indent="2" margin_top="-5px"><sans_bi>Не </sans_bi><sans>с полными и краткими качественными прилагательными пишется слитно: 1)&#160;если слово не употребляется без </sans><sans_bi>не;</sans_bi><sans> 2) если прилагательное с </sans><sans_bi>не </sans_bi><sans>может быть заменено синонимом без </sans><sans_bi>не </sans_bi><sans>или близким по значению выражением.</sans></p>
    	    <p indent="2" margin_top="0"><tex>\textitsf{Н}\uline{\textitsf{ер}}\textitsf{яшливый,}</tex><sans_i>&#160;</sans_i><tex>\textitsf{н}\uline{\textitsf{ер}}\textitsf{яшлив}</tex><sans> (не употр. без </sans><sans_i>не&#8211;</sans_i><sans>).</sans></p>
@@ -15,7 +23,7 @@
    	    <p indent="2" margin_top="0"><sans_bi>Не </sans_bi><sans>с полными и краткими прилагательными пишется раздельно: 1) если в предложении есть противопоставление с союзом </sans><sans_i>а; </sans_i><sans>2) если к прилагательным относятся слова </sans><sans_i>далеко не, вовсе не, отнюдь не, ничуть не, нисколько не.</sans_i></p>
    	    <p indent="2" margin_top="0"><tex>\textitsf{Не}\uline{~~}\textitsf{правдивый,}</tex><sans_i>&#160;</sans_i><tex>\uuline{\textitsf{а лживый}}\textitsf{;~~}</tex>&#160;<tex>\textitsf{не}\uline{~~}\textitsf{правдив,}</tex>&#160;<tex>\uuline{\textitsf{а лжив}}\textitsf{.}</tex></p>
    	    <p indent="2" margin_top="0"><tex>\uuline{\textitsf{Нисколько}}</tex><sans_i>&#160;</sans_i><tex>\textitsf{не}\uline{~~}\textitsf{интересная}</tex><sans_i> книга; книга </sans_i><tex>\uuline{\textitsf{нисколько}}</tex><sans_i>&#160;</sans_i><tex>\textitsf{не}\uline{~~}\textitsf{интересна.}</tex></p>
-   	    <p margin_top="0" align="right"><sans_b>№ 36</sans_b></p>
+   	    <p margin_top="0" align="right"><sans_b>№&#160;36</sans_b></p>
    	</text_block>
    	<p indent="2"><sans_green>Образец рассуждения. </sans_green><sans_small_i>Стоял (не)жаркий день. </sans_small_i><sans_small>Прилагательное употребляется без </sans_small><sans_small_bi>не, </sans_small_bi><sans_small>значит, его можно писать и слитно, и раздельно. В предложении нет противопоставления с союзом </sans_small><sans_small_i>а, </sans_small_i><sans_small>это прилагательное можно заменить синонимом </sans_small><sans_small_i>прохладный, </sans_small_i><sans_small>значит, слово </sans_small><sans_small_i>нежаркий </sans_small_i><sans_small>здесь надо писать слитно.</sans_small></p>
    	<p indent="2" margin_top="0"><sans_small_i>(Не)ряшливый вид. </sans_small_i><sans_small>Прилагательное не употребляется без </sans_small><sans_small_bi>не,</sans_small_bi><sans_small>значит, </sans_small><sans_small_i>неряшливый </sans_small_i><sans_small>надо писать слитно.</sans_small></p>

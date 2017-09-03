@@ -68,36 +68,36 @@
         </tr>
         <tr>
             <td margin_top="0" width="65%" border-style="solid solid none solid">
-                <media_container indent="1">
+                <media_container margin_left="3%">
                     <p>Местоимения с признаками имён существительных</p>
                 </media_container>
             </td>
             <td margin_top="0" width="35%" border-style="solid solid none solid">
-                <media_container indent="1">
+                <media_container margin_left="3%">
                     <p><i>вы...</i></p>
                 </media_container>
             </td>
         </tr>
         <tr>
             <td margin_top="0" width="65%" border-style="none solid none solid">
-                <media_container indent="1">
+                <media_container margin_left="3%">
                     <p margin_top="0">Местоимения с признаками имён прилагательных</p>
                 </media_container>
             </td>
             <td margin_top="0" width="35%" border-style="none solid none solid">
-                <media_container indent="1">
+                <media_container margin_left="3%">
                     <p margin_top="0"><i>мой...</i></p>
                 </media_container>
             </td>
         </tr>
         <tr>
             <td margin_top="0" width="65%" border-style="none solid solid solid">
-                <media_container indent="1">
+                <media_container margin_left="3%">
                     <p margin_top="0">Местоимения с признаками имён числительных</p>
                 </media_container>
             </td>
             <td margin_top="0" width="35%" border-style="none solid solid solid">
-                <media_container indent="1">
+                <media_container margin_left="3%">
                     <p margin_top="0"><i>несколько...</i></p>
                 </media_container>
             </td>

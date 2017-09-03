@@ -18,7 +18,7 @@
             </tr>
         </table>
     <p><back_green>&#160;&#160;462.&#160;&#160;</back_green><sans_small> Как образованы данные слова? </sans_small>●<sans_small>&#160;Составьте 2—3 предложения с отрицательными местоимениями.</sans_small></p>
-    <p indent="2"><sans_green>Образец. </sans_green><tex>\small{\overline{\textitsf{Ни}}^{\rule{0.4pt}{2pt}}\textitsf{чей }\leftarrow\textitsf{ чей.}}</tex></p>
+    <p indent="2"><sans_green>Образец. </sans_green><tex>\small{\overline{\textitsf{Ни}}^{\rule{0.4pt}{2pt}}\textitsf{чей &#8592;}\textitsf{ чей.}}</tex></p>
     <p indent="2">Некого, никакой, никто, нечего, ничто.</p>
     <text_block class="game">
     	<p><back_green>&#160;&#160;463.&#160;&#160;</back_green><sans_small> Как вы понимаете смысл стихотворения, которое называется «Ничего»? Как произносится это слово?</sans_small></p>
@@ -81,7 +81,7 @@
     	<p indent="2"  margin_top="-5px"><sans>Если при сказуемом есть частица </sans><sans_bi>не, </sans_bi><sans>то отрицательное местоимение с </sans><sans_bi>ни </sans_bi><sans>усиливает отрицательный смысл предложения.</sans></p>
     </text_block>
     <p><back_green>&#160;&#160;465.&#160;&#160;</back_green><sans_small> Вставьте отрицательные местоимения для усиления отрицания. Обозначьте падеж местоимений. </sans_small>●<sans_small>&#160;Подчеркните дополнения.</sans_small></p>
-    <p indent="2"><sans_green>Образец. </sans_green><sans_small_i>Эта вещь __&#160;__ не нужна.&#160;— Эта вещь </sans_small_i><tex>\small{\dashuline{\overset{\textitsf{Д.}}{\textitsf{никому}}}\textitsf{ }}</tex><sans_small_i >не нужна.</sans_small_i ></p>
+    <p indent="2"><sans_green>Образец. </sans_green><sans_small_i>Эта вещь __&#160;__ не нужна.&#160;— Эта вещь </sans_small_i><tex>\small{\dashuline{\overset{\textitsf{Д.}}{\textitsf{никому}}}\textitsf{~}}</tex><sans_small_i >не нужна.</sans_small_i ></p>
     <p indent="2">Ва&#x301;лек __&#160;__ (не)ответил.</p>
     <p indent="2" margin_top="0">Маруся __&#160;__ (не)узн..вала.</p>
     <p indent="2" margin_top="0">Отец __&#160;__ ещё (не)знал.</p>
@@ -125,7 +125,7 @@
     	<table margin_top="0" border-style="none">
 	    	<tr>
 	    		<td width="80%">
-	    			<p><tex>\textitsf{Ни}\uline{~~}\uuline{\textitsf{у}}\uline{~~}\textitsf{кого. ~~~}</tex><tex>\textitsf{Н\'e}\uline{~~}\uuline{\textitsf{с}}\uline{~~}\textitsf{кем.}</tex></p>
+	    			<p><tex>\textitsf{Ни}\uline{~~}\uuline{\textitsf{у}}\uline{~~}\textitsf{кого. ~~~~~}</tex><tex>\textitsf{Н\'e}\uline{~~}\uuline{\textitsf{с}}\uline{~~}\textitsf{кем.}</tex></p>
 	    		</td>
 	    		<td width="20%">
 	    			<p align="right"><sans_b>№&#160;46</sans_b></p>

@@ -17,23 +17,23 @@
 
     <table border="1px">
         <tr>
-            <td rowspan="2" width="15%"><p align="center"><sans>Фонетика</sans></p></td>
-            <td rowspan="2" width="15%"><p align="center"><sans>Лексика</sans></p></td>
-            <td rowspan="2" width="15%"><p align="center"><sans>Фразеология</sans></p></td>
-            <td rowspan="2" width="15%"><p align="center"><sans>Словообразование</sans></p></td>
-            <td colspan="2" width="40%"><p align="center"><sans>Грамматика</sans></p></td>
+            <td rowspan="2" width="14%"><p align="center"><sans>Фонетика</sans></p></td>
+            <td rowspan="2" width="14%"><p align="center"><sans>Лексика</sans></p></td>
+            <td rowspan="2" width="14%"><p align="center"><sans>Фразеология</sans></p></td>
+            <td rowspan="2" width="20%"><p align="center"><sans>Словообразование</sans></p></td>
+            <td colspan="2" width="38%"><p align="center"><sans>Грамматика</sans></p></td>
         </tr>
         <tr>
-            <td width="20%"><p align="center"><sans>Морфология</sans></p></td>
-            <td width="20%"><p align="center"><sans>Синтаксис</sans></p></td>
+            <td width="19%"><p align="center"><sans>Морфология</sans></p></td>
+            <td width="19%"><p align="center"><sans>Синтаксис</sans></p></td>
         </tr>
         <tr>
-            <td width="15%"><p>&#160;</p></td>
-            <td width="15%"><p>&#160;</p></td>
-            <td width="15%"><p>&#160;</p></td>
-            <td width="15%"><p>&#160;</p></td>
+            <td width="14%"><p>&#160;</p></td>
+            <td width="14%"><p>&#160;</p></td>
+            <td width="14%"><p>&#160;</p></td>
             <td width="20%"><p>&#160;</p></td>
-            <td width="20%"><p>&#160;</p></td>
+            <td width="19%"><p>&#160;</p></td>
+            <td width="19%"><p>&#160;</p></td>
         </tr>
     </table>
 

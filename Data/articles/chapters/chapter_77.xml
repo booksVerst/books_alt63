@@ -2,22 +2,22 @@
     <page number="66" />
 <!-- Параграфы -->
     <p><big_paragraph>§&#160;77</big_paragraph><big_purpure> Личные местоимения</big_purpure></p>
-        <table border-style="none" margin_top="0">
-            <tr>
-                <td width="75%">
-                    <text_block class="independent" margin_top="-5px">
-                        <p indent="2"><sans>Кто хочет мира? </sans><sans_b>Он,</sans_b><sans> и </sans><sans_b>ты</sans_b><sans>, и </sans><sans_b>я&#160;—</sans_b><sans> простые люди всех оттенков кожи.</sans></p>
-                        <p indent="2"><sans>Почему выделенные местоимения называются </sans><sans_b>личными?</sans_b></p>
-                        <p indent="2" margin_top="0">Назовите местоимения 1&#8211;го, 2&#8211;го и 3&#8211;го лица единственного и множественного числа.</p>
-                    </text_block>
-                </td>
-                <td width="25%">
-                    <image_block width="80%">
-                        <img url="Data\images\2-77-1.png" />
-                    </image_block>
-                </td>
-            </tr>
-        </table>
+        <text_block class="independent" margin_top="-5px">
+            <table border-style="none" margin_top="0">
+                <tr>
+                    <td width="75%">
+                            <p indent="2"><sans>Кто хочет мира? </sans><sans_b>Он,</sans_b><sans> и </sans><sans_b>ты</sans_b><sans>, и </sans><sans_b>я&#160;—</sans_b><sans> простые люди всех оттенков кожи.</sans></p>
+                            <p indent="2"><sans>Почему выделенные местоимения называются </sans><sans_b>личными?</sans_b></p>
+                            <p indent="2" margin_top="0">Назовите местоимения 1&#8211;го, 2&#8211;го и 3&#8211;го лица единственного и множественного числа.</p>
+                    </td>
+                    <td width="25%">
+                        <image_block width="80%">
+                            <img url="Data\images\2-77-1.png" />
+                        </image_block>
+                    </td>
+                </tr>
+            </table>
+        </text_block>
     <text_block class="game">
     	<p><back_green>&#160;&#160;437.&#160;&#160;</back_green><sans_small>Прочитайте шутливое стихотворение А.&#160;Барто. Какова основная мысль текста? Какие личные местоимения вы заметили?</sans_small></p>
     </text_block>
@@ -75,7 +75,7 @@
         </tr>
     </table>
     <text_block class="theoretical">
-    	<p indent="2"  margin_top="-5px"><sans>После предлогов у местоимений 3-го лица обычно поя вляется буква </sans><sans_bi>н:</sans_bi><sans_i> у него, возле них, около неё.</sans_i></p>
+    	<p indent="2"  margin_top="0"><sans>После предлогов у местоимений 3-го лица обычно поя вляется буква </sans><sans_bi>н:</sans_bi><sans_i> у него, возле них, около неё.</sans_i></p>
     </text_block>
     <text_block class="hard">   
         <p indent="2"><back_green>&#160;&#160;442.&#160;&#160;</back_green><sans_small> Спишите, заменяя выделенные существительные местоимениями и вставляя пропущенные запятые. </sans_small>●<sans_small>&#160;Определите разряд числительных в первом отрывке. </sans_small>●<sans_small>&#160;Найдите существительное общего рода.</sans_small></p>

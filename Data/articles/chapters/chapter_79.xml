@@ -6,13 +6,12 @@
         <p indent="2"><sans>Назовите вопросы, на которые отвечают существительные, прилагательные и числительные.</sans></p>
     </text_block>
     
+    <text_block class="theoretical">
         <table border-style="none" margin_top="0">
             <tr>
                 <td width="75%">
-                    <text_block class="theoretical">
                         <p indent="2"  margin_top="-5px"><sans>Это </sans><sans_b>вопросительные </sans_b><sans>местоимения. Они служат для выражения вопроса. Вопросительное местоимение </sans><sans_i>который </sans_i><sans>употребляется в выражении </sans><sans_i>который час.</sans_i></p>
                         <p indent="2"><sans>Вопросительные местоимения </sans><sans_i>кто </sans_i><sans>и </sans><sans_i>что </sans_i><sans>не изменяются по родам и числам.</sans></p>
-                    </text_block>
                 </td>
                 <td width="25%">
                     <image_block width="80%">
@@ -21,6 +20,7 @@
                 </td>
             </tr>
         </table>
+    </text_block>
     <p><back_green>&#160;&#160;450.&#160;&#160;</back_green><sans_small> Просклоняйте устно вопросительные местоимения </sans_small><sans_small_i>кто, что. </sans_small_i><sans_small>Правильно произнесите их в родительном падеже.</sans_small></p>
     <text_block class="independent" margin_top="-5px">
         <p indent="2"><sans>Рассмотрите таблицу склонения местоимения </sans><sans_i>чей (чьё, чья, чьи). </sans_i><sans>Обратите внимание на правописание разделительного </sans><sans_bi>ь.</sans_bi></p>
@@ -74,7 +74,7 @@
                     <p indent="1" margin_top="0">В.</p>
                 </td>
                 <td width="32.5%" border-style="none solid none solid" border-color="000000" border-size="2px">
-                    <media_container indent="1">
+                    <media_container margin_left="3%">
                         <p margin_top="0"><i>чей? </i>(одуш.: <i>чьего?</i>)</p>
                     </media_container>
                     <p indent="1" margin_top="0"><i>чей? </i>(одуш.: <i>чьего?</i>)</p>
@@ -117,6 +117,188 @@
                 </td>
             </tr>
 	    </table>
+        <table margin_top="0" border-style="solid solid solid solid" border-color="000000" border-size="2px">
+            <tr>
+                <td width="10%" border-style="solid solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1">И.</p>
+                </td>
+                <td width="32.5%" border-style="solid solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1"><i>чей? (чьё?)</i></p>
+                </td>
+                <td width="25%" border-style="solid solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1"><i>чья?</i></p>
+                </td>
+                <td width="32.5%" border-style="solid solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1"><i>чьи?</i></p>
+                </td>
+            </tr>
+            <tr>
+                <td width="10%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0">Р.</p>
+                </td>
+                <td width="32.5%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0"><i>чьего?</i></p>
+                </td>
+                <td width="25%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0"><i>чьей?</i></p>
+                </td>
+                <td width="32.5%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0"><i>чьих?</i></p>
+                </td>
+            </tr>
+            <tr>
+                <td width="10%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0">Д.</p>
+                </td>
+                <td width="32.5%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0"><i>чьему?</i></p>
+                </td>
+                <td width="25%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0"><i>чьей?</i></p>
+                </td>
+                <td width="32.5%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0"><i>чьим?</i></p>
+                </td>
+            </tr>
+            <tr>
+                <td width="10%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0">В.</p>
+                </td>
+                <td width="32.5%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <media_container margin_left="2%">
+                        <p margin_top="0"><i>чей? </i>(одуш.: <i>чьего?</i>)</p>
+                    </media_container>
+                    <p indent="1" margin_top="0"><i>чей? </i>(одуш.: <i>чьего?</i>)</p>
+                </td>
+                <td width="25%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0"><i>чью?</i></p>
+                </td>
+                <td width="32.5%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <media_container indent="1">
+                    <p margin_top="0"><i>чьи? </i>(одуш.: <i>чьих?</i>)</p>
+                    </media_container>
+                </td>
+            </tr>
+            <tr>
+                <td width="10%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0">Т.</p>
+                </td>
+                <td width="32.5%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0"><i>чьим?</i></p>
+                </td>
+                <td width="25%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0"><i>чьей?</i></p>
+                </td>
+                <td width="32.5%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0"><i>чьими?</i></p>
+                </td>
+            </tr>
+            <tr>
+                <td width="10%" border-style="none solid solid solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0">П.</p>
+                </td>
+                <td width="32.5%" border-style="none solid solid solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0"><i>(о) чьём?</i></p>
+                </td>
+                <td width="25%" border-style="none solid solid solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0"><i>(о) чьей?</i></p>
+                </td>
+                <td width="32.5%" border-style="none solid solid solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0"><i>(о) чьих?</i></p>
+                </td>
+            </tr>
+        </table>
+        <table margin_top="0" border-style="solid solid solid solid" border-color="000000" border-size="2px">
+            <tr>
+                <td width="10%" border-style="solid solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1">И.</p>
+                </td>
+                <td width="32.5%" border-style="solid solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1"><i>чей? (чьё?)</i></p>
+                </td>
+                <td width="25%" border-style="solid solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1"><i>чья?</i></p>
+                </td>
+                <td width="32.5%" border-style="solid solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1"><i>чьи?</i></p>
+                </td>
+            </tr>
+            <tr>
+                <td width="10%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0">Р.</p>
+                </td>
+                <td width="32.5%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0"><i>чьего?</i></p>
+                </td>
+                <td width="25%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0"><i>чьей?</i></p>
+                </td>
+                <td width="32.5%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0"><i>чьих?</i></p>
+                </td>
+            </tr>
+            <tr>
+                <td width="10%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0">Д.</p>
+                </td>
+                <td width="32.5%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0"><i>чьему?</i></p>
+                </td>
+                <td width="25%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0"><i>чьей?</i></p>
+                </td>
+                <td width="32.5%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0"><i>чьим?</i></p>
+                </td>
+            </tr>
+            <tr>
+                <td width="10%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0">В.</p>
+                </td>
+                <td width="32.5%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <media_container margin_left="5%">
+                        <p margin_top="0"><i>чей? </i>(одуш.: <i>чьего?</i>)</p>
+                    </media_container>
+                    <p indent="1" margin_top="0"><i>чей? </i>(одуш.: <i>чьего?</i>)</p>
+                </td>
+                <td width="25%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0"><i>чью?</i></p>
+                </td>
+                <td width="32.5%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <media_container indent="1">
+                    <p margin_top="0"><i>чьи? </i>(одуш.: <i>чьих?</i>)</p>
+                    </media_container>
+                </td>
+            </tr>
+            <tr>
+                <td width="10%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0">Т.</p>
+                </td>
+                <td width="32.5%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0"><i>чьим?</i></p>
+                </td>
+                <td width="25%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0"><i>чьей?</i></p>
+                </td>
+                <td width="32.5%" border-style="none solid none solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0"><i>чьими?</i></p>
+                </td>
+            </tr>
+            <tr>
+                <td width="10%" border-style="none solid solid solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0">П.</p>
+                </td>
+                <td width="32.5%" border-style="none solid solid solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0"><i>(о) чьём?</i></p>
+                </td>
+                <td width="25%" border-style="none solid solid solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0"><i>(о) чьей?</i></p>
+                </td>
+                <td width="32.5%" border-style="none solid solid solid" border-color="000000" border-size="2px">
+                    <p indent="1" margin_top="0"><i>(о) чьих?</i></p>
+                </td>
+            </tr>
+        </table>
 	    <p indent="2"><sans>Просклоняйте письменно слово </sans><sans_i>птичий </sans_i><sans>(пух). Что общего в правописании падежных форм прилагательного </sans><sans_i>птичий </sans_i><sans>и местоимения </sans><sans_i>чей?</sans_i></p>
 	    <p indent="2" margin_top="0"><sans>Какие ещё вопросительные местоимения склоняются как прилагательные?</sans></p>
     </text_block>
@@ -150,21 +332,21 @@
         <p indent="2" margin_top="0"><sans>Нам бы хотелось узнать, </sans><sans_b>о чём </sans_b><sans>говорил тренер команде.</sans></p>
         <p indent="2"><sans>Прочитайте эти же предложения, опустив в них выделенные местоимения. Сохранились ли при этом смысл и связь между частями сложного предложения?</sans></p>
     </text_block>
-        <table border-style="none" margin_top="-5px">
-            <tr>
-                <td width="75%" text-align="top">
-                    <text_block class="theoretical">
-                        <p indent="2" margin_top="-5px"><sans>Местоимения </sans><sans_i>кто, что, какой, чей, каков, который, сколько </sans_i><sans>являются </sans><sans_b>относительными, </sans_b><sans>если они употребляются без вопроса для связи простых предложений в составе сложных.</sans></p>
-                        <p indent="2" margin_top="0"><sans>Относительные местоимения могут быть разными членами предложения.</sans></p>
-                    </text_block>
-                </td>
-                <td width="25%">
-                    <image_block width="80%">
-                        <img url="Data\images\2-79-2.png" />
-                    </image_block>
-                </td>
-            </tr>
-        </table>
+        <text_block class="theoretical">
+            <table border-style="none" margin_top="-5px">
+                <tr>
+                    <td width="75%" text-align="top">
+                            <p indent="2" margin_top="-5px"><sans>Местоимения </sans><sans_i>кто, что, какой, чей, каков, который, сколько </sans_i><sans>являются </sans><sans_b>относительными, </sans_b><sans>если они употребляются без вопроса для связи простых предложений в составе сложных.</sans></p>
+                            <p indent="2" margin_top="0"><sans>Относительные местоимения могут быть разными членами предложения.</sans></p>
+                    </td>
+                    <td width="25%">
+                        <image_block width="80%">
+                            <img url="Data\images\2-79-2.png" />
+                        </image_block>
+                    </td>
+                </tr>
+            </table>
+        </text_block>
     <p><back_green>&#160;&#160;453.&#160;&#160;</back_green><sans_small> Прочитайте текст, соблюдая вопросительную интонацию. Найдите вопросительные местоимения. Спишите, подчеркните главные члены предложения. </sans_small>●<sans_small>&#160;Найдите качественные прилагательные.</sans_small></p>
     <media_container margin_left="30%">
         <p>Кто варе..ки пёстрые вяж..т,</p>
@@ -176,7 +358,7 @@
         <p margin_top="0">Кого я люблю и ж..лею?<footnote><brief><sup_blue>4</sup_blue></brief>выполнить синтаксический разбор предложения</footnote></p>
         <p margin_top="0">О ком соч..нила стихи?</p>
     </media_container>
-    <media_container margin_left="40%">
+    <media_container margin_left="50%">
         <p margin_top="0"><sans_small>(Е.&#160;Благинина)</sans_small></p>
     </media_container>
     <page number="75" />
