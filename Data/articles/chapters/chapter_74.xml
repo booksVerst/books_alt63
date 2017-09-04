@@ -15,11 +15,11 @@
 	<table border-style="none" margin_top="0">
 		<tr>
 			<td width="50%"><p align="center">
-				<image_block class="top-bottom">
+				<image_block interactivity="no" class="top-bottom">
 			    <img url="Data\images\2-74-1.png"  width="300px"/>
 			</image_block></p></td>
 			<td width="50%"><p align="center">
-				<image_block class="top-bottom">
+				<image_block interactivity="no" class="top-bottom">
 			    <img url="Data\images\2-74-2.png"  width="300px"/>
 			</image_block></p></td>
 		</tr>
@@ -34,11 +34,11 @@
 		</tr>
 		<tr>
 			<td width="50%"><p align="center">
-				<image_block class="top-bottom">
+				<image_block interactivity="no" class="top-bottom">
 			    <img url="Data\images\2-74-4.png"  width="300px"/>
 			</image_block></p></td>
 			<td width="50%"><p align="center">
-				<image_block class="top-bottom">
+				<image_block interactivity="no" class="top-bottom">
 			    <img url="Data\images\2-74-5.png"  width="300px"/>
 			</image_block></p></td>
 		</tr>
@@ -57,7 +57,7 @@
 	    <tr>
 	        <td width="25%"> </td>
 	        <td width="50%">
-	            <image_block class="full-width" interactivity="yes">
+	            <image_block interactivity="no" class="full-width" interactivity="yes">
 	                <img url="Data\images\2-74-3.png" />
 	            </image_block>
 	        </td>

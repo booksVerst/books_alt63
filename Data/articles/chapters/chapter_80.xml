@@ -9,7 +9,7 @@
                         <p indent="2"><sans_b>Не&#x301;кто</sans_b><sans> шёл по </sans><sans_b>какой-то</sans_b><sans> дороге и нашёл </sans><sans_b>не&#x301;что. Не&#x301;которую</sans_b><sans> часть найденного он отдал товарищу, а </sans><sans_b>кое-что</sans_b><sans> бросил. Что у него осталось?</sans></p>
                     </td>
                     <td width="25%">
-                        <image_block width="80%">
+                        <image_block interactivity="no" width="80%">
                             <img url="Data\images\80-1.png" />
                         </image_block>
                     </td>

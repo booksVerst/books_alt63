@@ -125,12 +125,12 @@
     <table margin_top="0" border-style="none">
         <tr>
             <td margin_top="0" width="50%">
-            	<image_block>
+            	<image_block interactivity="no">
             	    <img url="Data\images\88-1.png" />
             	</image_block>
             </td>
             <td margin_top="0" width="50%">
-            	<image_block>
+            	<image_block interactivity="no">
             	    <img url="Data\images\88-2.png" />
             	</image_block>
             </td>
@@ -139,7 +139,7 @@
     <text_block class="hard">   
         <p indent="2"><back_green>&#160;&#160;514.&#160;&#160;</back_green><sans_small> Спишите. Как изменится текст, если в предложениях использовать форму глаголов прошедшего времени? </sans_small>●<sans_small>&#160;Графически объясните правописание гласных в корнях с чередованием. Относятся ли глаголы </sans_small><sans_small_i>примерять </sans_small_i><sans_small>и </sans_small><sans_small_i>примирять </sans_small_i><sans_small>к словам с чередующимися гласными в корне? </sans_small>●<sans_small>&#160;Расскажите, как вы наводите порядок в своей комнате.</sans_small></p>
     </text_block>
-    <image_block class="inner" width="20%">
+    <image_block interactivity="no" class="inner" width="20%">
         <img url="Data\images\88-3.png" />
     </image_block>
     <p indent="2">С утра я нач..наю уб..рать комнату. Вначале скатываю ковёр и сн..маю с подоконника<footnote><brief><sup_blue>2</sup_blue></brief>выполнить морфемный разбор слова</footnote> цветы. Я тщательно прот..раю каждый листоч..к и обильно пол..ваю р..стения.</p>
@@ -163,11 +163,11 @@
     <p indent="2"><sans_small>&#9632; один из текстов в качестве вступления (см. с.&#160;105);</sans_small></p>
     <p indent="2" margin_top="0"><sans_small>&#9632; содержание рисунков;</sans_small></p>
     <p indent="2" margin_top="0"><sans_small>&#9632; в заключении одну из пословиц (см. упр.&#160;508).</sans_small></p>
-    <image_block class="full-width">
+    <image_block interactivity="no" class="full-width">
         <img url="Data\images\88-4.png"/>
     </image_block>
     <page number="105"/>
-    <image_block class="inner" width="40%">
+    <image_block interactivity="no" class="inner" width="40%">
         <img url="Data\images\88-5.png" />
     </image_block>
     <p indent="2">I. Вы не знаете нашего Стёпу?<footnote><brief><sup_blue>4</sup_blue></brief>выполнить синтаксический разбор предложения</footnote> Хвастун он страшный.</p>
@@ -183,7 +183,7 @@
         <p indent="2"><back_green>&#160;&#160;519.&#160;&#160;</back_green><sans_small> Обозначьте способ образования глаголов и их состав. </sans_small>●<sans_small>&#160;От какой части речи образован последний глагол? </sans_small>●<sans_small>&#160;Подберите однокоренные слова к выделенному слову и запишите их по образцу (см. упр.&#160;158).</sans_small></p>
     </text_block>
     <p indent="2"><sans_green>Образец. </sans_green><tex>\small{\overline{\textitsf{Раз}}^{\rule{0.4pt}{2pt}}\textitsf{бежать}\widehat{\textitsf{ся}}}</tex><sans_small_i> &#8592; бежать; </sans_small_i><tex>\small{\overline{\textitsf{раз}}^{\rule{0.4pt}{2pt}}\wideparen{\textitsf{беж}}\widehat{\textitsf{а}}\boxed{\textitsf{ть}}\widehat{\textitsf{ся}}.}</tex></p>
-    <image_block class="inner" width="20%">
+    <image_block interactivity="no" class="inner" width="20%">
         <img url="Data\images\88-6.png" />
     </image_block>
     <p indent="2">Позавтракать, присесть, загрустить, рассмеяться, посинеть, твердеть, приглушать, <b>загореться</b>, окаменеть, поскользнуться, утроить.</p>
@@ -216,7 +216,7 @@
                 </media_container>
             </td>
             <td width="20%">    
-                <image_block class="inner" width="80%">
+                <image_block interactivity="no" class="inner" width="80%">
                     <img url="Data\images\88-7.png" />
                 </image_block>
             </td>

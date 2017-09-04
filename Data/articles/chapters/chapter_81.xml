@@ -11,7 +11,7 @@
                     </text_block>
                 </td>
                 <td width="25%">
-                    <image_block width="80%">
+                    <image_block interactivity="no" width="80%">
                         <img url="Data\images\81-1.png" />
                     </image_block>
                 </td>
@@ -54,7 +54,7 @@
             	<p margin_top="0">Н ичего!</p>
             </td>
             <td width="20%">
-            	<image_block>
+            	<image_block interactivity="no">
             	    <img url="Data\images\81-2.png" />
             	</image_block>
             </td>
@@ -147,7 +147,7 @@
     <text_block class="hard">   
         <p indent="2"><back_green>&#160;&#160;471.&#160;&#160;</back_green><sans_small> Прочитайте и озаглавьте текст. Найдите в тексте местоимения, определите их разряд. Объясните изученные орфограммы в местоимениях.</sans_small></p>
     </text_block>
-    <image_block class="inner" width="40%" float="left">
+    <image_block interactivity="no" class="inner" width="40%" float="left">
         <img url="Data\images\81-3.png" />
     </image_block>
     <p indent="2">Собрались как-то трое друзей и стали спорить, кто лучше сказку расскажет. Первый начал:</p>

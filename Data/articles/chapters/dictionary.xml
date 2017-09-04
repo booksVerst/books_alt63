@@ -164,7 +164,7 @@
     <p><b>Языкове&#x301;д,</b> &#8211;а,<i> м.</i> Учёный, специалист по языковедению (науке о языке). </p>
     <p><b>Яр,</b> &#8211;а, на яру&#x301;,<i> м.</i> <i>Обл.</i> 1.&#160;Крутой, обрывистый берег реки, оврага и т.&#160;д. <i>Спуститься к озеру по яру.</i> 2.&#160;Овраг. <i>В яру лежал ещё снег.</i> (Из тюркского.) </p>
     <p><b>Яхтсме&#x301;н,</b> &#8211;а,<i> м.</i> Спортсмен, занимающийся водным спортом на яхтах. (Из английского.)</p>
-    <image_block width="80%">
+    <image_block interactivity="yes" width="80%">
         <img url="Data\images\last-1.png" />
     </image_block>
     <table margin_top="0" border-style="none">
@@ -174,7 +174,7 @@
                 <p margin_top="0">«Зимний вечер»</p>
             </td>
             <td margin_top="0" rowspan="2" width="60%">
-                <image_block>
+                <image_block interactivity="yes">
                     <img url="Data\images\last-2.png" />
                 </image_block>
             </td>
@@ -187,7 +187,7 @@
             </td>
         </tr>
     </table>
-    <image_block class="full-width">
+    <image_block interactivity="yes" class="full-width">
         <img url="Data\images\last-3.png"/>
     </image_block>
     <p align="center"><i>Е. Сыромятникова.</i></p>
@@ -195,7 +195,7 @@
     <table margin_top="0" border-style="none">
         <tr>
             <td margin_top="0" rowspan="2" width="60%">
-                <image_block>
+                <image_block interactivity="yes">
                     <img url="Data\images\last-4.png" />
                 </image_block>
             </td>
@@ -219,13 +219,13 @@
                 &#160;
             </td>
             <td margin_top="0" width="80%">
-                <image_block>
+                <image_block interactivity="yes">
                     <img url="Data\images\last-5.png" />
                 </image_block>
             </td>
         </tr>
     </table>
-    <image_block class="full-width">
+    <image_block interactivity="yes" class="full-width">
         <img url="Data\images\last-6.png"/>
     </image_block>
     <p align="center"><i>Е. Сыромятникова.</i></p>

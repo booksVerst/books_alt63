@@ -21,7 +21,7 @@
     </table>
     <page number="107"/>
     <p><back_green>&#160;&#160;522.&#160;&#160;</back_green><sans_small> Спишите. Подчеркните разноспрягаемые глаголы. Укажите их время, лицо, число. </sans_small>●<sans_small>&#160;Составьте простые и сложные предложения с глаголами&#8211;синонимами, данными в рамке.</sans_small></p>
-    <image_block class="inner" width="15%">
+    <image_block interactivity="no" class="inner" width="15%">
         <img url="Data\images\89-1.png" />
     </image_block>
     <p indent="2">1. Коль хоч..шь радости Отчизне<footnote><brief><sup_blue>3</sup_blue></brief>выполнить морфологический разбор слова</footnote>, трудись не покладая рук.</p>
@@ -91,7 +91,7 @@
 	<p><back_green>&#160;&#160;524.&#160;&#160;</back_green><sans_small> Пользуясь таблицами на с.&#160;106, 107, проспрягайте глаголы </sans_small><sans_small_i>(не)сдаться, наесться, создать. </sans_small_i><sans_small>Какого вида эти глаголы?</sans_small></p>
 	<page number="108"/>
 	<p><big_red_p>Р </big_red_p><back_green>&#160;525.&#160;</back_green><sans_small> Прочитайте диалог. Какова его основная мысль? Можно ли в данном тексте выделенное слово заменить синонимами из рамки?</sans_small></p>
-	<image_block class="inner" width="20%">
+	<image_block interactivity="no" class="inner" width="20%">
 	    <img url="Data\images\89-2.png" />
 	</image_block>
 	<p indent="2">— Быть может, вы хотите <b>покушать?</b></p>
@@ -101,7 +101,7 @@
 	<p indent="2" margin_top="0">— Помните, в литературе прошлого века? Только лакеи говорили: «Кушать подано». Господа всегда говорили: «Милости прошу перекусить...»</p>
 	<p margin_top="0" align="right"><sans_small>(Ю. Семёнов)</sans_small></p>
 	<p><big_red_p>Р </big_red_p><back_green>&#160;526.&#160;</back_green><sans_small> Составьте и запишите диалог на тему «За завтраком», включив в него глаголы </sans_small><sans_small_i>есть, кушать.</sans_small_i></p>
-	<image_block class="full-width">
+	<image_block interactivity="no" class="full-width">
 	    <img url="Data\images\89-3.png"/>
 	</image_block>
 	<text_block class="hard">   
