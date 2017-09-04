@@ -6,7 +6,7 @@
     <table border-style="none" margin_top="0">
         <tr>
             <td width="10%">
-                <image_block interactivity="no" margin_top="0" width="10%"><img margin_top="0" url="Data\images\woman.png"  /></image_block>
+                <image_block interactivity="no" margin_top="0" width="50px"><img margin_top="0" url="Data\images\woman.png"  /></image_block>
             </td>
             <td width="90%">
                 <p>Сегодня мы начинаем изучать новую часть речи&#160;— местоимение.</p>
@@ -19,14 +19,14 @@
                 <p>Елена Ивановна, почему такое название?</p>
             </td>
             <td width="10%">
-                <image_block interactivity="no" margin_top="0" width="10%"><img margin_top="0" url="Data\images\babyMan.png" /></image_block>
+                <image_block interactivity="no" margin_top="0" width="50px"><img margin_top="0" url="Data\images\babyMan.png" /></image_block>
             </td>
         </tr>
     </table>
     <table border-style="none" margin_top="0">
         <tr>
             <td width="10%">
-                <image_block interactivity="no" margin_top="0" width="10%"><img margin_top="0" url="Data\images\woman.png"  /></image_block>
+                <image_block interactivity="no" margin_top="0" width="50px"><img margin_top="0" url="Data\images\woman.png"  /></image_block>
             </td>
             <td width="90%">
                 <p>В этом слове два корня: <b>место</b> (вместо) и <b>имя</b> (имение). Местоимение&#160;— это то, что употребляется вместо имени.</p>
@@ -40,37 +40,7 @@
                 <p>А вместо какого имени употребляется местоимение?</p>
             </td>
             <td width="10%">
-                <image_block interactivity="no" margin_top="0" width="10%"><img margin_top="0" url="Data\images\babyGirl.png" /></image_block>
-            </td>
-        </tr>
-    </table>
-    <table border-style="none" margin_top="0">
-        <tr>
-            <td width="10%">
-                <image_block interactivity="no" margin_top="0" width="10%"><img margin_top="0" url="Data\images\woman.png"  /></image_block>
-            </td>
-            <td width="90%">
-                <p>Местоимение может использоваться в тексте вместо имён существительных, прилагательных, числительных.</p>
-            </td>
-        </tr>
-    </table>
-    <table border-style="none" margin_top="0">
-        <tr>
-            <td width="10%">
-                <image_block interactivity="no" margin_top="0"><img margin_top="0" url="Data\images\woman.png"  /></image_block>
-            </td>
-            <td width="90%">
-                <p>Местоимение может использоваться в тексте вместо имён существительных, прилагательных, числительных.</p>
-            </td>
-        </tr>
-    </table>
-    <table border-style="none" margin_top="0">
-        <tr>
-            <td width="10%">
-                <image_block interactivity="no" margin_top="0" width="30px"><img margin_top="0" url="Data\images\woman.png"  /></image_block>
-            </td>
-            <td width="90%">
-                <p>Местоимение может использоваться в тексте вместо имён существительных, прилагательных, числительных.</p>
+                <image_block interactivity="no" margin_top="0" width="50px"><img margin_top="0" url="Data\images\babyGirl.png" /></image_block>
             </td>
         </tr>
     </table>

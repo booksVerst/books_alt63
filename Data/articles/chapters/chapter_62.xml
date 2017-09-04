@@ -7,12 +7,35 @@
 
       <table border-style="none">
          <tr>
-            <td width="10%" rowspan="2"><p margin_top="0">1) </p></td>
-            <td width="90%"><p>Недоброе слово больнее огня жжёт.</p></td>
+            <td width="5%" text-valign="top"><p margin_top="0">1) </p></td>
+            <td width="95%">
+               <p margin_top="0">Лихо тому, кто неправду творит кому.</p>
+               <p margin_top="0">Недоброе слово больнее огня жжёт.</p>
+            </td>
          </tr>
          <tr>            
-            <td width="10%" rowspan="2"><p margin_top="0">2) </p></td>
-            <td width="90%"><p>Не велик кувшин, да ёмок.</p></td>
+            <td width="5%" text-valign="top"><p margin_top="0">2) </p></td>
+            <td width="95%">
+               <p margin_top="0">Одно дерево ещё не лес.</p>
+               <p margin_top="0">Не велик кувшин, да ёмок.</p>
+            </td>
+         </tr>
+      </table>
+
+      <table border-style="none">
+         <tr>
+            <td width="5%" text-align="top"><p margin_top="0">1) </p></td>
+            <td width="95%">
+               <p margin_top="0">Лихо тому, кто неправду творит кому.</p>
+               <p margin_top="0">Недоброе слово больнее огня жжёт.</p>
+            </td>
+         </tr>
+         <tr>            
+            <td width="5%" text-align="top"><p margin_top="0">2) </p></td>
+            <td width="95%">
+               <p margin_top="0">Одно дерево ещё не лес.</p>
+               <p margin_top="0">Не велик кувшин, да ёмок.</p>
+            </td>
          </tr>
       </table>
 

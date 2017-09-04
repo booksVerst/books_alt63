@@ -12,7 +12,7 @@
         <table margin_top="0" border-style="none">
             <tr>
                 <td margin_top="0" width="80%">
-                	<p indent="2"><sans_i>Даль </sans_i><tex>\wideparen{\textitsf{тума}\uline{\textitsf{н}}}\uline{\widehat{\textitsf{н}}}\textitsf{а.}</tex></p>
+                	<p indent="2"><tex>\textitsf{Даль~~}\wideparen{\textitsf{тума}\uline{\textitsf{н}}}\uline{\widehat{\textitsf{н}}}\textitsf{а.}</tex></p>
                 </td>
                 <td margin_top="0" width="20%">
                 	<p align="right"><sans_b>№ 38</sans_b></p>

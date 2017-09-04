@@ -57,7 +57,7 @@
 	    <tr>
 	        <td width="25%"> </td>
 	        <td width="50%">
-	            <image_block interactivity="no" class="full-width" interactivity="yes">
+	            <image_block interactivity="no" class="full-width">
 	                <img url="Data\images\2-74-3.png" />
 	            </image_block>
 	        </td>
