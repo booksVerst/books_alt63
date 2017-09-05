@@ -2,7 +2,7 @@
     <page number="72" />
 <!-- Параграфы -->
     <p><big_paragraph>§&#160;79</big_paragraph><big_purpure> Вопросительные и относительные местоимения</big_purpure></p>
-    <text_block class="independent" margin_top="-5px">
+    <text_block class="independent" margin_top="0px">
         <p indent="2"><sans>Назовите вопросы, на которые отвечают существительные, прилагательные и числительные.</sans></p>
     </text_block>
     
@@ -10,7 +10,7 @@
         <table border-style="none" margin_top="0">
             <tr>
                 <td width="75%">
-                        <p indent="2"  margin_top="-5px"><sans>Это </sans><sans_b>вопросительные </sans_b><sans>местоимения. Они служат для выражения вопроса. Вопросительное местоимение </sans><sans_i>который </sans_i><sans>употребляется в выражении </sans><sans_i>который час.</sans_i></p>
+                        <p indent="2"  margin_top="0px"><sans>Это </sans><sans_b>вопросительные </sans_b><sans>местоимения. Они служат для выражения вопроса. Вопросительное местоимение </sans><sans_i>который </sans_i><sans>употребляется в выражении </sans><sans_i>который час.</sans_i></p>
                         <p indent="2"><sans>Вопросительные местоимения </sans><sans_i>кто </sans_i><sans>и </sans><sans_i>что </sans_i><sans>не изменяются по родам и числам.</sans></p>
                 </td>
                 <td width="25%">
@@ -22,7 +22,7 @@
         </table>
     </text_block>
     <p><back_green>&#160;&#160;450.&#160;&#160;</back_green><sans_small> Просклоняйте устно вопросительные местоимения </sans_small><sans_small_i>кто, что. </sans_small_i><sans_small>Правильно произнесите их в родительном падеже.</sans_small></p>
-    <text_block class="independent" margin_top="-5px">
+    <text_block class="independent" margin_top="0px">
         <p indent="2"><sans>Рассмотрите таблицу склонения местоимения </sans><sans_i>чей (чьё, чья, чьи). </sans_i><sans>Обратите внимание на правописание разделительного </sans><sans_bi>ь.</sans_bi></p>
         <p indent="2" margin_top="0"><sans>Употребление буквы </sans><sans_bi>ь </sans_bi><sans>в падежных формах местоимения </sans><sans_i>чей&#160;—</sans_i><sans>это орфограмма №&#160;6 «Разделительные </sans><sans_bi>ъ </sans_bi><sans>и </sans><sans_bi>ь</sans_bi><sans>».</sans></p>
         <page number="73" />
@@ -301,7 +301,7 @@
     </text_block>
     <p><back_green>&#160;&#160;451.&#160;&#160;</back_green><sans_small> Спишите, вставляя местоимения. </sans_small>●<sans_small>&#160;Какими по цели высказывания являются записанные предложения?</sans_small></p>
     <p indent="2">1.&#160;В __&#160;__ году ты р..дился (р..дилась)? 2.&#160;__&#160;__ тебе лет? 3.&#160;__&#160;__ тебе было лет, когда ты научился читать? 4.&#160;__&#160;__ книги нравятся тебе больше всего? 5.&#160;__&#160;__ из л..тературных г..роев тебе х..телось бы подр..жать? 6.&#160;__&#160;__ ты обычно делаешь после того, как приг..товишь уроки? 7.&#160;__&#160;__ сегодня именины?</p>
-    <text_block class="independent" margin_top="-5px">
+    <text_block class="independent" margin_top="0px">
         <p indent="2"><sans>ассмотрите таблицу склонения местоимения </sans><sans_i>сколько.</sans_i><sans> На какой части слова стоит ударение во всех падежных формах?</sans></p>
     </text_block>
     <table margin_top="0" border-style="solid solid solid solid" border-color="000000" border-size="3px">
@@ -320,7 +320,7 @@
     </table>
     <p><back_green>&#160;&#160;452.&#160;&#160;</back_green><sans_small> Просклоняйте устно словосочетания</sans_small><sans_small_i> сколько скворцов, сколько гостей,</sans_small_i><sans_small> произнося правильно слово </sans_small><sans_small_i>сколько.</sans_small_i></p>
     <page number="74" />
-    <text_block class="independent" margin_top="-5px">
+    <text_block class="independent" margin_top="0px">
         <p indent="2"><sans>Прочитайте вопросительные предложения и укажите в них вопросительные местоимения.</sans></p>
         <p indent="2"><sans_b>Кто </sans_b><sans>победил в последнем футбольном матче?</sans></p>
         <p indent="2" margin_top="0"><sans_b>О чём </sans_b><sans>говорил тренер команде?</sans></p>
@@ -330,10 +330,10 @@
         <p indent="2"><sans>Прочитайте эти же предложения, опустив в них выделенные местоимения. Сохранились ли при этом смысл и связь между частями сложного предложения?</sans></p>
     </text_block>
         <text_block class="theoretical">
-            <table border-style="none" margin_top="-5px">
+            <table border-style="none" margin_top="0px">
                 <tr>
                     <td width="75%" text-align="top">
-                            <p indent="2" margin_top="-5px"><sans>Местоимения </sans><sans_i>кто, что, какой, чей, каков, который, сколько </sans_i><sans>являются </sans><sans_b>относительными, </sans_b><sans>если они употребляются без вопроса для связи простых предложений в составе сложных.</sans></p>
+                            <p indent="2" margin_top="0px"><sans>Местоимения </sans><sans_i>кто, что, какой, чей, каков, который, сколько </sans_i><sans>являются </sans><sans_b>относительными, </sans_b><sans>если они употребляются без вопроса для связи простых предложений в составе сложных.</sans></p>
                             <p indent="2" margin_top="0"><sans>Относительные местоимения могут быть разными членами предложения.</sans></p>
                     </td>
                     <td width="25%">
@@ -365,7 +365,7 @@
     <p indent="2"><sans_green>Образец. </sans_green><sans_small_i>Мы пошли в лес. В нём многое изменилось весной.&#160;— Мы пошли в лес, в </sans_small_i><sans_small_bi>котором </sans_small_bi><sans_small_i>многое изменилось весной.</sans_small_i></p>
     <p indent="2">1.&#160;Охотник вышел к реке. В ней купались медвежата. 2.&#160;Яркие лучи солнца осв..тили дерев(?)я. Они за минуту до этого к..зались слившимися в одну тёмн..ю массу. 3.&#160;Мы ост..новились у крайн..й избы. За ней начинал..сь поле.</p>
     <text_block class="speech">        
-	    <p indent="2" margin_top="-5px"><back_green>&#160;&#160;456.&#160;&#160;</back_green><sans_small> Найдите ошибки в образовании форм глаголов и местоимений. Спишите, внося необходимые исправления. </sans_small>●<sans_small>&#160;Подчеркните главные члены в 1—3 предложениях.</sans_small></p>
+	    <p indent="2" margin_top="0px"><back_green>&#160;&#160;456.&#160;&#160;</back_green><sans_small> Найдите ошибки в образовании форм глаголов и местоимений. Спишите, внося необходимые исправления. </sans_small>●<sans_small>&#160;Подчеркните главные члены в 1—3 предложениях.</sans_small></p>
 	</text_block>
 	<image_block interactivity="no" class="inner" width="20%">
 	    <img url="Data\images\2-79-3.png" />

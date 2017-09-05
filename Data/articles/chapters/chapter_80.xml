@@ -2,14 +2,14 @@
     <page number="76" />
 <!-- Параграфы -->
     <p><big_paragraph>§&#160;80</big_paragraph><big_purpure> Неопределённые местоимения</big_purpure></p>
-        <text_block class="independent" margin_top="-5px">
+        <text_block class="independent" margin_top="0px">
             <table border-style="none" margin_top="0">
                 <tr>
-                    <td width="75%">
+                    <td width="75%" text-valign="top">
                         <p indent="2"><sans_b>Не&#x301;кто</sans_b><sans> шёл по </sans><sans_b>какой-то</sans_b><sans> дороге и нашёл </sans><sans_b>не&#x301;что. Не&#x301;которую</sans_b><sans> часть найденного он отдал товарищу, а </sans><sans_b>кое-что</sans_b><sans> бросил. Что у него осталось?</sans></p>
                     </td>
-                    <td width="25%">
-                        <image_block interactivity="no" width="80%">
+                    <td width="25%" text-align="right">
+                        <image_block interactivity="no" width="70%">
                             <img url="Data\images\80-1.png" />
                         </image_block>
                     </td>
@@ -17,11 +17,11 @@
             </table>
         </text_block>
     <text_block class="theoretical">
-    	<p indent="2"  margin_top="-5px"><sans>Выделенные местоимения указывают на неопределённые лица, предметы, признаки, количества и называются </sans><sans_b>неопределёнными.</sans_b></p>
+    	<p indent="2"  margin_top="0px"><sans>Выделенные местоимения указывают на неопределённые лица, предметы, признаки, количества и называются </sans><sans_b>неопределёнными.</sans_b></p>
     	<page number="77" />
     	<p indent="2"><sans>Неопределённые местоимения, кроме </sans><sans_i>не&#x301;кто</sans_i><sans> и </sans><sans_i>не&#x301;что,</sans_i><sans> изменяются по падежам. Некоторые неопределённые местоимения изменяются также по родам и числам.</sans></p>
     </text_block>
-    <text_block class="independent" margin_top="-5px">
+    <text_block class="independent" margin_top="0px">
         <p indent="2"><sans>Рассмотрите таблицу. Как образованы неопределённые местоимения?</sans></p>
     </text_block>
     <table margin_top="0" border-style="solid solid solid solid" border-color="000000" border-size="3px">
@@ -59,7 +59,7 @@
     <p indent="2"><sans_green>Образец. </sans_green><tex>\small{\overline{\textitsf{Кое}}^{\rule{0.4pt}{2pt}}\textitsf{-кто~}}</tex> &#8592; <tex>\textitsf{~кто}</tex></p>
     <p indent="2">Кое-что, некоторый, некто, кто-то, чей-либо, несколько, что-нибудь, нечто.</p>
     <text_block class="definition">
-		<p indent="2" margin_top="-5px">
+		<p indent="2" margin_top="0px">
 			<sans>В неопределённых местоимениях </sans><sans_i>некто, нечто, некоторый, несколько </sans_i><sans>приставка </sans><sans_bi>не- </sans_bi><sans>всегда находится под ударением и пишется слитно.</sans>
 		</p>
 		<table margin_top="0" border-style="none">
@@ -76,7 +76,7 @@
 	<p><back_green>&#160;&#160;459.&#160;&#160;</back_green><sans_small> Составьте с данными словосочетаниями предложения. Обозначьте условия выбора изучаемой орфограммы (см. образец в правиле). Укажите падежи неопределённых местоимений.</sans_small></p>
 	<p indent="2">За (не)сколько минут, через (не)которое время, в (не)скольких словах, с (не)которых пор.</p>
 	<page number="78" />
-	<text_block class="independent" margin_top="-5px">
+	<text_block class="independent" margin_top="0px">
 	    <p indent="2"><sans>Сравните неопределённые местоимения в левой и правой колонках. Чем они различаются по написанию?</sans></p>
 	    <p indent="2" margin_top="0"><sans>От какого условия зависит выбор дефисного и раздельного написания приставки </sans><sans_bi>кое-</sans_bi><sans>?</sans></p>
 	</text_block>
@@ -97,7 +97,7 @@
         </tr>
     </table>
     <text_block class="definition">
-		<p indent="2" margin_top="-5px">
+		<p indent="2" margin_top="0px">
 			<sans>Неопределённые местоимения с приставкой </sans><sans_bi>кое&#8211; </sans_bi><sans>и суффиксами </sans><sans_bi>&#8211;то, &#8211;либо, &#8211;нибудь </sans_bi><sans>пишутся через дефис. Если </sans><sans_bi>кое&#8211; </sans_bi><sans>отделяется от местоимения предлогом, то пишется отдельно.</sans>
 		</p>
 		<table margin_top="0" border-style="none" >

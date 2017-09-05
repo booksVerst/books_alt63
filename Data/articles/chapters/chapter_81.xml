@@ -6,7 +6,7 @@
             <tr>
                 <td width="75%">
                     <text_block class="theoretical">
-                        <p indent="2"  margin_top="-5px"><sans_b>Отрицательные </sans_b><sans>местоимения образованы от вопросительных с помощью приставок </sans><sans_bi>не&#8211; </sans_bi><sans>и </sans><sans_bi>ни&#8211;.</sans_bi><sans> Они выражают отсутствие чего-либо: лица, предмета, признака, количества.</sans></p>
+                        <p indent="2"  margin_top="0px"><sans_b>Отрицательные </sans_b><sans>местоимения образованы от вопросительных с помощью приставок </sans><sans_bi>не&#8211; </sans_bi><sans>и </sans><sans_bi>ни&#8211;.</sans_bi><sans> Они выражают отсутствие чего-либо: лица, предмета, признака, количества.</sans></p>
                         <p indent="2" margin_top="0"><sans>Отрицательные местоимения изменяются по падежам. Местоимения </sans><sans_i>не&#x301;кого, не&#x301;чего </sans_i><sans>не имеют именительного падежа.</sans></p>
                     </text_block>
                 </td>
@@ -18,7 +18,7 @@
             </tr>
         </table>
     <p><back_green>&#160;&#160;462.&#160;&#160;</back_green><sans_small> Как образованы данные слова? </sans_small>●<sans_small>&#160;Составьте 2—3 предложения с отрицательными местоимениями.</sans_small></p>
-    <p indent="2"><sans_green>Образец. </sans_green><tex>\small{\overline{\textitsf{Ни}}^{\rule{0.4pt}{2pt}}\textitsf{чей~}}</tex>&#8592;<tex>\small{\textitsf{~чей.}}</tex></p>
+    <p indent="2"><sans_green>Образец. </sans_green><tex>\small{\overline{\textitsf{Ни}}^{\rule{0.4pt}{2pt}}\textitsf{чей~}}</tex>&#160;&#8592;&#160;<tex>\small{\textitsf{~чей.}}</tex></p>
     <p indent="2">Некого, никакой, никто, нечего, ничто.</p>
     <text_block class="game">
     	<p><back_green>&#160;&#160;463.&#160;&#160;</back_green><sans_small> Как вы понимаете смысл стихотворения, которое называется «Ничего»? Как произносится это слово?</sans_small></p>
@@ -62,7 +62,7 @@
     </table>
     <page number="80" />
     <text_block class="definition">        <!--блок "определения и правила"-->
-        <p indent="2" margin_top="-5px"><sans>В отрицательных местоимениях приставка </sans><sans_bi>не&#8211; </sans_bi><sans>всегда ударная. Приставка </sans><sans_bi>ни&#8211; </sans_bi><sans>безударная, в ней пишется буква </sans><sans_bi>и.</sans_bi></p>
+        <p indent="2" margin_top="0px"><sans>В отрицательных местоимениях приставка </sans><sans_bi>не&#8211; </sans_bi><sans>всегда ударная. Приставка </sans><sans_bi>ни&#8211; </sans_bi><sans>безударная, в ней пишется буква </sans><sans_bi>и.</sans_bi></p>
         <table margin_top="0" border-style="none">
             <tr>
                 <td width="80%">
@@ -78,7 +78,7 @@
     <p indent="2">1.&#160;Н..чего тому страшит(?)ся, кто н..чего (не)боит(?)ся. 2.&#160;Если за день н..чему (не)научился, зря прожил день. 3.&#160;За напрас(?)ный труд н..кто спасибо (не)скажет. 4.&#160;Н..чьими похвалами (не)в..зносись.</p>
     <p margin_top="0" align="right"><sans_small>(Пословицы)</sans_small></p>
     <text_block class="theoretical">
-    	<p indent="2"  margin_top="-5px"><sans>Если при сказуемом есть частица </sans><sans_bi>не, </sans_bi><sans>то отрицательное местоимение с </sans><sans_bi>ни </sans_bi><sans>усиливает отрицательный смысл предложения.</sans></p>
+    	<p indent="2"  margin_top="0px"><sans>Если при сказуемом есть частица </sans><sans_bi>не, </sans_bi><sans>то отрицательное местоимение с </sans><sans_bi>ни </sans_bi><sans>усиливает отрицательный смысл предложения.</sans></p>
     </text_block>
     <p><back_green>&#160;&#160;465.&#160;&#160;</back_green><sans_small> Вставьте отрицательные местоимения для усиления отрицания. Обозначьте падеж местоимений. </sans_small>●<sans_small>&#160;Подчеркните дополнения.</sans_small></p>
     <p indent="2"><sans_green>Образец. </sans_green><sans_small_i>Эта вещь __&#160;__ не нужна.&#160;— Эта вещь </sans_small_i><tex>\small{\dashuline{\overset{\textitsf{Д.}}{\textitsf{никому}}}\textitsf{~}}</tex><sans_small_i >не нужна.</sans_small_i ></p>
@@ -91,7 +91,7 @@
     <p indent="2">1.&#160;Рядился-рядился, а н.. к чему н.. пр..годился. 2.&#160;Друг&#160;— це(н, нн)ый клад, (не)другу (н..)кто (не)рад. 3.&#160;Обид..ть-то каждый мож..т, а пож..леть-то н..кому. 4.&#160;Любят того, кто н.. обид..т н..кого.</p>
     <p margin_top="0" align="right"><sans_small>(Пословицы)</sans_small></p>
     <page number="81" />
-    <text_block class="independent" margin_top="-5px">
+    <text_block class="independent" margin_top="0px">
         <p indent="2"><sans>Рассмотрите примеры. В каком случае в отрицательных местоимениях есть раздельные написания?</sans></p>
     </text_block>
     <table margin_top="0" border-style="none">
@@ -121,11 +121,11 @@
         </tr>
     </table>
     <text_block class="definition">
-    	<p indent="2" margin_top="-5px"><sans>Если </sans><sans_bi>не </sans_bi><sans>и </sans><sans_bi>ни </sans_bi><sans>отделяются от местоимения предлогом, то они в отрицательных местоимениях пишутся раздельно.</sans></p>
+    	<p indent="2" margin_top="0px"><sans>Если </sans><sans_bi>не </sans_bi><sans>и </sans><sans_bi>ни </sans_bi><sans>отделяются от местоимения предлогом, то они в отрицательных местоимениях пишутся раздельно.</sans></p>
     	<table margin_top="0" border-style="none">
 	    	<tr>
 	    		<td width="80%">
-	    			<p><tex>\textitsf{Ни}\uline{~~}\uuline{\textitsf{у}}\uline{~~}\textitsf{кого. ~~~~~}</tex><tex>\textitsf{Н\'e}\uline{~~}\uuline{\textitsf{с}}\uline{~~}\textitsf{кем.}</tex></p>
+	    			<p><tex>\textitsf{Ни}\uline{~~}\uuline{\textitsf{у}}\uline{~~}\textitsf{кого. ~~~~~}</tex>&#160;<tex>\textitsf{Н\'e}\uline{~~}\uuline{\textitsf{с}}\uline{~~}\textitsf{кем.}</tex></p>
 	    		</td>
 	    		<td width="20%">
 	    			<p align="right"><sans_b>№&#160;46</sans_b></p>
@@ -161,8 +161,8 @@
     <p margin_top="0" align="right"><sans_small>(По В.&#160;Волиной)</sans_small></p>
     <p><back_green>&#160;&#160;472.&#160;&#160;</back_green><sans_small> Спишите, обозначая орфограмму «Слитное и раздельное написание </sans_small><sans_small_bi>не </sans_small_bi><sans_small>и </sans_small><sans_small_bi>ни </sans_small_bi><sans_small>в отрицательных местоимениях».</sans_small></p>
     <p indent="2">1. (Н..)спеши хватать руками (н..)чего, что лежит в тарелке.</p>
-    <p margin_top="0">2. (Н..)толкай (н..)кого, кто сидит с тобой рядом, под локоть.</p>
-    <p margin_top="0">3. (Н..)(с)кем громко (н..)разговаривай, (н..)старайся (н..)кого перекричать.</p>
+    <p indent="2" margin_top="0">2. (Н..)толкай (н..)кого, кто сидит с тобой рядом, под локоть.</p>
+    <p indent="2" margin_top="0">3. (Н..)(с)кем громко (н..)разговаривай, (н..)старайся (н..)кого перекричать.</p>
     <text_block class="hard">   
         <p indent="2"><back_green>&#160;&#160;473.&#160;&#160;</back_green><sans_small> Выпишите существительные, прилагательные, глаголы и местоимения в две колонки.</sans_small></p>
     </text_block>

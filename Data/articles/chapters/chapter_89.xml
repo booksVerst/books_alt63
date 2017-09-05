@@ -2,7 +2,7 @@
     <page number="106" />
 <!-- Параграфы -->
     <p><big_paragraph>§&#160;89</big_paragraph><big_purpure> Разноспрягаемые глаголы</big_purpure></p>
-    <text_block class="independent" margin_top="-5px">
+    <text_block class="independent" margin_top="0px">
         <p indent="2"><sans>Рассмотрите таблицу. Докажите, что глаголы </sans><sans_i>хотеть </sans_i><sans>и </sans><sans_i>бежать </sans_i><sans></sans></p>
     </text_block>
     <table margin_top="0" border-style="solid solid solid solid" border-color="000000" border-size="2px">
@@ -35,7 +35,7 @@
 	<p indent="2" margin_top="0">4. Кровь __&#160;__ по жилам.</p>
 	<p indent="2" margin_top="0">5. Тропинка __&#160;__ в гору.</p>
 	<p margin_top="0">&#160;</p>
-	<text_block class="independent" margin_top="-5px">
+	<text_block class="independent" margin_top="0px">
 	    <p indent="2"><sans>Рассмотрите таблицы. Назовите окончания глаголов </sans><sans_i>есть, дать. </sans_i><sans>В чём особенность спряжения этих глаголов?</sans></p>
 	    <table margin_top="0" border-style="none">
 	    <tr>
@@ -72,14 +72,14 @@
 	        	    </tr>
 	        	    <tr>
 	        	        <td margin_top="0" border-style="none solid solid solid" border-color="000000" border-size="2px">
-	        	        	<p><i>Я </i><tex>\textit{да}\boxed{\textit{м}}</tex></p>
-	        	        	<p margin_top="0"><i>Ты дашь</i></p>
-	        	        	<p margin_top="0"><i>Он даст</i></p>
+	        	        	<p indent="1"><i>Я </i><tex>\textit{да}\boxed{\textit{м}}</tex></p>
+	        	        	<p indent="1" margin_top="0"><i>Ты дашь</i></p>
+	        	        	<p indent="1" margin_top="0"><i>Он даст</i></p>
 	        	        </td>
 	        	        <td border-style="none solid solid solid" border-color="000000" border-size="2px" margin_top="0">
-	        	        	<p><i>Мы дадим</i></p>
-	        	        	<p margin_top="0"><i>Вы дадите</i></p>
-	        	        	<p margin_top="0"><i>Они дадут</i></p>
+	        	        	<p indent="1"><i>Мы дадим</i></p>
+	        	        	<p indent="1" margin_top="0"><i>Вы дадите</i></p>
+	        	        	<p indent="1" margin_top="0"><i>Они дадут</i></p>
 	        	        </td>
 	        	    </tr>
 	        	</table>

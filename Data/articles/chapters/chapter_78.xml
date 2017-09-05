@@ -3,7 +3,7 @@
 <!-- Параграфы -->
     <p><big_paragraph>§&#160;78</big_paragraph><big_purpure> Возвратное местоимение</big_purpure><big_purpure_i> себя</big_purpure_i></p>
     <text_block class="theoretical">
-    	<p indent="2"  margin_top="-5px"><sans_b>Возвратное </sans_b><sans>местоимение себя не имеет именительного падежа, не имеет рода и числа, например:</sans></p>
+    	<p indent="2"  margin_top="0px"><sans_b>Возвратное </sans_b><sans>местоимение себя не имеет именительного падежа, не имеет рода и числа, например:</sans></p>
     	<p indent="2" margin_top="0"><sans_i>Не хвали сам (сама) себя. Не хвалите сами себя. Возьмите себе.</sans_i></p>
     	<p indent="2" margin_top="0"><sans>В предложении </sans><sans_i>себя </sans_i><sans>является дополнением.</sans></p>
     </text_block>
@@ -11,7 +11,7 @@
     <text_block class="game">
     	<p><back_green>&#160;&#160;445.&#160;&#160;</back_green><sans_small> Прочитайте шутливое стихотворение «Сам себя». Сколько раз повторяется местоимение </sans_small><sans_small_i>себя? </sans_small_i><sans_small>Определите его падеж. </sans_small>●<sans_small>&#160;Бывало ли так, что вы оказывались в положении маленького Питона?</sans_small></p>
     </text_block>
-    <table border-style="none" margin_top="-5px">
+    <table border-style="none" margin_top="0px">
     	<tr>
     		<td width="50%">
     			<p>Плачет маленький Питон:</p>
@@ -33,7 +33,7 @@
     <p indent="2">1.&#160;Для __&#160;__ жить — тлеть, для сем(?)и — г..реть, а для народа — св..тить. 2.&#160;(Не)кричи о __&#160;__, пусть другие (о)тебе хоть тихо скажут. 3.&#160;Нет лучше шутк..<footnote><brief><sup_blue>3</sup_blue></brief>выполнить морфологический разбор слова</footnote>, чем над __&#160;__. 4.&#160;Кто только о __&#160;__ хлопоч..т, тот о других и знать (не)хочет.</p>
     <p align="right"><sans_small>(Пословицы)</sans_small></p>
     <text_block class="speech">        
-	    <p indent="2" margin_top="-5px"><back_green>&#160;&#160;447.&#160;&#160;</back_green><sans_small> Устраните недочёты в употреблении местоимений.</sans_small></p>
+	    <p indent="2" margin_top="0px"><back_green>&#160;&#160;447.&#160;&#160;</back_green><sans_small> Устраните недочёты в употреблении местоимений.</sans_small></p>
 	</text_block>
 	<p indent="2"><sans_green>Образцы.</sans_green></p>
 	<p indent="2"><sans_small>1) Ученик вынул из портфеля учебник и положил </sans_small><sans_small_b>его </sans_small_b><sans_small>(портфель или учебник?) на парту.&#160;— </sans_small><sans_small_i>Ученик вынул из портфеля учебник и положил книгу на парту.</sans_small_i></p>

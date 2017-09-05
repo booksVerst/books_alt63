@@ -3,7 +3,7 @@
     <p><big_paragraph>§&#160;57</big_paragraph><big_purpure> Степени сравнения имён прилагательных</big_purpure></p>
     
     <text_block class="theoretical">
-        <p indent="2"  margin_top="-5px"><sans>Имена прилагательные могут иметь сравнительную и превосходную степень сравнения.</sans></p>
+        <p indent="2"  margin_top="0px"><sans>Имена прилагательные могут иметь сравнительную и превосходную степень сравнения.</sans></p>
         <p indent="2" margin_top="0px"><sans_b>Сравнительная степень</sans_b><sans> показывает, что в том или ином предмете признак проявляется в большей степени, чем в другом, например: </sans><sans_i>Левый берег реки </sans_i><sans_bi>круче</sans_bi><sans_i> правого; Левый берег реки </sans_i><sans_bi>более крутой,</sans_bi><sans_i> чем правый.</sans_i></p>
         <p indent="2" margin_top="0px"><sans_b>Превосходная степень</sans_b><sans> показывает, что тот или иной предмет превосходит остальные предметы по какому-либо признаку, например: </sans><sans_i>Байкал&#160;— </sans_i><sans_bi>глубочайшее</sans_bi><sans_i> озеро на Земле; Байкал&#160;— </sans_i><sans_bi>самое глубокое</sans_bi><sans_i> озеро на Земле.</sans_i></p>
     </text_block>
@@ -15,7 +15,7 @@
     <page number="11" />
 
     <text_block class="theoretical">
-        <p indent="2"  margin_top="-5px"><sans>Сравнительная степень прилагательных имеет две формы: простую и составную.</sans></p>
+        <p indent="2"  margin_top="0px"><sans>Сравнительная степень прилагательных имеет две формы: простую и составную.</sans></p>
         <p indent="2" margin_top="0px"><sans_b>Простая форма сравнительной степени </sans_b><sans>бразуется путём прибавления к основе начальной формы прилагательных суффиксов </sans><sans_bi>-ее (-ей),</sans_bi><sans> например: </sans><sans_i>приветливый&#160;— </sans_i><tex>\small{\textitsf{приветлив}\widehat{\textitsf{ее}}}</tex><sans> </sans><tex>\small{\textitsf{(-}\widehat{\textitsf{ей}}\textitsf{);}}</tex><sans_b> -е </sans_b><sans>(перед ним происходит чередование согласных), например: </sans><tex>\small{\textitsf{гром}\uline{\textitsf{к}}\textitsf{ий}}</tex><sans_i>&#160;— </sans_i><tex>\small{\textitsf{гром}\uline{\textitsf{ч}}\widehat{\textitsf{е}}\textitsf{;}}</tex><sans_bi> -ше, </sans_bi><sans>например: </sans><sans_i>тонкий&#160;— </sans_i><tex>\small{\textitsf{тонь}\widehat{\textitsf{ше}}\textitsf{.}}</tex></p>
         <p indent="2" margin_top="0px"><sans>Иногда при присоединении суффиксов</sans><sans_bi>-е</sans_bi><sans> и </sans><sans_bi>-ше</sans_bi><sans> от основы начальной формы отсекается суффикс </sans><sans_bi>-к- (-ок, -ёк),</sans_bi><sans> например: </sans><tex>\small{\textitsf{слад}\uline{\textitsf{к}}\textitsf{ий}}</tex><sans_i>&#160;— </sans_i><tex>\textitsf{слащ}\small{\widehat{\textitsf{е}}\textitsf{,~~~~~}} </tex><tex>\small{\textitsf{дал}\uline{\textitsf{ёк}}\textitsf{ий}\textitsf{~~ — ~~}\textitsf{даль}\widehat{\textitsf{ше}}}.</tex></p>
         <p indent="2" margin_top="0px"><sans>Прилагательные </sans><sans_i>малый (маленький), плохой, хороший </sans_i><sans>образуют форму простой сравнительной степени от других основ: </sans><sans_i>меньше, хуже, лучше.</sans_i></p>

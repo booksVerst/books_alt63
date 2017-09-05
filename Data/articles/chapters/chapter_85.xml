@@ -7,26 +7,11 @@
         <table border-style="none" margin_top="0">
             <tr>
                 <td width="75%">
-                        <p indent="2"  margin_top="-5px"><sans_b>Определительные </sans_b><sans>местоимения указывают на обобщённое качество предмета. Они изменяются по числам, родам (в единственном числе) и падежам.</sans></p>
+                        <p indent="2"  margin_top="0px"><sans_b>Определительные </sans_b><sans>местоимения указывают на обобщённое качество предмета. Они изменяются по числам, родам (в единственном числе) и падежам.</sans></p>
                         <p indent="2" margin_top="0">В предложении определительные местоимения обычно бывают определениями.</p>
                 </td>
                 <td width="25%" text-align="right">
                     <image_block interactivity="no" width="50%">
-                        <img url="Data\images\85-1.png" />
-                    </image_block>
-                </td>
-            </tr>
-        </table>
-    </text_block>
-    <text_block class="theoretical">
-        <table border-style="none" margin_top="0">
-            <tr>
-                <td width="75%">
-                        <p indent="2"  margin_top="-5px"><sans_b>Определительные </sans_b><sans>местоимения указывают на обобщённое качество предмета. Они изменяются по числам, родам (в единственном числе) и падежам.</sans></p>
-                        <p indent="2" margin_top="0">В предложении определительные местоимения обычно бывают определениями.</p>
-                </td>
-                <td width="25%">
-                    <image_block interactivity="no" width="50%" align="right">
                         <img url="Data\images\85-1.png" />
                     </image_block>
                 </td>
@@ -51,7 +36,7 @@
     <p margin_top="0" align="right"><sans_small>(И. Крылов)</sans_small></p>
     <page number="93"/>
     <text_block class="theoretical">
-    	<p indent="2"  margin_top="-5px"><sans>На какую значимую часть слова (морфему) падает ударение в местоимениях </sans><sans_i>сам (сама) и самый </sans_i><sans>в косвенных падежах?</sans></p>
+    	<p indent="2"  margin_top="0px"><sans>На какую значимую часть слова (морфему) падает ударение в местоимениях </sans><sans_i>сам (сама) и самый </sans_i><sans>в косвенных падежах?</sans></p>
     </text_block>
     <table margin_top="0" border-style="solid solid solid solid" border-color="000000" border-size="3px">
         <tr>

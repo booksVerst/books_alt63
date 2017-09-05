@@ -4,8 +4,8 @@
 	<p indent="5"><sans_big_grey>ГЛАГОЛ</sans_big_grey></p>
     <p><big_paragraph>§&#160;88</big_paragraph><big_purpure> Повторение изученного в 5 классе</big_purpure></p>
     <text_block class="definition">
-        <p indent="2" margin_top="-5px"><sans_b>I. Глагол </sans_b><sans>— часть речи, которая обозначает действие и отвечает на вопросы ч&#160;т&#160;о  д&#160;е&#160;л&#160;а&#160;т&#160;ь? ч&#160;т&#160;о  с&#160;д&#160;е&#160;л&#160;а&#160;т&#160;ь?</sans></p>
-        <p indent="2" margin_top="0"><sans_b>II. </sans_b><sans>Глаголы бывают несовершенного и совершенного вида. Глаголы несовершенного вида отвечают на вопрос ч&#160;т&#160;о  д&#160;е&#160;л&#160;а&#160;т&#160;ь?, а совершенного&#160;— на вопрос ч&#160;т&#160;о  с&#160;д&#160;е&#160;л&#160;а&#160;т&#160;ь?</sans></p>
+        <p indent="2" margin_top="0px"><sans_b>I. Глагол </sans_b><sans>— часть речи, которая обозначает действие и отвечает на вопросы ч&#160;т&#160;о&#160;&#160;д&#160;е&#160;л&#160;а&#160;т&#160;ь? ч&#160;т&#160;о&#160;&#160;с&#160;д&#160;е&#160;л&#160;а&#160;т&#160;ь?</sans></p>
+        <p indent="2" margin_top="0"><sans_b>II. </sans_b><sans>Глаголы бывают несовершенного и совершенного вида. Глаголы несовершенного вида отвечают на вопрос ч&#160;т&#160;о&#160;&#160;д&#160;е&#160;л&#160;а&#160;т&#160;ь?, а совершенного&#160;— на вопрос ч&#160;т&#160;о&#160;&#160;с&#160;д&#160;е&#160;л&#160;а&#160;т&#160;ь?</sans></p>
         <p indent="2" margin_top="0"><sans>Глаголы изменяются по временам: бывают в форме настоящего, прошедшего или будущего времени. В настоящем и будущем времени глаголы изменяются по лицам и числам, а в прошедшем времени&#160;— по числами родам (в единственном числе).</sans></p>
         <p indent="2" margin_top="0"><sans_b>III. </sans_b><sans>В предложении глагол обычно бывает сказуемым.</sans></p>
     </text_block>
@@ -119,7 +119,7 @@
     <p indent="2" margin_top="0">Перелётные птицы __&#160;__ на родину, к своим гнёздам. Позже других __&#160;__ самые яркие и пёстрые птицы. Зимородок __&#160;__ из Египта, а иволга __&#160;__ из Южной Африки.</p>
     <p indent="2"><sans_purpure>Для справок: </sans_purpure><sans_small_i>летать, прилетать, торопиться, направляться, порхать, суетиться, виться, возвращаться.</sans_small_i></p>
     <page number="103"/>
-    <text_block class="independent" margin_top="-5px">
+    <text_block class="independent" margin_top="0px">
         <p indent="2"><sans>Правильное произношение некоторых глаголов нужно запомнить.</sans></p>
     </text_block>
     <table margin_top="0" border-style="none">
@@ -182,9 +182,7 @@
     <text_block class="hard">   
         <p indent="2"><back_green>&#160;&#160;519.&#160;&#160;</back_green><sans_small> Обозначьте способ образования глаголов и их состав. </sans_small>●<sans_small>&#160;От какой части речи образован последний глагол? </sans_small>●<sans_small>&#160;Подберите однокоренные слова к выделенному слову и запишите их по образцу (см. упр.&#160;158).</sans_small></p>
     </text_block>
-    <p indent="2"><sans_green>Образец. </sans_green><tex>\small{\overline{\textitsf{Раз}}^{\rule{0.4pt}{2pt}}\textitsf{бежать}\widehat{\textitsf{ся}}}</tex><sans_small_i>&#160;&#8592;&#160;</sans_small_i><tex>\textitsf{бежать;~~}\small{\overline{\textitsf{раз}}^{\rule{0.4pt}{1.8pt}}\wideparen{\textitsf{беж}}\widehat{\textitsf{а}}\boxed{\textitsf{ть}}\widehat{\textitsf{ся}}.}</tex></p>
-    <p><tex>\small{\overline{\textitsf{раз}}^{\rule{0.4pt}{1.7pt}}\wideparen{\textitsf{беж}}\widehat{\textitsf{а}}\boxed{\textitsf{ть}}\widehat{\textitsf{ся}}.}</tex></p>
-    <p><tex>\small{\overline{\textitsf{раз}}^{\rule{0.4pt}{1.5pt}}\wideparen{\textitsf{беж}}\widehat{\textitsf{а}}\boxed{\textitsf{ть}}\widehat{\textitsf{ся}}.}</tex></p>
+    <p indent="2"><sans_green>Образец. </sans_green><tex>\small{\overline{\textitsf{Раз}}^{\rule{0.4pt}{2pt}}\textitsf{бежать}\widehat{\textitsf{ся}}}</tex><sans_small_i>&#160;&#8592;&#160;</sans_small_i><tex>\textitsf{бежать;~~}\small{\overline{\textitsf{раз}}^{\rule{0.4pt}{1.5pt}}\wideparen{\textitsf{беж}}\widehat{\textitsf{а}}\boxed{\textitsf{ть}}\widehat{\textitsf{ся}}.}</tex></p>
     <image_block interactivity="no" class="inner" width="20%">
         <img url="Data\images\88-6.png" />
     </image_block>

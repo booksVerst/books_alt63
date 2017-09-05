@@ -3,11 +3,11 @@
     <p><big_paragraph>§&#160;69</big_paragraph><big_purpure> Мягкий знак на конце и в середине числительных</big_purpure></p>
 
     <text_block class="independent">
-        <p indent="2" margin_top="-5px"><sans>Чтобы не ошибиться в записи числительных прописью, нужно не только уметь склонять числительные, но и знать и применять орфографические правила.</sans></p>
+        <p indent="2" margin_top="0px"><sans>Чтобы не ошибиться в записи числительных прописью, нужно не только уметь склонять числительные, но и знать и применять орфографические правила.</sans></p>
     </text_block>
 
     <text_block class="definition">
-        <p indent="2" margin_top="-5px">
+        <p indent="2" margin_top="0px">
             <sans>В числительных от </sans><sans_i>пяти</sans_i><sans> до </sans><sans_i>двадцати</sans_i><sans> и в числительном </sans><sans_i>тридцать</sans_i><sans> на конце пишется буква </sans><sans_bi>ь</sans_bi><sans> для обозначения мягкости конечных согласных, как и в существительных на мягкие согласные: </sans><sans_i>день</sans_i><sans> [н&#8217;]&#160;— </sans><sans_i>семь</sans_i><sans> [м&#8217;], </sans><sans_i>кость</sans_i><sans> [т&#8217;]&#160;— </sans><sans_i>двадцать</sans_i><sans> [т&#8217;]. (См. орфограмму №&#160;9 «Употребление и неупотребление буквы </sans><sans_bi>ь</sans_bi><sans> для обозначения мягкости».)</sans>
         </p>
         <p indent="2" margin_top="0px"><sans>В середине числительных </sans><sans_i>пятнадцать, шестнадцать, семнадцать, восемнадцать</sans_i><sans> и </sans><sans_i>девятнадцать</sans_i><sans> буква </sans><sans_bi>ь</sans_bi><sans> не пишется.</sans></p>
@@ -20,7 +20,7 @@
     <page number="48" />
 
     <text_block class="definition">
-        <p indent="2" margin_top="-5px">
+        <p indent="2" margin_top="0px">
             <sans>В именительном и винительном падежах числительных, обозначающих круглые десятки от </sans><sans_i>50</sans_i><sans> до </sans><sans_i>80</sans_i><sans> и круглые сотни от </sans><sans_i>500</sans_i><sans> до </sans><sans_i>900</sans_i><sans>, после первого корня пишется буква </sans><sans_bi>ь</sans_bi><sans>.</sans>
         </p>
         <table border-style="none" margin_top="0">

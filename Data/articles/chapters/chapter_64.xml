@@ -2,7 +2,7 @@
     <page number="29" />
     <p><big_paragraph>§&#160;64</big_paragraph><big_purpure> Одна и две буквы </big_purpure><big_purpure_i>н </big_purpure_i><big_purpure>в суффиксах прилагательных</big_purpure></p>
     <text_block class="definition">
-        <p indent="2" margin_top="-5px"><sans>Две буквы </sans><sans_bi>н </sans_bi><sans>пишутся: 1)&#160;в прилагательных, образованных при помощи суффикса </sans><sans_bi>&#8211;н&#8211; </sans_bi><sans>от существительных с основой на </sans><sans_bi>&#8211;н; </sans_bi><sans>2)&#160;в прилагательных, образованных от существительных при помощи суффиксов </sans><sans_bi>&#8211;онн&#8211;, &#8211;енн&#8211;.</sans_bi></p>
+        <p indent="2" margin_top="0px"><sans>Две буквы </sans><sans_bi>н </sans_bi><sans>пишутся: 1)&#160;в прилагательных, образованных при помощи суффикса </sans><sans_bi>&#8211;н&#8211; </sans_bi><sans>от существительных с основой на </sans><sans_bi>&#8211;н; </sans_bi><sans>2)&#160;в прилагательных, образованных от существительных при помощи суффиксов </sans><sans_bi>&#8211;онн&#8211;, &#8211;енн&#8211;.</sans_bi></p>
         <p indent="2" margin_top="0"><sans_b>Исключение: </sans_b><sans_i>ветреный.</sans_i></p>
         <p indent="2" margin_top="0"><tex>\wideparen{\textitsf{Каме}\uline{\textitsf{н}}}\uline{\widehat{\textitsf{н}}}\textitsf{ый}</tex>&#160;<tex>(\wideparen{\textitsf{Каме}\uuline{\textitsf{н}}\textitsf{ь}}).</tex>&#160;<tex>\textitsf{Безветр}\widehat{\textitsf{е}\uline{\textitsf{нн}}}\textitsf{ый.}</tex>&#160;<tex>\textitsf{Ветр}\widehat{\textitsf{е}\uline{\textitsf{н}}}\textitsf{ый}\textsf{ (искл.).}</tex></p>
         <p indent="2" margin_top="0"><sans>Одна буква </sans><sans_bi>н </sans_bi><sans>пишется: 1)&#160;в суффиксе </sans><sans_bi>&#8211;ин&#8211;; </sans_bi><sans>2)&#160;в суффиксе </sans><sans_bi>&#8211;ан&#8211; (&#8211;ян&#8211;) </sans_bi><sans>прилагательных, образованных от существительных.</sans></p>
@@ -43,7 +43,7 @@
     <p indent="2">1. <i>Нефть &#8594; </i><tex>\textit{нефт}\widehat{\textit{я}\uline{\textit{н}}}\textit{ой;}</tex> земля, стекло, трава, кость, торф, слюда, кожа, полотно, олово, глина, вода, жесть, лёд, лён, песок, дерево, рожь, овёс, серебро, шерсть.</p>
     <p indent="2">2. <i>Общество &#8594; </i><tex>\textit{обществ}\widehat{\textit{е}\uline{\textit{нн}}}\textit{ый;}</tex> ремесло, обед, торжество, отечество, огонь, солома, тыква, клюква.</p>
     <page number="31"/>
-    <text_block class="independent" margin_top="-5px">
+    <text_block class="independent" margin_top="0px">
         <p indent="2"><sans>Слово ветер в значении «поток воздуха» послужило для образования двух прилагательных: </sans><sans_i>ветр</sans_i><sans_bi>ян</sans_bi><sans_i>ой</sans_i><sans> и </sans><sans_i>ветр</sans_i><sans_bi>ен</sans_bi><sans_i>ый. Ветряной&#160;— </sans_i><sans>действующий силой ветра, </sans><sans_i>ветреный&#160;— </sans_i><sans>с ветром. </sans><sans_i>Ветреный </sans_i><sans>обозначает также пустого, легкомысленного человека.</sans></p>
     </text_block>
     <text_block class="hard">   

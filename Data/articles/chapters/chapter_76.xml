@@ -6,7 +6,7 @@
     <table border-style="none" margin_top="0">
         <tr>
             <td width="10%">
-                <image_block interactivity="no" margin_top="0" width="50px"><img margin_top="0" url="Data\images\woman.png"  /></image_block>
+                <image_block interactivity="no" margin_top="0" margin_bottom="0" width="50px"><img margin_top="0" url="Data\images\woman.png"  /></image_block>
             </td>
             <td width="90%">
                 <p>Сегодня мы начинаем изучать новую часть речи&#160;— местоимение.</p>
@@ -19,14 +19,14 @@
                 <p>Елена Ивановна, почему такое название?</p>
             </td>
             <td width="10%">
-                <image_block interactivity="no" margin_top="0" width="50px"><img margin_top="0" url="Data\images\babyMan.png" /></image_block>
+                <image_block interactivity="no" margin_top="0" margin_bottom="0" width="50px"><img margin_top="0" url="Data\images\babyMan.png" /></image_block>
             </td>
         </tr>
     </table>
     <table border-style="none" margin_top="0">
         <tr>
             <td width="10%">
-                <image_block interactivity="no" margin_top="0" width="50px"><img margin_top="0" url="Data\images\woman.png"  /></image_block>
+                <image_block interactivity="no" margin_top="0" margin_bottom="0" width="50px"><img margin_top="0" url="Data\images\woman.png"  /></image_block>
             </td>
             <td width="90%">
                 <p>В этом слове два корня: <b>место</b> (вместо) и <b>имя</b> (имение). Местоимение&#160;— это то, что употребляется вместо имени.</p>
@@ -40,14 +40,14 @@
                 <p>А вместо какого имени употребляется местоимение?</p>
             </td>
             <td width="10%">
-                <image_block interactivity="no" margin_top="0" width="50px"><img margin_top="0" url="Data\images\babyGirl.png" /></image_block>
+                <image_block interactivity="no" margin_top="0" margin_bottom="0" width="50px"><img margin_top="0" url="Data\images\babyGirl.png" /></image_block>
             </td>
         </tr>
     </table>
     <table border-style="none" margin_top="0">
         <tr>
             <td width="10%">
-                <image_block interactivity="no" margin_top="0" width="50px"><img margin_top="0" url="Data\images\woman.png"  /></image_block>
+                <image_block interactivity="no" margin_top="0" margin_bottom="0" width="50px"><img margin_top="0" url="Data\images\woman.png"  /></image_block>
             </td>
             <td width="90%">
                 <p>Местоимение может использоваться в тексте вместо имён существительных, прилагательных, числительных.</p>
@@ -65,13 +65,13 @@
 
     <p>Кто это он? Что изучил он (скворец) за много лет? Могли бы мы ответить на эти вопросы, если бы не было первых двух строчек? Слова <i>он, её</i> являются названиями предметов или только указывают на эти предметы?</p>
     <text_block class="independent">
-	    <p indent="2" margin_top="-5px"><sans>Выделенные слова&#160;— местоимения.</sans></p>
+	    <p indent="2" margin_top="0px"><sans>Выделенные слова&#160;— местоимения.</sans></p>
 	    <p indent="2"><sans>Весна на пороге. Скоро </sans><sans_b>она</sans_b><sans> вступит в </sans><sans_b>свои</sans_b><sans> права. А сейчас ещё морозно. </sans><sans_b>Такая</sans_b><sans> погода продержится недолго. Через </sans><sans_b>несколько</sans_b><sans> дней засияет яркое весеннее солнце и начнётся настоящая весна.</sans></p>
 	    <p indent="2"><sans>Какое из выделенных местоимений указывает на предмет, какие&#160;— на признак, а какое&#160;— на количество? На какие вопросы отвечают эти местоимения? В каких падежах стоят? Какими членами предложения являются?</sans></p>
 	    <p indent="2" margin_top="0"><sans>В каком роде и числе стоят местоимения </sans><sans_i>такая</sans_i><sans> (погода), </sans><sans_i>такой</sans_i><sans> (день), </sans><sans_i>такое</sans_i><sans> (солнце), </sans><sans_i>такие</sans_i><sans> (ребята)?</sans></p>
 	</text_block>
 	<text_block class="definition">
-		<p indent="2" margin_top="-5px"><sans_b>I. Местоимение </sans_b><sans>— часть речи, которая указывает на предметы, признаки и количества, но не называет их.</sans></p>
+		<p indent="2" margin_top="0px"><sans_b>I. Местоимение </sans_b><sans>— часть речи, которая указывает на предметы, признаки и количества, но не называет их.</sans></p>
 		<p indent="2" margin_top="0"><sans_b>II. </sans_b><sans>Местоимения, как правило, изменяются по падежам. Есть местоимения, которые, кроме того, изменяются по родам и числам.</sans></p>
 		<p indent="2" margin_top="0"><sans_b>III. </sans_b><sans>В предложении местоимения обычно бывают подлежащими, дополнениями и определениями.</sans></p>
 	</text_block>
@@ -89,7 +89,7 @@
 	<p align="right"><sans_small>(А. Чехов)</sans_small></p>
 	<page number="66" />
 	<text_block class="speech">        
-	    <p indent="2" margin_top="-5px"><back_green>&#160;&#160;436.&#160;&#160;</back_green><sans_small> Найдите недочёты в употреблении местоимений. Запишите предложения в исправленном виде.</sans_small></p>
+	    <p indent="2" margin_top="0px"><back_green>&#160;&#160;436.&#160;&#160;</back_green><sans_small> Найдите недочёты в употреблении местоимений. Запишите предложения в исправленном виде.</sans_small></p>
 	</text_block>
 	<p indent="2">1. Я заходи л к учительнице, но их (не)было дома.</p>
 	<p indent="2" margin_top="0">2. После сна первый отряд пош..л в лес. Они долго (не)возвр..щались.</p>

@@ -3,17 +3,17 @@
     <p><big_paragraph>§&#160;92</big_paragraph><big_purpure> Условное наклонение</big_purpure></p>
 
     <text_block class="independent">
-        <p indent="2" margin_top="-5px"><sans>Прочитайте диалог. При каком условии школьники выполнили бы свои замыслы?</sans></p>
+        <p indent="2" margin_top="0px"><sans>Прочитайте диалог. При каком условии школьники выполнили бы свои замыслы?</sans></p>
     </text_block>
 
     <p indent="2">—&#160;Что бы вы сделали, если бы в руки к вам попала сказочная волшебная палочка?&#160;— спросил учитель.</p>
     <p indent="2" margin_top="0"><tex>\text{— Я } \uuline{\text{отправился бы}} \text{ путешествовать, — ответил Серёжа.}</tex></p>
-    <p indent="2" margin_top="0"><tex>\text{— Я } \uuline{\text{бы вылечил}} \text{ всех больных детей, — сказал Витя.}</tex></p>
+    <p indent="2" margin_top="0" align="right"><tex>\text{— Я } \uuline{\text{бы вылечил}} \text{ всех больных детей, — сказал Витя.}</tex></p>
     <p indent="2" margin_top="0"><tex>\text{— А я } \uuline{\text{построила бы}} \text{ много-много домов, — произнесла Варя.}</tex></p>
     <p indent="2" margin_top="0"><tex>\text{А что } \uuline{\text{сделали бы}} \text{ вы, если бы всё могли?}</tex></p>
 
     <text_block class="definition">
-        <p indent="2" margin_top="-5px">
+        <p indent="2" margin_top="0px">
             <sans>Глаголы в </sans><sans_b>условном наклонении</sans_b><sans> обозначают действия, желаемые или возможные при определённых условиях.</sans>
         </p>
     </text_block>
@@ -38,7 +38,7 @@
     </table>
 
     <text_block class="independent">
-        <p indent="2" margin_top="-5px"><sans>От какой основы глагола образуется условное наклонение?</sans></p>
+        <p indent="2" margin_top="0px"><sans>От какой основы глагола образуется условное наклонение?</sans></p>
         <p indent="2" margin_top="0px"><sans>Какой суффикс и какое слово образуют условное наклонение глагола?</sans></p>
         <p indent="2" margin_top="0px"><sans>В каком роде и числе стоят глаголы в условном наклонении?</sans></p>
     </text_block>
@@ -46,7 +46,7 @@
     <page number="118" />
 
     <text_block class="theoretical">
-        <p indent="2"  margin_top="-5px"><sans>Глаголы в условном наклонении образуются от основы неопределённой формы при помощи суффикса </sans><sans_bi>-л-</sans_bi><sans> и частицы </sans><sans_bi>бы (б)</sans_bi><sans>.</sans></p>
+        <p indent="2"  margin_top="0px"><sans>Глаголы в условном наклонении образуются от основы неопределённой формы при помощи суффикса </sans><sans_bi>-л-</sans_bi><sans> и частицы </sans><sans_bi>бы (б)</sans_bi><sans>.</sans></p>
         <p indent="2" margin_top="0px"><sans>Эта частица может стоять после глагола и перед ним, может быть отделена от глагола другими словами.</sans></p>
         <p indent="2"><sans>Если </sans><tex>\small{\uuline{\textsf{бы}}}</tex><sans> мне </sans><tex>\small{\uuline{\textsf{поручили}}}</tex><sans> поздравить наших преподавателей с Днём учителя, я </sans><tex>\small{\uuline{\textsf{купила бы}}}</tex><sans> цветы, </sans><tex>\small{\uuline{\textsf{подготовила бы}}}</tex><sans> открытки с поздравлениями.</sans></p>
         <p indent="2"><sans>Глаголы в условном наклонении изменяются по числам и в единственном числе&#160;— по родам.</sans></p>
