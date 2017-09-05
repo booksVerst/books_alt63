@@ -4,19 +4,19 @@ User Time: 00:00:00:000
 Total Time: 00:00:00:000
 
 Memory Usage
-WorkingSetSize: 5480448
-PeakWorkingSetSize: 8683520
-PagefileUsage: 3829760
-PeakPagefileUsage: 7008256
+WorkingSetSize: 5476352
+PeakWorkingSetSize: 8679424
+PagefileUsage: 3825664
+PeakPagefileUsage: 7004160
 
 Parsing and creating articles from file "Articles/articles_main.xml" by Compiler
 Kernel Time: 00:00:00:000
-User Time: 00:00:00:015
-Total Time: 00:00:00:015
+User Time: 00:00:00:046
+Total Time: 00:00:00:046
 
 Memory Usage
-WorkingSetSize: 11059200
-PeakWorkingSetSize: 11059200
-PagefileUsage: 9277440
-PeakPagefileUsage: 9277440
+WorkingSetSize: 11030528
+PeakWorkingSetSize: 11030528
+PagefileUsage: 9244672
+PeakPagefileUsage: 9244672
 

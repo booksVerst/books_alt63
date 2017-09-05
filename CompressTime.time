@@ -39,12 +39,12 @@ User Time: 00:00:00:000
 Total Time: 00:00:00:000
 
 DoAddResourcesToSDC
-Kernel Time: 00:00:00:015
+Kernel Time: 00:00:00:062
 User Time: 00:00:00:015
-Total Time: 00:00:00:030
+Total Time: 00:00:00:077
 
 SDC Write
-Kernel Time: 00:00:00:015
-User Time: 00:00:00:203
-Total Time: 00:00:00:218
+Kernel Time: 00:00:00:000
+User Time: 00:00:00:156
+Total Time: 00:00:00:156
 
