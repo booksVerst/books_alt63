@@ -7,7 +7,10 @@
     </text_block>
     <table margin_top="0" border-style="none" >
         <tr>
-            <td width="44%" text-valign="top">
+            <td width="22%">
+                <p>&#160;</p>
+            </td>
+            <td width="22%" text-valign="top">
             	<p margin_top="0"><bi>сестрин</bi><i> платок</i></p>
             	<p margin_top="0"><bi>лисья</bi><i> нора</i></p>
             	<p margin_top="0"><bi>воронье</bi><i> гнездо</i></p>
@@ -37,7 +40,7 @@
                 <td width="75%" text-valign="top">
                         <p indent="2"><sans>Посмотрите, как изменяется притяжательное местоимение </sans><sans_i>наш.</sans_i></p>
                 </td>
-                <td width="25%">
+                <td width="25%" text-align="right">
                     <image_block interactivity="no" width="80%">
                         <img url="Data\images\82-2.png" />
                     </image_block>

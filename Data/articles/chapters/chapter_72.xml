@@ -57,7 +57,7 @@
 				<td width="80%">
 					<p indent="2"><sans>Употребите данные слова в творительном и предложном падежах: сорок (километров), девяносто (километров).</sans></p>
 				</td>
-				<td width="20%">
+				<td width="20%" text-align="right">
 					<image_block interactivity="no">
 					    <img url="Data\images\2-72-1.png" />
 					</image_block>

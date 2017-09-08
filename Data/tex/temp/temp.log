@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6350) (preloaded format=xelatex 2017.7.25)  4 SEP 2017 23:10
+This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6350) (preloaded format=xelatex 2017.7.25)  7 SEP 2017 16:18
 entering extended mode
 **./Data/tex/temp/temp.tex
 (Data/tex/temp/temp.tex
@@ -834,6 +834,10 @@ LaTeX Font Info:    Try loading font information for U+rsfs on input line 38.
 (E:\Parser\Parser\Utilities\miktex\texmfs\install\tex\latex\jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
+(Font)              scaled to size 10.01923pt on input line 38.
+LaTeX Font Info:    Font shape `TU/HelveticaNeueLight(0)/m/it' will be
+(Font)              scaled to size 8.35281pt on input line 38.
 
 LaTeX Font Warning: Command \small invalid in math mode on input line 38.
 
@@ -853,11 +857,11 @@ LaTeX Font Info:    External font `yhcmex10' loaded for size
 
 ] (E:\books_alt63\Data\tex\temp\temp.aux) ) 
 Here is how much of TeX's memory you used:
- 13249 strings out of 429739
- 274434 string characters out of 3179490
+ 13253 strings out of 429739
+ 274610 string characters out of 3179490
  345430 words of memory out of 3000000
- 16971 multiletter control sequences out of 15000+200000
- 535702 words of font info for 71 fonts, out of 3000000 for 9000
+ 16973 multiletter control sequences out of 15000+200000
+ 535718 words of font info for 73 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  46i,9n,117p,10425b,249s stack positions out of 5000i,500n,10000p,200000b,50000s
 

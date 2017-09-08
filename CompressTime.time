@@ -30,8 +30,8 @@ Total Time: 00:00:00:031
 
 DoCompressArticles
 Kernel Time: 00:00:00:000
-User Time: 00:00:00:015
-Total Time: 00:00:00:015
+User Time: 00:00:00:000
+Total Time: 00:00:00:000
 
 DoUpdateHeader
 Kernel Time: 00:00:00:000
@@ -39,12 +39,12 @@ User Time: 00:00:00:000
 Total Time: 00:00:00:000
 
 DoAddResourcesToSDC
-Kernel Time: 00:00:00:062
+Kernel Time: 00:00:00:078
 User Time: 00:00:00:015
-Total Time: 00:00:00:077
+Total Time: 00:00:00:093
 
 SDC Write
 Kernel Time: 00:00:00:000
-User Time: 00:00:00:156
-Total Time: 00:00:00:156
+User Time: 00:00:00:171
+Total Time: 00:00:00:171
 

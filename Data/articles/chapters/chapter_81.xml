@@ -10,7 +10,7 @@
                         <p indent="2" margin_top="0"><sans>Отрицательные местоимения изменяются по падежам. Местоимения </sans><sans_i>не&#x301;кого, не&#x301;чего </sans_i><sans>не имеют именительного падежа.</sans></p>
                     </text_block>
                 </td>
-                <td width="25%">
+                <td width="25%" text-align="right">
                     <image_block interactivity="no" width="80%">
                         <img url="Data\images\81-1.png" />
                     </image_block>
@@ -81,7 +81,7 @@
     	<p indent="2"  margin_top="0px"><sans>Если при сказуемом есть частица </sans><sans_bi>не, </sans_bi><sans>то отрицательное местоимение с </sans><sans_bi>ни </sans_bi><sans>усиливает отрицательный смысл предложения.</sans></p>
     </text_block>
     <p><back_green>&#160;&#160;465.&#160;&#160;</back_green><sans_small> Вставьте отрицательные местоимения для усиления отрицания. Обозначьте падеж местоимений. </sans_small>●<sans_small>&#160;Подчеркните дополнения.</sans_small></p>
-    <p indent="2"><sans_green>Образец. </sans_green><sans_small_i>Эта вещь __&#160;__ не нужна.&#160;— Эта вещь </sans_small_i><tex>\small{\dashuline{\overset{\textitsf{Д.}}{\textitsf{никому}}}\textitsf{~}}</tex><sans_small_i >не нужна.</sans_small_i ></p>
+    <p indent="2"><sans_green>Образец. </sans_green><sans_small_i>Эта вещь __&#160;__ не нужна.&#160;— Эта вещь &#160;</sans_small_i><tex>\small{\dashuline{\overset{\textitsf{Д.}}{\textitsf{никому}}}\textitsf{~}}</tex>&#160;<sans_small_i >не нужна.</sans_small_i ></p>
     <p indent="2">Ва&#x301;лек __&#160;__ (не)ответил.</p>
     <p indent="2" margin_top="0">Маруся __&#160;__ (не)узн..вала.</p>
     <p indent="2" margin_top="0">Отец __&#160;__ ещё (не)знал.</p>

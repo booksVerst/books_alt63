@@ -8,7 +8,7 @@
 
     <p indent="2">—&#160;Что бы вы сделали, если бы в руки к вам попала сказочная волшебная палочка?&#160;— спросил учитель.</p>
     <p indent="2" margin_top="0"><tex>\text{— Я } \uuline{\text{отправился бы}} \text{ путешествовать, — ответил Серёжа.}</tex></p>
-    <p indent="2" margin_top="0" align="right"><tex>\text{— Я } \uuline{\text{бы вылечил}} \text{ всех больных детей, — сказал Витя.}</tex></p>
+    <p indent="2" margin_top="0" align="left"><tex>\text{— Я } \uuline{\text{бы вылечил}} \text{ всех больных детей, — сказал Витя.}</tex></p>
     <p indent="2" margin_top="0"><tex>\text{— А я } \uuline{\text{построила бы}} \text{ много-много домов, — произнесла Варя.}</tex></p>
     <p indent="2" margin_top="0"><tex>\text{А что } \uuline{\text{сделали бы}} \text{ вы, если бы всё могли?}</tex></p>
 
@@ -27,7 +27,7 @@
                 <p indent="1"><tex>\underbracket[0.5pt][2pt]{\textit{мо}}\boxed{\textit{чь}}</tex></p>
                 <p indent="1"><tex>\underbracket[0.5pt][2pt]{\textit{сдела}}\boxed{\textit{ть}}</tex></p>
             </td>
-            <td width="50%" border-style="none none none solid" border-color="000000" border-size="3px" margin_top="0">
+            <td width="50%" border-style="none none none solid" border-color="000000" border-size="3px" margin_top="0" text-valign="top">
                 <p indent="1"><b>Условное наклонение</b></p>
                 <p indent="1"><tex>\textit{отправи}\wideparen{\textit{л}}\textit{ся бы}</tex></p>
                 <p indent="1"><tex>\textit{построи}\wideparen{\textit{л}}\textit{а бы}</tex></p>
@@ -54,7 +54,7 @@
 
     <p><back_green>&#160;&#160;543.&#160;&#160;</back_green><sans_small>Выпишите глаголы в условном наклонении, в скобках запишите неопределённую форму, от которой они образованы. Обозначьте число и род (в единственном числе) выписанных глаголов. </sans_small>●<sans_small>&#160;Найдите слова, совпадающие по звучанию. Можно ли их назвать омонимами?</sans_small></p>
 
-    <p indent="2"><sans_green>Образец. </sans_green><tex>\small{\overset{\textitsf{ед., м.}}{\textitsf{Долете}}\widehat{\textitsf{л}}} \textitsf{ бы } \small{\textitsf{(долете)}\boxed{\textitsf{ть}}\textitsf{).}}</tex></p>
+    <p indent="2"><sans_green>Образец. </sans_green><tex>\small{\overset{\textitsf{ед., м.}}{\textitsf{Долете}}\widehat{\textitsf{л}}} \textitsf{ бы } \small{\textitsf{(долете}\boxed{\textitsf{ть}}\textitsf{).}}</tex></p>
 
     <media_container margin_left="33%"><p>ПЕТЯ МЕЧТАЕТ</p></media_container>
     <media_container margin_left="30%">

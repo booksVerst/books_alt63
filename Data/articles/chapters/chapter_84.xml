@@ -13,7 +13,7 @@
                 <td width="80%" text-valign="top">
                         <p indent="2"  margin_top="0px"><sans_b>Указательные местоимения </sans_b><sans_i>тот, этот, такой </sans_i><sans>изменяются по родам, падежам и числам. Местоимение таков изменяется по родам и числам.</sans></p>
                 </td>
-                <td width="20%">
+                <td width="20%" text-align="right">
                     <image_block interactivity="no">
                         <img url="Data\images\84-1.png" />
                     </image_block>
