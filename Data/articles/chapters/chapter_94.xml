@@ -8,18 +8,52 @@
         <table border-style="none">
             <tr>
                 <td width="50%">
-                    <p indent="1" margin_top="0px">1.&#160;&#160;Не шуметь!</p>
-                    <p indent="3" margin_top="0px">Слушать внимательно!</p>
-                    <p indent="1" margin_top="0px">2.&#160;&#160;Молчите лучше!</p>
-                    <p indent="3" margin_top="0px">Не возражайте!</p>
-                    <p indent="1" margin_top="0px">3.&#160;&#160;Присядь отдохни.</p>
+                    <table border-style="none">
+                     <tr>
+                        <td width="5%" text-valign="top"><p margin_top="0">1. </p></td>
+                        <td width="95%">
+                           <p margin_top="0">Не шуметь!</p>
+                           <p margin_top="0">Слушать внимательно!</p>
+                        </td>
+                     </tr>
+                     <tr margin_top="0">            
+                        <td width="5%" text-valign="top"><p margin_top="0">2. </p></td>
+                        <td width="95%">
+                           <p margin_top="0">Молчите лучше!</p>
+                           <p margin_top="0">Не возражайте!</p>
+                        </td>
+                     </tr>
+                     <tr margin_top="0">            
+                        <td width="5%" text-valign="top"><p margin_top="0">3. </p></td>
+                        <td width="95%">
+                           <p margin_top="0">Присядь отдохни.</p>
+                        </td>
+                     </tr>
+                  </table>
                 </td>
                 <td width="50%" border-style="none none none solid" border-color="000000" border-size="2px" margin_top="0">
-                    <p indent="1" margin_top="0px">1.&#160;&#160;Не шумите!</p>
-                    <p indent="3" margin_top="0px">Слушайте внимательно!</p>
-                    <p indent="1" margin_top="0px">2.&#160;&#160;Молчали бы вы лучше!</p>
-                    <p indent="3" margin_top="0px">Не возражали бы!</p>
-                    <p indent="1" margin_top="0px">3.&#160;&#160;Присядь&#8211;ка отдохни&#8211;ка.</p>
+                    <table border-style="none">
+                     <tr>
+                        <td width="5%" text-valign="top"><p margin_top="0">1. </p></td>
+                        <td width="95%">
+                           <p margin_top="0">Не шумите!</p>
+                           <p margin_top="0">Слушайте внимательно!</p>
+                        </td>
+                     </tr>
+                     <tr margin_top="0">            
+                        <td width="5%" text-valign="top"><p margin_top="0">2. </p></td>
+                        <td width="95%">
+                           <p margin_top="0">Молчали бы вы лучше!</p>
+                           <p margin_top="0">Не возражали бы!</p>
+                        </td>
+                     </tr>
+                     <tr margin_top="0">            
+                        <td width="5%" text-valign="top"><p margin_top="0">3. </p></td>
+                        <td width="95%">
+                           <p margin_top="0">Присядь&#8211;ка отдохни&#8211;ка.</p>
+                        </td>
+                     </tr>
+                  </table>
                 </td>
             </tr>
         </table>   

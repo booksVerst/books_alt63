@@ -31,7 +31,7 @@
             </td>
         </tr>
     </table>
-    <image_block interactivity="no" class="inner" float="left" width="20%">
+    <image_block interactivity="no" class="inner_left" width="20%">
         <img url="Data\images\65-1.png" />
     </image_block>
     <p indent="2" margin_left="2px">Вяз..ий, немец..ий, белорус..ий, киргиз..ий, казац..ий, француз..ий, турец..ий, индус..ий, одес..ий, матрос..ий, украин..ий, кельт..ий, звер..ий, простец..ий.</p>

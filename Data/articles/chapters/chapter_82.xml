@@ -106,7 +106,7 @@
     <text_block class="hard">   
         <p indent="2"><back_green>&#160;&#160;476.&#160;&#160;</back_green><sans_small> Прочитайте и озаглавьте текст. Спишите. Подчеркните местоимения, укажите их разряд, обозначьте падеж. </sans_small>●<sans_small>&#160;Как изменится смысл текста, если вместо местоимений </sans_small><sans_small_i>ты, твой </sans_small_i><sans_small>употребить местоимения </sans_small><sans_small_i>вы, ваш?</sans_small_i></p>
     </text_block>
-    <image_block interactivity="no" class="inner" float="left" width="30%">
+    <image_block interactivity="no" class="inner_left" width="30%">
         <img url="Data\images\82-5.png" />
     </image_block>
     <p indent="2">Твоей<footnote><brief><sup_blue>1</sup_blue></brief>выполнить фонетический разбор слова</footnote> маме пр..ятно п..лучить от тебя не купленные на её же деньги цв..ты или к..нфеты, а вып..ленную твоими руками рамку или полочку, сделанную тобой шк..тулку, н..рисованную тобой к..ртинку, выш..тую тобой с..лфетку.</p>
