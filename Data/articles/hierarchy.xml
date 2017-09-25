@@ -1,8 +1,240 @@
 <root>
-	<article text="ГЛАВА1">
-		<article text="ПОДГЛАВА1">
-			<article id="chapter_0" text="§0. НАЗВАНИЕ1"/>
-			<article id="chapter_1" text="§1. НАЗВАНИЕ2"/>
-		</article>
+	<article id="chapter_01" text="К читателю"/>
+
+	<article id="chapter_02" text="Изучение языка художественной литературы (В. В. Виноградов)">
+		<article id="chapter_03" text="Анализ художественного текста (Н. М. Шанский)"/>
+		<article id="chapter_04" text="Понятие поэтического языка (Г. О. Винокур)"/>
+	</article>
+
+	<article id="chapter_05" text="Из мировой литературы. Недолгое прощание с XIX веком">
+		<article id="chapter_06" text="Поэзия Т.-С. Элиота: «Люди 14 года» (И. О. Шайтанов)"/>
+		<article id="chapter_07" text="Э.-М. Ремарк. «На Западном фронте без перемен»: «потерянное поколение» (М. И. Свердлов)"/>
+		<article id="chapter_08" text="Ф. Кафка. «Превращение»: абсурд бытия (М. И. Свердлов)"/>
+	</article>
+
+	<article id="chapter_09" text="Русская литература начала XX века (Л. А. Смирнова)">
+		<article id="chapter_10" text="Стремление к творческому преображению мира"/>
+		<article id="chapter_11" text="Литературные искания сторонников революционного движения"/>
+		<article id="chapter_12" text="Направление философской мысли начала века"/>
+		<article id="chapter_13" text="Своеобразие реализма"/>
+	</article>
+
+	<article id="chapter_14" text="Проза XX века (О. Н. Михайлов)">
+		<article id="chapter_15" text="Уникальность литературы Русского зарубежья"/>
+	</article>
+
+	<article id="chapter_16" text="И. А. Бунин (1870—1953)">
+		<article id="chapter_17" text="Роль малой родины и дворянских традиций"/>
+		<article id="chapter_18" text="Природа социальной двойственности"/>
+		<article id="chapter_19" text="Влияние старшего брата, Ю. А. Бунина"/>
+		<article id="chapter_20" text="Первые опыты"/>
+		<article id="chapter_21" text="Духовное здоровье, народное начало"/>
+		<article id="chapter_22" text="Традиции русской классики"/>
+		<article id="chapter_23" text="Странник"/>
+		<article id="chapter_24" text="Новое качество прозы"/>
+		<article id="chapter_25" text="Бунин-поэт"/>
+		<article id="chapter_26" text="«Деревня»"/>
+		<article id="chapter_27" text="Скрытая полемика с М. Горьким"/>
+		<article id="chapter_28" text="Братья Красовы — два типа русского человека"/>
+		<article id="chapter_29" text="Народ-философ"/>
+		<article id="chapter_30" text="«Иоанн Рыдалец»"/>
+		<article id="chapter_31" text="«Господин из Сан-Франциско»"/>
+		<article id="chapter_32" text="Образ греха, в котором протекает жизнь человека"/>
+		<article id="chapter_33" text="«Полый» человек — создание механической цивилизации"/>
+		<article id="chapter_34" text="Тема конца, катастрофы"/>
+		<article id="chapter_35" text="Непримиримость позиции"/>
+		<article id="chapter_36" text="Проза 1920-х гг."/>
+		<article id="chapter_37" text="Тема России"/>
+		<article id="chapter_38" text="«Косцы»"/>
+		<article id="chapter_39" text="Тема любви"/>
+		<article id="chapter_40" text="«Солнечный удар»"/>
+		<article id="chapter_41" text="«Жизнь Арсеньева»"/>
+		<article id="chapter_42" text="Новаторство романа"/>
+		<article id="chapter_43" text="«Тёмные аллеи»"/>
+		<article id="chapter_44" text="«Чистый понедельник»"/>
+	</article>
+
+	<article id="chapter_45" text="А. И. Куприн (1870—1938)">
+		<article id="chapter_46" text="Детские годы. Роль матери"/>
+		<article id="chapter_47" text="Суровая казарменная школа"/>
+		<article id="chapter_48" text="Формирование личности и истоки гуманизма"/>
+		<article id="chapter_49" text="Первые литературные опыты. Служба в полку"/>
+		<article id="chapter_50" text="Купринские «университеты»"/>
+		<article id="chapter_51" text="«Олеся»"/>
+		<article id="chapter_52" text="Мастерство композиции"/>
+		<article id="chapter_53" text="На петербургском Парнасе"/>
+		<article id="chapter_54" text="«Поединок»"/>
+		<article id="chapter_55" text="Образ Ромашова"/>
+		<article id="chapter_56" text="В зените славы"/>
+		<article id="chapter_57" text="«Гранатовый браслет»"/>
+		<article id="chapter_58" text="В годы великой смуты"/>
+		<article id="chapter_59" text="Творчество 1920-х гг."/>
+		<article id="chapter_60" text="Тема России"/>
+		<article id="chapter_61" text="«Колесо времени»"/>
+		<article id="chapter_62" text="Куприн — мастер рассказа"/>
+		<article id="chapter_63" text="«Юнкера»"/>
+		<article id="chapter_64" text="«Жанета»"/>
+	</article>
+
+
+	<article id="chapter_65" text="Л. Н. Андреев (1871—1919)">
+		<article id="chapter_66" text="Надломленность юной души"/>
+		<article id="chapter_67" text="Раннее творчество"/>
+		<article id="chapter_68" text="Восхождение"/>
+		<article id="chapter_69" text="На перепутьях реализма и модернизма"/>
+		<article id="chapter_70" text="Л. Андреев и символизм"/>
+		<article id="chapter_71" text="Писатель-экспрессионист"/>
+		<article id="chapter_72" text="Художественное своеобразие"/>
+		<article id="chapter_73" text="Последние годы"/>
+	</article>
+
+	<article id="chapter_74" text="И. С. Шмелёв (1873—1950)">
+		<article id="chapter_75" text="Личность писателя"/>
+		<article id="chapter_76" text="Позиция"/>
+		<article id="chapter_77" text="Трагедия отца"/>
+		<article id="chapter_78" text="«Солнце мёртвых»"/>
+		<article id="chapter_79" text="«Богомолье», «Лето Господне»"/>
+		<article id="chapter_80" text="Мастерство"/>
+		<article id="chapter_81" text="Язык произведений Шмелёва"/>
+		<article id="chapter_82" text="Неравноценность творчества"/>
+	</article>
+
+
+	<article id="chapter_83" text="Б. К. Зайцев (1881—1972)">
+		<article id="chapter_84" text="Обретение религиозного сознания"/>
+		<article id="chapter_85" text="Новое качество художника"/>
+		<article id="chapter_86" text="«Преподобный Сергий Радонежский»"/>
+		<article id="chapter_87" text="«Путешествие Глеба»"/>
+		<article id="chapter_88" text="Беллетризованные биографии"/>
+		<article id="chapter_89" text="Уроки Зайцева"/>
+	</article>
+
+
+	<article id="chapter_90" text="A. Т. Аверченко (1881—1923)">
+		<article id="chapter_91" text="Первая русская революция"/>
+		<article id="chapter_92" text="Журнал «Сатирикон»"/>
+		<article id="chapter_93" text="Мастер юмористического рассказа"/>
+		<article id="chapter_94" text="Аверченко и «новое» искусство"/>
+		<article id="chapter_95" text="Политическая сатира"/>
+		<article id="chapter_96" text="«Дюжина ножей в спину революции»"/>
+		<article id="chapter_97" text="«Смех сквозь слёзы»"/>
+	</article>
+
+
+	<article id="chapter_98" text="Тэффи (1872—1952)">
+		<article id="chapter_99" text="Грустный смех"/>
+		<article id="chapter_100" text="Художественный мир Тэффи"/>
+		<article id="chapter_101" text="Героини Тэффи"/>
+		<article id="chapter_102" text="В изгнании"/>
+	</article>
+<!----- ---->
+
+	<article id="chapter_103" text="B. В. Набоков (1899—1977)">
+		<article id="chapter_104" text="«Машенька»"/>
+		<article id="chapter_105" text="Россия Набокова"/>
+		<article id="chapter_106" text="Набоков и классическая традиция"/>
+		<article id="chapter_107" text="«Алгебра великолепной техники»"/>
+		<article id="chapter_108" text="«Одиночки» и «толпа»"/>
+	</article>
+
+
+	<article id="chapter_109" text="Особенности поэзии начала XX века (Л. А. Смирнова)">
+		<article id="chapter_110" text="Модернизм: путь к новой гармонии"/>
+		<article id="chapter_111" text="Символизм"/>
+		<article id="chapter_112" text="Акмеизм"/>
+		<article id="chapter_113" text="Футуризм"/>
+	</article>
+
+
+	<article id="chapter_114" text="Разнообразие творческих индивидуальностей в поэзии Серебряного века (Л. А. Смирнова)"/>
+
+
+	<article id="chapter_115" text="В. Я. Брюсов (1873—1924)">
+		<article id="chapter_116" text="Формирование поэта. Годы детства и юности"/>
+		<article id="chapter_117" text="Мотивы ранней лирики"/>
+		<article id="chapter_118" text="Урбанистическая тема творчества"/>
+		<article id="chapter_119" text="Образ человека в поэзии 1910-х гг."/>
+	</article>
+
+
+	<article id="chapter_120" text="К. Д. Бальмонт (1867—1942)">
+		<article id="chapter_121" text="Детство и юность"/>
+		<article id="chapter_122" text="Идеи и образы творчества"/>
+		<article id="chapter_123" text="Причины и первые годы эмиграции"/>
+		<article id="chapter_124" text="Образ России"/>
+		<article id="chapter_125" text="Мироощущение лирического героя"/>
+	</article>
+<!----- ---->
+
+	<article id="chapter_126" text="Ф. Сологуб (Ф. К. Тетерников; 1863—1927)">
+		<article id="chapter_127" text="Детство и отрочество"/>
+		<article id="chapter_128" text="Темы и образы поэзии"/>
+		<article id="chapter_129" text="Проза поэта"/>
+	</article>
+
+
+	<article id="chapter_130" text="A. Белый (Б. Н. Бугаев; 1880—1934)">
+		<article id="chapter_131" text="Детство и юность"/>
+		<article id="chapter_132" text="Раннее творчество"/>
+		<article id="chapter_133" text="Творческая зрелость"/>
+	</article>
+
+
+	<article id="chapter_134" text="И. Ф. Анненский (1856—1909)">
+		<article id="chapter_135" text="Ранние годы"/>
+		<article id="chapter_136" text="Творческие искания"/>
+	</article>
+
+
+	<article id="chapter_137" text="Н. С. Гумилёв (1886—1921)">
+		<article id="chapter_138" text="Детство и юность"/>
+		<article id="chapter_139" text="Ранняя лирика"/>
+		<article id="chapter_140" text="«Жемчуга»: поиск страны грёз"/>
+		<article id="chapter_141" text="Поэтические открытия сборника «Огненный столп»"/>
+	</article>
+
+
+	<article id="chapter_142" text="И. Северянин (И. В. Лотарёв; 1887—1941)">
+		<article id="chapter_143" text="Ранние годы жизни и творчества"/>
+		<article id="chapter_144" text="Поэтическое своеобразие"/>
+	</article>
+
+
+	<article id="chapter_145" text="B. Ф. Ходасевич (1886—1939)">
+		<article id="chapter_146" text="Жизнь в России. Причина эмиграции"/>
+		<article id="chapter_147" text="Своеобразие ранней лирики"/>
+		<article id="chapter_148" text="Сборник «Счастливый домик»"/>
+		<article id="chapter_149" text="Книга «Путём Зерна»: духовные противоречия и свершения"/>
+		<article id="chapter_150" text="Исповедь поэта в книге «Тяжёлая лира»"/>
+		<article id="chapter_151" text="Трагическое восприятие мира в цикле «Европейская ночь»"/>
+	</article>
+
+
+	<article id="chapter_152" text="Максим Горький (1868—1936) (Л. А. Смирнова)">
+		<article id="chapter_153" text="Ранние годы"/>
+		<article id="chapter_154" text="Ранние рассказы"/>
+		<article id="chapter_155" text="Горький о противоречиях народной души"/>
+		<article id="chapter_156" text="Истоки романтической прозы"/>
+		<article id="chapter_157" text="Гуманистическая позиция романтического героя"/>
+		<article id="chapter_158" text="Смысл противопоставления Данко и Ларры"/>
+		<article id="chapter_159" text="Образ духовной гармонии мира"/>
+		<article id="chapter_160" text="«Песня о Буревестнике» как выражение романтического идеала"/>
+		<article id="chapter_161" text="«Фома Гордеев». Мечта и действительность в романе"/>
+		<article id="chapter_162" text="Фома Гордеев и его окружение. Особенности повествования"/>
+		<article id="chapter_163" text="«На дне»"/>
+		<article id="chapter_164" text="Чеховская традиция в драматургии Горького"/>
+		<article id="chapter_165" text="«На дне» как социально-философская драма"/>
+		<article id="chapter_166" text="Атмосфера духовного разобщения людей. Роль полилога"/>
+		<article id="chapter_167" text="Своеобразие внутреннего развития пьесы"/>
+		<article id="chapter_168" text="Значение IV акта"/>
+		<article id="chapter_169" text="Философский подтекст пьесы"/>
+		<article id="chapter_170" text="Горький и первая русская революция"/>
+		<article id="chapter_171" text="Горький в эмиграции"/>
+		<article id="chapter_172" text="Раздумья о судьбах России"/>
+		<article id="chapter_173" text="Новые черты автобиографической прозы"/>
+		<article id="chapter_174" text="Отношение писателя к Октябрьской революции 1917 г."/>
+		<article id="chapter_175" text="«Несвоевременные мысли»"/>
+		<article id="chapter_176" text="Творчество периода второй эмиграции"/>
+		<article id="chapter_177" text="«Жизнь Клима Самгина» — образное воплощение истории"/>
 	</article>
 </root>
