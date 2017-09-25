@@ -127,7 +127,6 @@
 		<article id="chapter_101" text="Героини Тэффи"/>
 		<article id="chapter_102" text="В изгнании"/>
 	</article>
-<!----- ---->
 
 	<article id="chapter_103" text="B. В. Набоков (1899—1977)">
 		<article id="chapter_104" text="«Машенька»"/>
@@ -164,7 +163,6 @@
 		<article id="chapter_124" text="Образ России"/>
 		<article id="chapter_125" text="Мироощущение лирического героя"/>
 	</article>
-<!----- ---->
 
 	<article id="chapter_126" text="Ф. Сологуб (Ф. К. Тетерников; 1863—1927)">
 		<article id="chapter_127" text="Детство и отрочество"/>
@@ -237,4 +235,86 @@
 		<article id="chapter_176" text="Творчество периода второй эмиграции"/>
 		<article id="chapter_177" text="«Жизнь Клима Самгина» — образное воплощение истории"/>
 	</article>
+
+	<article id="chapter_178" text="А. А. Блок (1880—1921) (А. М. Турков)">
+		<article id="chapter_179" text="Начало пути"/>
+		<article id="chapter_180" text="«Стихи о Прекрасной Даме». Романтический мир раннего Блока"/>
+		<article id="chapter_181" text="Блок и символизм"/>
+		<article id="chapter_182" text="«Выхожу я в путь, открытый взорам...» (Блок в 1905—1908 гг.)"/>
+		<article id="chapter_183" text="«На поле Куликовом»"/>
+		<article id="chapter_184" text="Поэма «Возмездие»"/>
+		<article id="chapter_185" text="«Страшный мир»"/>
+		<article id="chapter_186" text="«...Моя тема, тема о России...»"/>
+		<article id="chapter_187" text="«Соловьиный сад»"/>
+		<article id="chapter_188" text="Накануне революции"/>
+		<article id="chapter_189" text="«Двенадцать»"/>
+		<article id="chapter_190" text="Последние годы. «Но не эти дни мы звали...»"/>
+	</article>
+	<article id="chapter_191" text="Новокрестьянская поэзия"/>
+	<article id="chapter_192" text="Н. А. Клюев (1884—1937) (В. П. Журавлев)">
+		<article id="chapter_193" text="Духовные и поэтические истоки"/>
+		<article id="chapter_194" text="Николай Клюев и Александр Блок"/>
+		<article id="chapter_195" text="Литературное признание"/>
+		<article id="chapter_196" text="Николай Клюев и Сергей Есенин"/>
+		<article id="chapter_197" text="В спорах с пролетарской поэзией"/>
+		<article id="chapter_198" text="Поэма «Погорельщина»"/>
+	</article>
+	<article id="chapter_199" text="С. А. Есенин (1892—1925) (А. М. Марченко)">
+		<article id="chapter_200" text="Есенин — русская художественная идея"/>
+		<article id="chapter_201" text="Певец «Голубой Руси»"/>
+		<article id="chapter_202" text="«Я в столице...»"/>
+		<article id="chapter_203" text="Слово в художественном произведении"/>
+		<article id="chapter_204" text="Поэзия Есенина и другие виды искусства"/>
+		<article id="chapter_205" text="«Да здравствует революция!»"/>
+		<article id="chapter_206" text="«Идёт не тот социализм...»"/>
+		<article id="chapter_207" text="«Предназначенное расставанье...»"/>
+		<article id="chapter_208" text="«Анна Снегина»: анализ лиро-эпической поэмы"/>
+		<article id="chapter_209" text="«Отговорила роща золотая...» Филологический анализ текста"/>
+	</article>
+	<article id="chapter_210" text="В. В. Маяковский (1893—1930) (А. А. Михайлов)">
+		<article id="chapter_211" text="Детство и отрочество"/>
+		<article id="chapter_212" text="Маяковский и футуризм"/>
+		<article id="chapter_213" text="Драма любви, драма жизни"/>
+		<article id="chapter_214" text="Поэма «Облако в штанах»"/>
+		<article id="chapter_215" text="Революция"/>
+		<article id="chapter_216" text="«Окна сатиры»"/>
+		<article id="chapter_217" text="По личным мотивам"/>
+		<article id="chapter_218" text="«Теперь поговорим о дряни»"/>
+		<article id="chapter_219" text="Точка пули в конце"/>
+	</article>
+	<article id="chapter_220" text="Литературный процесс 1920-х годов (В. А. Чалмаев)">
+		<article id="chapter_221" text="Из хроники 1917—1919 гг."/>
+		<article id="chapter_222" text="«Мировое началось во мгле кочевье»"/>
+		<article id="chapter_223" text="Проза дневников, писем, новый вид плачей"/>
+	</article>
+	<article id="chapter_224" text="А. М. Ремизов (1877—1957)"/>
+	<article id="chapter_225" text="Д. А. Фурманов (1891—1926)"/>
+	<article id="chapter_226" text="А. С. Серафимович (1863—1949)">
+		<article id="chapter_227" text="Литературные группировки"/>
+		<article id="chapter_228" text="ЛЕФ"/>
+		<article id="chapter_229" text="«ПЕРЕВАЛ»"/>
+		<article id="chapter_230" text="КОНСТРУКТИВИЗМ, или ЛЦК"/>
+		<article id="chapter_231" text="ОБЭРИУ"/>
+	</article>
+	<article id="chapter_232" text="А. А. Фадеев (1901—1956). («Мой Дальний Восток»: Россия — издали)"/>
+	<article id="chapter_233" text="И. Э. Бабель (1894—1940) (Г. А. Белая)">
+		<article id="chapter_234" text="Начало"/>
+		<article id="chapter_235" text="Раннее творчество"/>
+		<article id="chapter_236" text="«Конармия»"/>
+		<article id="chapter_237" text="«Одесские рассказы»"/>
+		<article id="chapter_238" text="Кризис"/>
+	</article>
+	<article id="chapter_239" text="Е. И. Замятин (1884—1937) (И. О. Шайтанов)">
+		<article id="chapter_240" text="Рождение манеры"/>
+		<article id="chapter_241" text="Роман-антиутопия «Мы»"/>
+	</article>
+	<article id="chapter_242" text="М. М. Зощенко (1894—1958) (Г. А. Белая)">
+		<article id="chapter_243" text="Ранние годы"/>
+		<article id="chapter_244" text="Литературное окружение"/>
+		<article id="chapter_245" text="Зощенко-сатирик"/>
+		<article id="chapter_246" text="Зощенковский герой"/>
+		<article id="chapter_247" text="Стиль писателя"/>
+		<article id="chapter_248" text="Зощенко-моралист"/>
+	</article>
+	<article id="chapter_249" text="Краткий словарь литературоведческих терминов"/>
 </root>
