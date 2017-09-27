@@ -1,0 +1,40 @@
+DoSortList for all lists
+Kernel Time: 00:00:00:000
+User Time: 00:00:00:000
+Total Time: 00:00:00:000
+
+DoSortArticles
+Kernel Time: 00:00:00:000
+User Time: 00:00:00:000
+Total Time: 00:00:00:000
+
+AssociateListWithArticles
+Kernel Time: 00:00:00:000
+User Time: 00:00:00:000
+Total Time: 00:00:00:000
+
+AssociateAtomicObjectsWithArticles
+Kernel Time: 00:00:00:000
+User Time: 00:00:00:000
+Total Time: 00:00:00:000
+
+DoProcessLinks
+Kernel Time: 00:00:00:000
+User Time: 00:00:00:000
+Total Time: 00:00:00:000
+
+DoCompressLists
+Kernel Time: 00:00:00:000
+User Time: 00:00:00:015
+Total Time: 00:00:00:015
+
+DoCompressArticles
+Kernel Time: 00:00:00:000
+User Time: 00:00:00:062
+Total Time: 00:00:00:062
+
+DoUpdateHeader
+Kernel Time: 00:00:00:000
+User Time: 00:00:00:000
+Total Time: 00:00:00:000
+

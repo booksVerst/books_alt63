@@ -1,0 +1,39 @@
+Memory Usage
+WorkingSetSize: 2117632
+PeakWorkingSetSize: 2117632
+PagefileUsage: 565248
+PeakPagefileUsage: 565248
+
+Loading xml file by pugi parser
+Kernel Time: 00:00:00:000
+User Time: 00:00:00:000
+Total Time: 00:00:00:000
+
+Memory Usage
+WorkingSetSize: 2600960
+PeakWorkingSetSize: 2600960
+PagefileUsage: 1007616
+PeakPagefileUsage: 1007616
+
+Parsing and creating project by Compiler
+Kernel Time: 00:00:00:031
+User Time: 00:00:00:046
+Total Time: 00:00:00:077
+
+Memory Usage
+WorkingSetSize: 12812288
+PeakWorkingSetSize: 16093184
+PagefileUsage: 11505664
+PeakPagefileUsage: 14307328
+
+Postprocessing project by Compiler
+Kernel Time: 00:00:00:156
+User Time: 00:00:00:078
+Total Time: 00:00:00:234
+
+Memory Usage
+WorkingSetSize: 16003072
+PeakWorkingSetSize: 19779584
+PagefileUsage: 14229504
+PeakPagefileUsage: 18087936
+
