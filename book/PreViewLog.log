@@ -1,6 +1,11 @@
 ----------------------------------------------------------------
 Processing file Articles/articles_main.xml
 Processing file Lists/list_main.xml
+Processing file rus_fts_Headwords.xml
+Processing file rus_fts_Example.xml
+Processing file rus_fts_Example_hidden.xml
+Warning! Variants property count != Number of variants
+Warning! Variants property count != Number of variants
 Warning! Variants property count != Number of variants
 Warning! Variants property count != Number of variants
 Warning! Unused style from project file: <abstract_resource>.
@@ -322,14 +327,6 @@ Error! CArticlesCompress::FinalizeData : style name whitespace_section_header_pr
 Error! CArticlesCompress::FinalizeData : style name whitespace_section_header_laboratory is very large
 Error! CArticlesCompress::FinalizeData : style name whitespace_stage_header_practical is very large
 Error! CArticlesCompress::FinalizeData : style name whitespace_stage_header_laboratory is very large
-Error! Can't open file Data\images\glava3.png
-
-Error! Can't open file Data\images\glava2.png
-
-Error! Can't open file Data\images\max-glava-1-.png
-
-Error! Can't open file Data\images\glava1.png
-
-Error! Can't open file Data\images\glava4.png
+Error! Can't open file Data\images\max-glava-1.png
 
 Compress error (769) - SDC_READ_CANT_OPEN_FILE
