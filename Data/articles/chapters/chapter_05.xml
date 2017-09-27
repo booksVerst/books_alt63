@@ -1,0 +1,14 @@
+<chapter version="1.0" id="chapter_05">
+	<page number="17"/>
+
+	<image_block class="full-width" interactivity="no">
+	    <img url="Data\images\glava2.png" />
+	</image_block>
+
+	<image_block class="inner_left" width="40px" interactivity="no" >
+	    <img url="Data\icons\book.png"/>
+	</image_block>
+
+	<p indent="2"><sans>Прощание с XIX веком длилось сравнительно недолго, так как резкой границей между прошедшим и вновь наступившим столетиями стала Первая мировая война, разразившаяся в августе 1914&#160;г. Она разом взорвала мир, который до того пытались реформировать постепенно.</sans></p>
+
+</chapter>
