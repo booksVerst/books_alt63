@@ -282,7 +282,7 @@
 	            <p><image_block display="inline" width="60px" interactivity="no"><img url="Data\icons\star.png" /></image_block></p>
 	        </td>
 	        <td width="90%" text-valign="top">
-	            <p><sans>Подготовьте доклады к школьной научной конференции<sup>1</sup>:</sans></p>
+	            <p><sans>Подготовьте доклады к школьной научной конференции</sans><sup>1</sup><sans>:</sans></p>
 	        </td>
 	    </tr>
 	    <tr>

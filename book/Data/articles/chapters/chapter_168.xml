@@ -6,11 +6,11 @@
 	<table width="100%" border-color="ec008d" border-style="none none solid none">
 	    <tr>
 	        <td text-valign="top">
-	            <p align="right"><sans>Сатин — К. С. Станиславский. </sans><sans_i>С фотографии</sans_i></p>
+	            <p align="right"><sans>Сатин&#160;— К.&#160;С.&#160;Станиславский. </sans><sans_i>С фотографии</sans_i></p>
 	        </td>
 	    </tr>
 	</table>
-	<image_block class="inner">
+	<image_block class="inner-left" interactivity="no">
         <img url="Data\images\168_1.png"/>
     </image_block>
 

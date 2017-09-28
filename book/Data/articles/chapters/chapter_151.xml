@@ -259,7 +259,7 @@
 	        <td width="13%" text-valign="top">
 	            <p></p>
 	        </td>
-	        <td width="87%" text-valign="top">
+	        <td width="87%" text-valign="top" colspan="2">
 	        	<p align="center"><sans_i>Язык литературы</sans_i></p>
 	            <p><sans>Найдите в сборнике И.&#160;Северянина «Громокипящий кубок» неологизмы, определив их происхождение и роль в тексте.</sans></p>
 	        </td>

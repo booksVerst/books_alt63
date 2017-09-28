@@ -6,11 +6,11 @@
 	<table width="100%" border-color="ec008d" border-style="none none solid none">
 	    <tr>
 	        <td text-valign="top">
-	            <p align="right"><sans>Афиша первого представления пьесы М. Горького «На дне» в МХТе</sans></p>
+	            <p align="right"><sans>Афиша первого представления пьесы М.&#160;Горького «На дне» в МХТе</sans></p>
 	        </td>
 	    </tr>
 	</table>
-	<image_block class="inner">
+	<image_block class="inner-left" interactivity="no">
         <img url="Data\images\164_1.png"/>
     </image_block>
 

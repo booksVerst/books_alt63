@@ -10,17 +10,21 @@
 	<table width="100%" border-style="none">
 	    <tr>
 	        <td width="45%">
-	            <image_block width="300px">
-	                <img url="Data\images\170_1.png" />
-	            </image_block>
+	        	<p align="center">
+		            <image_block width="170px">
+		                <img url="Data\images\170_1.png" />
+		            </image_block>
+		        </p>
 	        </td>
 	        <td width="10%">
 	            <p>&#160;</p>
 	        </td>
 	        <td width="45%">
-	            <image_block width="300px">
-	                <img url="Data\images\170_2.png" />
-	            </image_block>
+	        	<p align="center">
+		            <image_block width="300px">
+		                <img url="Data\images\170_2.png" />
+		            </image_block>
+		        </p>
 	        </td>
 	    </tr>
 	    <tr>

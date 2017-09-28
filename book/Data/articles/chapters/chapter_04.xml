@@ -28,7 +28,7 @@
             <td width="85%" border-style="none none solid none" border-size="3px" border-color="ec008d">&#160;</td>
         </tr>
         <tr>
-            <td width="100%" border-style="none"><p align="center"><sans_i>Язык&#160;литературы</sans_i></p></td>
+            <td width="100%" border-style="none" colspan="2"><p align="center"><sans_i>Язык&#160;литературы</sans_i></p></td>
         </tr>
 	</table>
 	<table width="100%" border-style="none">

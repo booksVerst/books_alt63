@@ -11,18 +11,18 @@
 
 	<table width="100%" border-color="C7C7C7">
 	    <tr>
-	        <td width="3%" text-valign="top" border-style="solid none solid solid">
+	        <td width="3%" text-valign="top" border-style="solid none none solid">
 	            <p><pink>■</pink></p>
 	        </td>
-	        <td width="97%" text-valign="top" border-style="solid solid solid none">
+	        <td width="97%" text-valign="top" border-style="solid solid none none">
 	            <p><sans>Каковы истоки связей и различий между русской литературной классикой и художественной словесностью начала века?</sans></p>
 	        </td>
 	    </tr>
 	    <tr>
-	        <td width="3%" text-valign="top" border-style="solid none solid solid">
+	        <td width="3%" text-valign="top" border-style="none none solid solid">
 	            <p><pink>■</pink></p>
 	        </td>
-	        <td width="97%" text-valign="top" border-style="solid solid solid none">
+	        <td width="97%" text-valign="top" border-style="none solid solid none">
 	            <p><sans>Как сочетались трагические и оптимистические мотивы в литературе начала века?</sans></p>
 	        </td>
 	    </tr>

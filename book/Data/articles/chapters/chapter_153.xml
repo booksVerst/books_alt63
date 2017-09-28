@@ -10,7 +10,7 @@
 	        </td>
 	    </tr>
 	</table>
-	<image_block class="inner">
+	<image_block class="inner" interactivity="no">
         <img url="Data\images\153_1.png"/>
     </image_block>
 

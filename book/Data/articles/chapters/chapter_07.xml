@@ -20,7 +20,7 @@
 				<p margin_top="0"><sans>Учить детей в воинственном задоре</sans></p>
 				<p margin_top="0"><sans>Лжи старой: Dulce et decorum est</sans></p>
 				<p margin_top="0"><sans>Pro patria mori.</sans></p>
-	            <p indent="10" margin_top="0"><sans_i>Перевод М. Зенкевича</sans_i></p>
+	            <p indent="8" margin_top="0"><sans_i>Перевод М. Зенкевича</sans_i></p>
 	        </td>
 	    </tr>
 	</table>
@@ -37,12 +37,16 @@
 				<p><sans>Небо пошло на тряпки,</sans></p>
 				<p margin_top="0"><sans>На бойне ужаса забивают слепцов.</sans></p>
 				<p margin_top="0"><sans>«Август Штрамм».</sans></p>
-	            <p indent="10" margin_top="0"><sans_i>Перевод В. Топорова</sans_i></p>
+	            <p indent="8" margin_top="0"><sans_i>Перевод В. Топорова</sans_i></p>
 	        </td>
 	    </tr>
 	</table>
 
-	<!-- POEt -->
+	<image_block class="inner_left" interactivity="no" >
+	    <img url="Data\icons\07_1.png"/>
+	</image_block>
+
+	<p indent="2"><sans_b>Эрих Мария Ремарк</sans_b><sans> (1898—1970) попал на фронт семнадцатилетним юношей, был пять раз ранен и чудом остался жив. Его военный опыт был значительнее и страшнее, чем у других писателей «потерянного поколения», что он в полной мере использовал в своей знаменитой книге. Именно умением говорить на языке опыта и фактов Ремарк покорил читателей: они увидели в его романе не только мощный антивоенный памфлет, но и подробный, точный документ. Успех книги был беспрецедентным: за год её тираж только в одной Германии составил более миллиона экземпляров.</sans></p>
 
 	<page number="25" />
 
@@ -114,20 +118,42 @@
             <td width="15%" border-style="none none solid none" border-size="3px" border-color="ec008d"><sans_p>Проверка&#160;памяти</sans_p></td>
             <td width="85%" border-style="none none solid none" border-size="3px" border-color="ec008d">&#160;</td>
         </tr>
+	</table>
+	<table width="100%" border-style="none">
+	    <tr>
+	        <td width="13%" text-valign="top">
+	            <p><image_block display="inline" width="60px" interactivity="no"><img url="Data\icons\voskl.png" /></image_block></p>
+	        </td>
+	        <td width="87%" text-valign="top">
+	            <p><sans_i>Поэты&#8211;солдаты:</sans_i><sans> Зигфрид Сассун, Уилфред Оуэн, Август Штрамм.</sans></p>
+	        </td>
+	    </tr>
+	    <tr>
+	        <td width="13%" text-valign="top">
+	            <p></p>
+	        </td>
+	        <td width="87%" text-valign="top">
+	            <p><sans_i>Писатели «потерянного поколения»:</sans_i><sans> Эрнест Хемингуэй, Ричард Олдингтон, Уильям Фолкнер.</sans></p>
+	        </td>
+	    </tr>
+	</table>
+
+	<table width="100%">
         <tr>
-            <td width="100%" border-style="none none solid none" border-size="3px" border-color="ec008d"><p align="center">Язык литературы</p></td>
+            <td width="15%" border-style="none none solid none" border-size="3px" border-color="ec008d"><sans_p>Размышляем&#160;о&#160;прочитанном</sans_p></td>
+            <td width="85%" border-style="none none solid none" border-size="3px" border-color="ec008d">&#160;</td>
         </tr>
 	</table>
 	<table width="100%" border-style="none">
 	    <tr>
 	        <td width="10%" text-valign="top">
-	            <p><image_block display="inline" width="60px" interactivity="no"><img url="Data\icons\povtor.png" /></image_block></p>
+	            <p><image_block display="inline" width="60px" interactivity="no"><img url="Data\icons\voskl.png" /></image_block></p>
 	        </td>
 	        <td width="3%" text-valign="top">
-	            <p ><pink>1.</pink></p>
+	            <p><pink>1.</pink></p>
 	        </td>
 	        <td width="87%" text-valign="top">
-	            <p>Какие произведения, изученные вами ранее, запомнились своим удивительным и своеобразным художественным языком?</p>
+	            <p><sans>Как роман Ремарка обманывает читательские ожидания? С какой целью??</sans></p>
 	        </td>
 	    </tr>
 	    <tr>
@@ -135,10 +161,10 @@
 	            <p></p>
 	        </td>
 	        <td width="3%" text-valign="top">
-	            <p ><pink>2.</pink></p>
+	            <p><pink>2.</pink></p>
 	        </td>
 	        <td width="87%" text-valign="top">
-	            <p>Что вы можете сказать об индивидуальном стиле писателейклассиков ХIХ&#160;в.? Ответ аргументируйте конкретными примерами.</p>
+	            <p><sans>Найдите в тексте романа примеры остранения. Какие другие приёмы используются писателем? С какой целью?</sans></p>
 	        </td>
 	    </tr>
 	    <tr>
@@ -146,10 +172,27 @@
 	            <p></p>
 	        </td>
 	        <td width="3%" text-valign="top">
-	            <p ><pink>3.</pink></p>
+	            <p><pink>3.</pink></p>
 	        </td>
 	        <td width="87%" text-valign="top">
-	            <p>Кого из писателей XIX—XX&#160;вв. вы можете назвать автором языковых новшеств? Приведите примеры авторских неологизмов.</p>
+	            <p><sans>Какие ценности Л.&#160;Гинзбург противопоставляет пессимизму «потерянного поколения»?</sans></p>
+	        </td>
+	    </tr>
+	</table>
+
+	<table width="100%">
+        <tr>
+            <td width="15%" border-style="none none solid none" border-size="3px" border-color="ec008d"><sans_p>Творческое&#160;задание</sans_p></td>
+            <td width="85%" border-style="none none solid none" border-size="3px" border-color="ec008d">&#160;</td>
+        </tr>
+	</table>
+	<table width="100%" border-style="none">
+	    <tr>
+	        <td width="13%" text-valign="top">
+	            <p><image_block display="inline" width="60px" interactivity="no"><img url="Data\icons\flower.png" /></image_block></p>
+	        </td>
+	        <td width="87%" text-valign="top">
+	            <p><sans>Найдите в тексте статьи тот фрагмент из романа Ремарка, в котором описывается курение сигарет. Какую русскую песню о солдатах Великой Отечественной войны напоминают вам эти слова? Почему сигарета становится символом жизни и фронтового братства?</sans></p>
 	        </td>
 	    </tr>
 	</table>
