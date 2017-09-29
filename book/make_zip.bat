@@ -20,7 +20,7 @@ for %%f in (*.sproj) do (
 	call "../Parser/Engine/Compiler.exe" "%%f"
 )
 
-call "../Parser/Parser/Utilities/7zip/7za.exe" a -tzip -ssw -mx5 -r0 -x@"../Parser/Parser/Utilities/7zip/exclusions.txt" 00000278.zip
+call "../Parser/Parser/Utilities/7zip/7za.exe" a -tzip -ssw -mx5 -r0 -x@"../Parser/Parser/Utilities/7zip/exclusions.txt" 0000035D.zip
 
 rem clean trash, needed for build only
 call clean.bat
