@@ -6,7 +6,7 @@
 	    <tr>
 	        <td width="45%">
 	        	<p align="center">
-		        	<image_block width="350px">
+		        	<image_block width="350px" interactivity="yes">
 						<img url="Data\images\max-14.png" />
 					</image_block>
 				</p>
@@ -16,7 +16,7 @@
 	        </td>
 	        <td width="45%" text-valign="bottom">
 	        	<p align="center">
-		        	<image_block width="350px">
+		        	<image_block width="350px" interactivity="yes">
 						<img url="Data\images\max-15.png" />
 					</image_block>
 				</p>
@@ -56,7 +56,7 @@
 	    <tr>
 	        <td width="45%">
 	        	<p align="center">
-		        	<image_block width="350px">
+		        	<image_block width="350px" interactivity="yes">
 						<img url="Data\images\max-16.png" />
 					</image_block>
 				</p>
@@ -64,9 +64,9 @@
 	        <td width="10%">
 	        	<p>&#160;</p>
 	        </td>
-	        <td width="45%">
+	        <td width="45%" text-valign="bottom">
 	        	<p align="center">
-		        	<image_block width="350px">
+		        	<image_block width="350px" interactivity="yes">
 						<img url="Data\images\max-17.png" />
 					</image_block>
 				</p>

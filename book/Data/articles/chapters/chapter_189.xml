@@ -22,7 +22,7 @@
 	    <tr>
 	        <td width="45%">
 	        	<p align="center">
-		        	<image_block width="300px">
+		        	<image_block width="350px" interactivity="yes">
 						<img url="Data\images\max-8.png" />
 					</image_block>
 				</p>
@@ -32,7 +32,7 @@
 	        </td>
 	        <td width="45%">
 	        	<p align="center">
-		        	<image_block width="300px">
+		        	<image_block width="350px" interactivity="yes">
 						<img url="Data\images\max-9.png" />
 					</image_block>
 				</p>
@@ -62,7 +62,7 @@
 	    <tr>
 	        <td width="45%">
 	        	<p align="center">
-		        	<image_block width="300px">
+		        	<image_block width="300px" interactivity="yes">
 						<img url="Data\images\max-10.png" />
 					</image_block>
 				</p>
@@ -72,7 +72,7 @@
 	        </td>
 	        <td width="45%">
 	        	<p align="center">
-		        	<image_block width="300px">
+		        	<image_block width="300px" interactivity="yes">
 						<img url="Data\images\max-11.png" />
 					</image_block>
 				</p>
@@ -103,7 +103,7 @@
 	    <tr>
 	        <td width="45%">
 	        	<p align="center">
-		        	<image_block width="350px">
+		        	<image_block width="350px" interactivity="yes">
 						<img url="Data\images\max-12.png" />
 					</image_block>
 				</p>
@@ -113,7 +113,7 @@
 	        </td>
 		    <td width="45%">
 		    	<p align="center">
-		        	<image_block width="350px">
+		        	<image_block width="350px" interactivity="yes">
 						<img url="Data\images\max-13.png" />
 					</image_block>
 				</p>
