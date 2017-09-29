@@ -228,7 +228,7 @@
 
 	<table width="100%">
         <tr>
-            <td width="15%" border-style="none none solid none" border-size="3px" border-color="ec008d"><sans_p>Темы&#160;сочинений<sup>1</sup></sans_p></td>
+            <td width="15%" border-style="none none solid none" border-size="3px" border-color="ec008d"><sans_p>Темы&#160;сочинений</sans_p></td>
             <td width="85%" border-style="none none solid none" border-size="3px" border-color="ec008d">&#160;</td>
         </tr>
 	</table>
@@ -281,8 +281,11 @@
 	        <td width="10%" text-valign="top">
 	            <p><image_block display="inline" width="60px" interactivity="no"><img url="Data\icons\star.png" /></image_block></p>
 	        </td>
-	        <td width="90%" text-valign="top">
-	            <p><sans>Подготовьте доклады к школьной научной конференции</sans><sup>1</sup><sans>:</sans></p>
+	        <td width="3%" text-valign="top">
+	            <p></p>
+	        </td>
+	        <td width="87%" text-valign="top" colspan="2">
+	            <p><sans>Подготовьте доклады к школьной научной конференции</sans><footnote><brief><sup_sans>1</sup_sans></brief><sans>Как подготовиться к докладу, см. учебник А.&#160;И.&#160;Власенкова, Л.&#160;М.&#160;Рыбченковой «Русский язык и литература. Русский язык. 10—11 классы». Базовый уровень.&#160;— М., 2014.&#160;— С.&#160;162—164.</sans></footnote><sans>:</sans></p>
 	        </td>
 	    </tr>
 	    <tr>

@@ -712,6 +712,17 @@
 		<FontName>Times New Roman</FontName>
 </Style>
 
+	<Style>
+		<Tag>sup_sans_p</Tag>
+		<Level>Sup</Level>
+	    <Italic>ON</Italic>
+		<Size>8</Size>
+	    <TextType>Normal</TextType>
+	    <Language>russ</Language>
+	    <Color Red="237" Green="2" Blue="140" />
+	    <FontName>Helvetica Neue</FontName>
+	</Style>
+
 <Style>
 		<Tag>h_i</Tag>
 		<TextType>Normal</TextType>
@@ -731,13 +742,13 @@
 		<FontName>Helvetica Neue</FontName>
 	</Style>
 	<Style>
-    <Tag>sans_p</Tag>
-    <Size>12</Size>
-    <Italic>ON</Italic>
-    <TextType>Normal</TextType>
-    <Language>russ</Language>
-    <Color Red="237" Green="2" Blue="140" />
-    <FontName>Helvetica Neue</FontName>
+	    <Tag>sans_p</Tag>
+	    <Size>12</Size>
+	    <Italic>ON</Italic>
+	    <TextType>Normal</TextType>
+	    <Language>russ</Language>
+	    <Color Red="237" Green="2" Blue="140" />
+	    <FontName>Helvetica Neue</FontName>
     </Style>
 <Style>
     <Tag>sans_pb</Tag>
