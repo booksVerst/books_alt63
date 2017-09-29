@@ -4,7 +4,7 @@
 	<table width="100%" border-style="none">
 	    <tr>
 	        <td width="45%" text-valign="bottom">
-	        	<p align="center"><image_block height="500px">
+	        	<p align="center"><image_block height="400px">
 	        						<img url="Data\images\max-4.png" />
 	        					</image_block></p>
 	        </td>
@@ -12,7 +12,7 @@
 	        	<p>&#160;</p>
 	        </td>
 	        <td width="45%" text-valign="bottom">
-	        	<p align="center"><image_block height="500px">
+	        	<p align="center"><image_block height="400px">
 	        						<img url="Data\images\max-5.png" />
 	        					</image_block></p>
 	        </td>
@@ -39,7 +39,7 @@
 				<p><sans>Вот&#160;— свершилось.</sans></p>
 				<p margin_top="0"><sans>Весь мир одичал, и окрест</sans></p>
 				<p margin_top="0"><sans>Ни один не мерцает маяк.</sans></p>
-				<p margin_top="0" indent="-6"><sans_i>(«Ты твердишь, что я холоден, замкнут и сух...»)</sans_i></p>
+				<p margin_top="0"><sans_i>(«Ты твердишь, что я холоден, замкнут и сух...»)</sans_i></p>
 				<p><sans>А вблизи&#160;— всё пусто и немо,</sans></p>
 				<p margin_top="0"><sans>В смертном сне&#160;— враги и друзья.</sans></p>
 				<p margin_top="0"><sans_i>(«Я не предал белое знамя...»)</sans_i></p>
@@ -67,17 +67,21 @@
 	<table width="100%" border-style="none">
 	    <tr>
 	        <td width="45%">
-	        	<image_block width="300px">
-					<img url="Data\images\max-6.png" />
-				</image_block>
+	        	<p align="center">
+	        		<image_block width="300px">
+						<img url="Data\images\max-6.png" />
+					</image_block>
+				</p>
 	        </td>
 	        <td width="10%">
 	        	<p>&#160;</p>
 	        </td>
 	        <td width="45%">
-	        	<image_block width="300px">
-					<img url="Data\images\max-7.png" />
-				</image_block>
+	        	<p align="center">
+		        	<image_block width="300px">
+						<img url="Data\images\max-7.png" />
+					</image_block>
+				</p>
 	        </td>
 	    </tr>
 	    <tr>

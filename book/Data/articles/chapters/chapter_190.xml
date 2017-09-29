@@ -5,17 +5,21 @@
 	<table width="100%" border-style="none">
 	    <tr>
 	        <td width="45%">
-	        	<image_block width="300px">
-					<img url="Data\images\max-14.png" />
-				</image_block>
+	        	<p align="center">
+		        	<image_block width="350px">
+						<img url="Data\images\max-14.png" />
+					</image_block>
+				</p>
 	        </td>
 	        <td width="10%">
 	        	<p>&#160;</p>
 	        </td>
 	        <td width="45%">
-	        	<image_block width="300px">
-					<img url="Data\images\max-15.png" />
-				</image_block>
+	        	<p align="center">
+		        	<image_block width="350px">
+						<img url="Data\images\max-15.png" />
+					</image_block>
+				</p>
 	        </td>
 	    </tr>
 	    <tr>
@@ -51,17 +55,21 @@
 	<table width="100%" border-style="none">
 	    <tr>
 	        <td width="45%">
-	        	<image_block width="300px">
-					<img url="Data\images\max-16.png" />
-				</image_block>
+	        	<p align="center">
+		        	<image_block width="350px">
+						<img url="Data\images\max-16.png" />
+					</image_block>
+				</p>
 	        </td>
 	        <td width="10%">
 	        	<p>&#160;</p>
 	        </td>
 	        <td width="45%">
-	        	<image_block width="300px">
-					<img url="Data\images\max-17.png" />
-				</image_block>
+	        	<p align="center">
+		        	<image_block width="350px">
+						<img url="Data\images\max-17.png" />
+					</image_block>
+				</p>
 	        </td>
 	    </tr>
 	    <tr>
@@ -335,7 +343,7 @@
 	<table width="100%" border-style="none">
 	    <tr>
 	        <td width="10%" text-valign="top">
-	            <p><image_block display="inline" width="60px" interactivity="no"><img url="Data\icons\check.png" /></image_block></p>
+	            <p><image_block display="inline" width="60px" interactivity="no"><img url="Data\icons\star.png" /></image_block></p>
 	        </td>
 	        <td width="3%" text-valign="top">
 	            <p></p>
