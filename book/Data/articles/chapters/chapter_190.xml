@@ -14,7 +14,7 @@
 	        <td width="10%">
 	        	<p>&#160;</p>
 	        </td>
-	        <td width="45%">
+	        <td width="45%" text-valign="bottom">
 	        	<p align="center">
 		        	<image_block width="350px">
 						<img url="Data\images\max-15.png" />

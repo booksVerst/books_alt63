@@ -116,7 +116,7 @@
 	<table width="100%" border-style="none">
 	    <tr>
 	        <td width="10%" text-valign="top">
-	            <p><image_block display="inline" width="60px" interactivity="no"><img url="Data\icons\flower.png" /></image_block></p>
+	            <p><image_block display="inline" width="60px" interactivity="no"><img url="Data\icons\star.png" /></image_block></p>
 	        </td>
 	        <td width="3%" text-valign="top">
 	            <p></p>
@@ -136,7 +136,7 @@
 	<table width="100%" border-style="none">
 	    <tr>
 	        <td width="10%" text-valign="top">
-	            <p><image_block display="inline" width="60px" interactivity="no"><img url="Data\icons\flower.png" /></image_block></p>
+	            <p><image_block display="inline" width="60px" interactivity="no"><img url="Data\icons\lupa.png" /></image_block></p>
 	        </td>
 	        <td width="3%" text-valign="top">
 	            <p><pink>■&#160;</pink></p>

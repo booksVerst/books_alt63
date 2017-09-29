@@ -99,7 +99,7 @@
 	<table width="100%" border-style="none">
 	    <tr>
 	        <td width="10%" text-valign="top">
-	            <p><image_block display="inline" width="60px" interactivity="no"><img url="Data\icons\flower.png" /></image_block></p>
+	            <p><image_block display="inline" width="60px" interactivity="no"><img url="Data\icons\lupa.png" /></image_block></p>
 	        </td>
 	        <td width="3%" text-valign="top">
 	            <p><pink>1.</pink></p>
@@ -117,36 +117,6 @@
 	        </td>
 	        <td width="87%" text-valign="top">
 	            <p><sans>Образ «маленького человека» в сатирических рассказах Зощенко.</sans></p>
-	        </td>
-	    </tr>
-	</table>
-	<table width="100%">
-	        <tr>
-	            <td width="15%" border-style="none none solid none" border-size="3px" border-color="ec008d"><sans_p>Советуем&#160;прочитать</sans_p></td>
-	            <td width="85%" border-style="none none solid none" border-size="3px" border-color="ec008d">&#160;</td>
-	        </tr>
-	</table>
-	<table width="100%" border-style="none">
-	    <tr>
-	        <td width="10%" text-valign="top">
-	            <p><image_block display="inline" width="60px" interactivity="no"><img url="Data\icons\flower.png" /></image_block></p>
-	        </td>
-	        <td width="3%" text-valign="top">
-	            <p><pink>1.</pink></p>
-	        </td>
-	        <td width="87%" text-valign="top">
-	            <p></p>
-	        </td>
-	    </tr>
-	    <tr>
-	        <td width="10%" text-valign="top">
-	            <p></p>
-	        </td>
-	        <td width="3%" text-valign="top">
-	            <p><pink>2.</pink></p>
-	        </td>
-	        <td width="87%" text-valign="top">
-	            <p></p>
 	        </td>
 	    </tr>
 	</table>

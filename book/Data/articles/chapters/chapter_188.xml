@@ -4,17 +4,21 @@
 	<table width="100%" border-style="none">
 	    <tr>
 	        <td width="45%" text-valign="bottom">
-	        	<p align="center"><image_block height="400px">
-	        						<img url="Data\images\max-4.png" />
-	        					</image_block></p>
+	        	<p align="center">
+	        		<image_block width="350px">
+						<img url="Data\images\max-4.png" />
+					</image_block>
+				</p>
 	        </td>
 	        <td width="10%">
 	        	<p>&#160;</p>
 	        </td>
 	        <td width="45%" text-valign="bottom">
-	        	<p align="center"><image_block height="400px">
-	        						<img url="Data\images\max-5.png" />
-	        					</image_block></p>
+	        	<p align="center">
+	        		<image_block width="350px">
+						<img url="Data\images\max-5.png" />
+					</image_block>
+				</p>
 	        </td>
 	    </tr>
 	    <tr>
