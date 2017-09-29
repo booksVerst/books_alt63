@@ -25,7 +25,7 @@
 	            <p></p>
 	        </td>
 	        <td width="70%" text-valign="top">
-				<p><sans>Я — Бог таинственного мира,</sans></p>
+				<p><sans>Я&#8211;— Бог таинственного мира,</sans></p>
 				<p margin_top="0"><sans>Весь мир в одних моих мечтах.</sans></p>
 	        </td>
 	    </tr>
@@ -40,7 +40,7 @@
 	        </td>
 	        <td width="70%" text-valign="top">
 				<p><sans>И я заклятием молчанья</sans></p>
-				<p margin_top="0"><sans>Воззвал к природе, — и она</sans></p>
+				<p margin_top="0"><sans>Воззвал к природе,&#8211;— и она</sans></p>
 				<p margin_top="0"><sans>Очарованью заклинанья</sans></p>
 				<p margin_top="0"><sans>Была на миг покорена.</sans></p>
 	        </td>

@@ -11,7 +11,7 @@
 	    <tr>
 	        <td width="45%">
 	        	<p align="center">
-		            <image_block width="170px">
+		            <image_block width="170px" interactivity="yes">
 		                <img url="Data\images\170_1.png" />
 		            </image_block>
 		        </p>
@@ -21,7 +21,7 @@
 	        </td>
 	        <td width="45%">
 	        	<p align="center">
-		            <image_block width="300px">
+		            <image_block width="300px" interactivity="yes">
 		                <img url="Data\images\170_2.png" />
 		            </image_block>
 		        </p>
